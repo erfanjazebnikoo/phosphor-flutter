@@ -2,33 +2,29 @@ library phosphor_flutter;
 
 import 'package:flutter/widgets.dart';
 
-// IconData became a `final class` in Flutter 3.44 / Dart 3.12, preventing
-// subclassing outside its library. Extension types implement final classes
-// and preserve the full IconData API at zero runtime cost.
+// IconData became a `final class` in Flutter 3.44 / Dart 3.12, so it can no
+// longer be subclassed. Icon data is now expressed as plain const IconData.
 
-extension type const PhosphorIconData._(IconData _icon) implements IconData {
-  const PhosphorIconData(int codePoint, String style)
-      : this._(IconData(
-          codePoint,
-          fontFamily: 'Phosphor$style',
-          fontPackage: 'phosphor_flutter',
-          matchTextDirection: true,
-        ));
-}
+// Backward-compat alias used by the generated PhosphorIcons base class.
+typedef PhosphorIconData = Object;
 
-// PhosphorFlatIconData is structurally identical to PhosphorIconData.
-typedef PhosphorFlatIconData = PhosphorIconData;
-
-// PhosphorDuotoneIconData can no longer extend IconData (final class), so it
-// is a plain const class. PhosphorIcon handles it via an explicit type check.
+// PhosphorDuotoneIconData can no longer extend IconData; it is a const class
+// holding both codepoints. PhosphorIcon renders it as a two-layer Stack.
 class PhosphorDuotoneIconData {
-  const PhosphorDuotoneIconData(this.codePoint, this.secondary);
+  const PhosphorDuotoneIconData(this.codePoint, this.secondaryCodePoint);
 
   final int codePoint;
-  final PhosphorIconData secondary;
+  final int secondaryCodePoint;
 
   IconData get primary => IconData(
         codePoint,
+        fontFamily: 'PhosphorDuotone',
+        fontPackage: 'phosphor_flutter',
+        matchTextDirection: true,
+      );
+
+  IconData get secondary => IconData(
+        secondaryCodePoint,
         fontFamily: 'PhosphorDuotone',
         fontPackage: 'phosphor_flutter',
         matchTextDirection: true,

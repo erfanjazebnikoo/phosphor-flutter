@@ -33,7 +33,7 @@ class PhosphorIcon extends StatelessWidget {
   final double duotoneSecondaryOpacity;
   final Color? duotoneSecondaryColor;
 
-  Icon _icon(IconData iconData, {Color? colorOverride}) => Icon(
+  Icon _buildIcon(IconData iconData, {Color? colorOverride}) => Icon(
         iconData,
         size: size,
         fill: fill,
@@ -49,19 +49,19 @@ class PhosphorIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     if (icon is PhosphorDuotoneIconData) {
-      final duotoneIcon = icon as PhosphorDuotoneIconData;
+      final d = icon as PhosphorDuotoneIconData;
       return Stack(
         alignment: Alignment.center,
         children: [
           Opacity(
             opacity: duotoneSecondaryOpacity,
-            child: _icon(duotoneIcon.secondary,
+            child: _buildIcon(d.secondary,
                 colorOverride: duotoneSecondaryColor ?? color),
           ),
-          _icon(duotoneIcon.primary),
+          _buildIcon(d.primary),
         ],
       );
     }
-    return _icon(icon as IconData);
+    return _buildIcon(icon as IconData);
   }
 }
