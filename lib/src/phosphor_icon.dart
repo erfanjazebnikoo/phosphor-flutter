@@ -1,7 +1,6 @@
 library phosphor_flutter;
 
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
 
 class PhosphorIcon extends StatelessWidget {
   const PhosphorIcon(
@@ -20,7 +19,7 @@ class PhosphorIcon extends StatelessWidget {
     this.duotoneSecondaryColor,
   });
 
-  final Object? icon;
+  final IconData? icon;
   final double? size;
   final double? fill;
   final double? weight;
@@ -48,20 +47,33 @@ class PhosphorIcon extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    if (icon is PhosphorDuotoneIconData) {
-      final d = icon as PhosphorDuotoneIconData;
+    final iconData = icon;
+    if (iconData == null) return const SizedBox.shrink();
+
+    if (iconData.fontFamily == 'PhosphorDuotone') {
+      final primaryCode = iconData.codePoint & 0xFFFF;
+      final secondaryCode = (iconData.codePoint >> 16) & 0xFFFF;
+      final primary = IconData(primaryCode,
+          fontFamily: 'PhosphorDuotone',
+          fontPackage: 'phosphor_flutter',
+          matchTextDirection: true);
+      final secondary = IconData(secondaryCode,
+          fontFamily: 'PhosphorDuotone',
+          fontPackage: 'phosphor_flutter',
+          matchTextDirection: true);
       return Stack(
         alignment: Alignment.center,
         children: [
           Opacity(
             opacity: duotoneSecondaryOpacity,
-            child: _buildIcon(d.secondary,
+            child: _buildIcon(secondary,
                 colorOverride: duotoneSecondaryColor ?? color),
           ),
-          _buildIcon(d.primary),
+          _buildIcon(primary),
         ],
       );
     }
-    return _buildIcon(icon as IconData);
+
+    return _buildIcon(iconData);
   }
 }

@@ -2,4545 +2,4544 @@
 // DON'T EDIT BY HAND
 
 import 'package:flutter/widgets.dart';
-import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
 
 @staticIconProvider
 class PhosphorIconsDuotone {
   const PhosphorIconsDuotone();
 
   /// ![acorn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/acorn-duotone.svg)
-  static const acorn = PhosphorDuotoneIconData(0xeb9b, 0xeb9a);
+  static const acorn = IconData(0xeb9aeb9b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![address-book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-duotone.svg)
-  static const addressBook = PhosphorDuotoneIconData(0xe6f9, 0xe6f8);
+  static const addressBook = IconData(0xe6f8e6f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![address-book-tabs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-tabs-duotone.svg)
-  static const addressBookTabs = PhosphorDuotoneIconData(0xee4f, 0xee4e);
+  static const addressBookTabs = IconData(0xee4eee4f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![air-traffic-control-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/air-traffic-control-duotone.svg)
-  static const airTrafficControl = PhosphorDuotoneIconData(0xecd9, 0xecd8);
+  static const airTrafficControl = IconData(0xecd8ecd9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![airplane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-duotone.svg)
-  static const airplane = PhosphorDuotoneIconData(0xe003, 0xe002);
+  static const airplane = IconData(0xe002e003, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![airplane-in-flight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-in-flight-duotone.svg)
-  static const airplaneInFlight = PhosphorDuotoneIconData(0xe4ff, 0xe4fe);
+  static const airplaneInFlight = IconData(0xe4fee4ff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![airplane-landing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-landing-duotone.svg)
-  static const airplaneLanding = PhosphorDuotoneIconData(0xe503, 0xe502);
+  static const airplaneLanding = IconData(0xe502e503, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![airplane-takeoff-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-takeoff-duotone.svg)
-  static const airplaneTakeoff = PhosphorDuotoneIconData(0xe505, 0xe504);
+  static const airplaneTakeoff = IconData(0xe504e505, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![airplane-taxiing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-taxiing-duotone.svg)
-  static const airplaneTaxiing = PhosphorDuotoneIconData(0xe501, 0xe500);
+  static const airplaneTaxiing = IconData(0xe500e501, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![airplane-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-tilt-duotone.svg)
-  static const airplaneTilt = PhosphorDuotoneIconData(0xe5d7, 0xe5d6);
+  static const airplaneTilt = IconData(0xe5d6e5d7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![airplay-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplay-duotone.svg)
-  static const airplay = PhosphorDuotoneIconData(0xe005, 0xe004);
+  static const airplay = IconData(0xe004e005, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![alarm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alarm-duotone.svg)
-  static const alarm = PhosphorDuotoneIconData(0xe007, 0xe006);
+  static const alarm = IconData(0xe006e007, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![alien-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alien-duotone.svg)
-  static const alien = PhosphorDuotoneIconData(0xe8a7, 0xe8a6);
+  static const alien = IconData(0xe8a6e8a7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-duotone.svg)
-  static const alignBottom = PhosphorDuotoneIconData(0xe507, 0xe506);
+  static const alignBottom = IconData(0xe506e507, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-bottom-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-simple-duotone.svg)
-  static const alignBottomSimple = PhosphorDuotoneIconData(0xeb0d, 0xeb0c);
+  static const alignBottomSimple = IconData(0xeb0ceb0d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-center-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-duotone.svg)
-  static const alignCenterHorizontal = PhosphorDuotoneIconData(0xe50b, 0xe50a);
+  static const alignCenterHorizontal = IconData(0xe50ae50b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-center-horizontal-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-simple-duotone.svg)
-  static const alignCenterHorizontalSimple = PhosphorDuotoneIconData(0xeb0f, 0xeb0e);
+  static const alignCenterHorizontalSimple = IconData(0xeb0eeb0f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-center-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-duotone.svg)
-  static const alignCenterVertical = PhosphorDuotoneIconData(0xe50d, 0xe50c);
+  static const alignCenterVertical = IconData(0xe50ce50d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-center-vertical-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-simple-duotone.svg)
-  static const alignCenterVerticalSimple = PhosphorDuotoneIconData(0xeb11, 0xeb10);
+  static const alignCenterVerticalSimple = IconData(0xeb10eb11, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-duotone.svg)
-  static const alignLeft = PhosphorDuotoneIconData(0xe50f, 0xe50e);
+  static const alignLeft = IconData(0xe50ee50f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-left-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-simple-duotone.svg)
-  static const alignLeftSimple = PhosphorDuotoneIconData(0xeaef, 0xeaee);
+  static const alignLeftSimple = IconData(0xeaeeeaef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-duotone.svg)
-  static const alignRight = PhosphorDuotoneIconData(0xe511, 0xe510);
+  static const alignRight = IconData(0xe510e511, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-right-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-simple-duotone.svg)
-  static const alignRightSimple = PhosphorDuotoneIconData(0xeb13, 0xeb12);
+  static const alignRightSimple = IconData(0xeb12eb13, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-top-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-duotone.svg)
-  static const alignTop = PhosphorDuotoneIconData(0xe513, 0xe512);
+  static const alignTop = IconData(0xe512e513, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![align-top-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-simple-duotone.svg)
-  static const alignTopSimple = PhosphorDuotoneIconData(0xeb15, 0xeb14);
+  static const alignTopSimple = IconData(0xeb14eb15, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![amazon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/amazon-logo-duotone.svg)
-  static const amazonLogo = PhosphorDuotoneIconData(0xe96d, 0xe96c);
+  static const amazonLogo = IconData(0xe96ce96d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ambulance-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ambulance-duotone.svg)
-  static const ambulance = PhosphorDuotoneIconData(0xe573, 0xe572);
+  static const ambulance = IconData(0xe572e573, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![anchor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-duotone.svg)
-  static const anchor = PhosphorDuotoneIconData(0xe515, 0xe514);
+  static const anchor = IconData(0xe514e515, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![anchor-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-simple-duotone.svg)
-  static const anchorSimple = PhosphorDuotoneIconData(0xe5d9, 0xe5d8);
+  static const anchorSimple = IconData(0xe5d8e5d9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![android-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/android-logo-duotone.svg)
-  static const androidLogo = PhosphorDuotoneIconData(0xe009, 0xe008);
+  static const androidLogo = IconData(0xe008e009, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![angle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angle-duotone.svg)
-  static const angle = PhosphorDuotoneIconData(0xe7bd, 0xe7bc);
+  static const angle = IconData(0xe7bce7bd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![angular-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angular-logo-duotone.svg)
-  static const angularLogo = PhosphorDuotoneIconData(0xeb81, 0xeb80);
+  static const angularLogo = IconData(0xeb80eb81, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![aperture-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/aperture-duotone.svg)
-  static const aperture = PhosphorDuotoneIconData(0xe00b, 0xe00a);
+  static const aperture = IconData(0xe00ae00b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![app-store-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-store-logo-duotone.svg)
-  static const appStoreLogo = PhosphorDuotoneIconData(0xe975, 0xe974);
+  static const appStoreLogo = IconData(0xe974e975, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![app-window-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-window-duotone.svg)
-  static const appWindow = PhosphorDuotoneIconData(0xe5db, 0xe5da);
+  static const appWindow = IconData(0xe5dae5db, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![apple-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-logo-duotone.svg)
-  static const appleLogo = PhosphorDuotoneIconData(0xe517, 0xe516);
+  static const appleLogo = IconData(0xe516e517, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![apple-podcasts-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-podcasts-logo-duotone.svg)
-  static const applePodcastsLogo = PhosphorDuotoneIconData(0xeb97, 0xeb96);
+  static const applePodcastsLogo = IconData(0xeb96eb97, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![approximate-equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/approximate-equals-duotone.svg)
-  static const approximateEquals = PhosphorDuotoneIconData(0xedab, 0xedaa);
+  static const approximateEquals = IconData(0xedaaedab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![archive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/archive-duotone.svg)
-  static const archive = PhosphorDuotoneIconData(0xe00d, 0xe00c);
+  static const archive = IconData(0xe00ce00d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![armchair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/armchair-duotone.svg)
-  static const armchair = PhosphorDuotoneIconData(0xe013, 0xe012);
+  static const armchair = IconData(0xe012e013, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-arc-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-left-duotone.svg)
-  static const arrowArcLeft = PhosphorDuotoneIconData(0xe015, 0xe014);
+  static const arrowArcLeft = IconData(0xe014e015, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-arc-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-right-duotone.svg)
-  static const arrowArcRight = PhosphorDuotoneIconData(0xe017, 0xe016);
+  static const arrowArcRight = IconData(0xe016e017, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-double-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-left-duotone.svg)
-  static const arrowBendDoubleUpLeft = PhosphorDuotoneIconData(0xe03b, 0xe03a);
+  static const arrowBendDoubleUpLeft = IconData(0xe03ae03b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-double-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-right-duotone.svg)
-  static const arrowBendDoubleUpRight = PhosphorDuotoneIconData(0xe03d, 0xe03c);
+  static const arrowBendDoubleUpRight = IconData(0xe03ce03d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-left-duotone.svg)
-  static const arrowBendDownLeft = PhosphorDuotoneIconData(0xe019, 0xe018);
+  static const arrowBendDownLeft = IconData(0xe018e019, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-right-duotone.svg)
-  static const arrowBendDownRight = PhosphorDuotoneIconData(0xe01b, 0xe01a);
+  static const arrowBendDownRight = IconData(0xe01ae01b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-down-duotone.svg)
-  static const arrowBendLeftDown = PhosphorDuotoneIconData(0xe01d, 0xe01c);
+  static const arrowBendLeftDown = IconData(0xe01ce01d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-up-duotone.svg)
-  static const arrowBendLeftUp = PhosphorDuotoneIconData(0xe01f, 0xe01e);
+  static const arrowBendLeftUp = IconData(0xe01ee01f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-down-duotone.svg)
-  static const arrowBendRightDown = PhosphorDuotoneIconData(0xe021, 0xe020);
+  static const arrowBendRightDown = IconData(0xe020e021, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-up-duotone.svg)
-  static const arrowBendRightUp = PhosphorDuotoneIconData(0xe023, 0xe022);
+  static const arrowBendRightUp = IconData(0xe022e023, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-left-duotone.svg)
-  static const arrowBendUpLeft = PhosphorDuotoneIconData(0xe025, 0xe024);
+  static const arrowBendUpLeft = IconData(0xe024e025, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-bend-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-right-duotone.svg)
-  static const arrowBendUpRight = PhosphorDuotoneIconData(0xe027, 0xe026);
+  static const arrowBendUpRight = IconData(0xe026e027, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-circle-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-duotone.svg)
-  static const arrowCircleDown = PhosphorDuotoneIconData(0xe029, 0xe028);
+  static const arrowCircleDown = IconData(0xe028e029, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-circle-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-left-duotone.svg)
-  static const arrowCircleDownLeft = PhosphorDuotoneIconData(0xe02b, 0xe02a);
+  static const arrowCircleDownLeft = IconData(0xe02ae02b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-circle-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-right-duotone.svg)
-  static const arrowCircleDownRight = PhosphorDuotoneIconData(0xe02d, 0xe02c);
+  static const arrowCircleDownRight = IconData(0xe02ce02d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-circle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-left-duotone.svg)
-  static const arrowCircleLeft = PhosphorDuotoneIconData(0xe05b, 0xe05a);
+  static const arrowCircleLeft = IconData(0xe05ae05b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-circle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-right-duotone.svg)
-  static const arrowCircleRight = PhosphorDuotoneIconData(0xe02f, 0xe02e);
+  static const arrowCircleRight = IconData(0xe02ee02f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-circle-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-duotone.svg)
-  static const arrowCircleUp = PhosphorDuotoneIconData(0xe031, 0xe030);
+  static const arrowCircleUp = IconData(0xe030e031, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-circle-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-left-duotone.svg)
-  static const arrowCircleUpLeft = PhosphorDuotoneIconData(0xe033, 0xe032);
+  static const arrowCircleUpLeft = IconData(0xe032e033, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-circle-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-right-duotone.svg)
-  static const arrowCircleUpRight = PhosphorDuotoneIconData(0xe035, 0xe034);
+  static const arrowCircleUpRight = IconData(0xe034e035, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-clockwise-duotone.svg)
-  static const arrowClockwise = PhosphorDuotoneIconData(0xe037, 0xe036);
+  static const arrowClockwise = IconData(0xe036e037, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-counter-clockwise-duotone.svg)
-  static const arrowCounterClockwise = PhosphorDuotoneIconData(0xe039, 0xe038);
+  static const arrowCounterClockwise = IconData(0xe038e039, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-duotone.svg)
-  static const arrowDown = PhosphorDuotoneIconData(0xe03f, 0xe03e);
+  static const arrowDown = IconData(0xe03ee03f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-left-duotone.svg)
-  static const arrowDownLeft = PhosphorDuotoneIconData(0xe041, 0xe040);
+  static const arrowDownLeft = IconData(0xe040e041, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-right-duotone.svg)
-  static const arrowDownRight = PhosphorDuotoneIconData(0xe043, 0xe042);
+  static const arrowDownRight = IconData(0xe042e043, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-left-duotone.svg)
-  static const arrowElbowDownLeft = PhosphorDuotoneIconData(0xe045, 0xe044);
+  static const arrowElbowDownLeft = IconData(0xe044e045, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-right-duotone.svg)
-  static const arrowElbowDownRight = PhosphorDuotoneIconData(0xe047, 0xe046);
+  static const arrowElbowDownRight = IconData(0xe046e047, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-duotone.svg)
-  static const arrowElbowLeft = PhosphorDuotoneIconData(0xe049, 0xe048);
+  static const arrowElbowLeft = IconData(0xe048e049, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-down-duotone.svg)
-  static const arrowElbowLeftDown = PhosphorDuotoneIconData(0xe04b, 0xe04a);
+  static const arrowElbowLeftDown = IconData(0xe04ae04b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-up-duotone.svg)
-  static const arrowElbowLeftUp = PhosphorDuotoneIconData(0xe04d, 0xe04c);
+  static const arrowElbowLeftUp = IconData(0xe04ce04d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-duotone.svg)
-  static const arrowElbowRight = PhosphorDuotoneIconData(0xe04f, 0xe04e);
+  static const arrowElbowRight = IconData(0xe04ee04f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-down-duotone.svg)
-  static const arrowElbowRightDown = PhosphorDuotoneIconData(0xe051, 0xe050);
+  static const arrowElbowRightDown = IconData(0xe050e051, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-up-duotone.svg)
-  static const arrowElbowRightUp = PhosphorDuotoneIconData(0xe053, 0xe052);
+  static const arrowElbowRightUp = IconData(0xe052e053, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-left-duotone.svg)
-  static const arrowElbowUpLeft = PhosphorDuotoneIconData(0xe055, 0xe054);
+  static const arrowElbowUpLeft = IconData(0xe054e055, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-elbow-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-right-duotone.svg)
-  static const arrowElbowUpRight = PhosphorDuotoneIconData(0xe057, 0xe056);
+  static const arrowElbowUpRight = IconData(0xe056e057, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-down-duotone.svg)
-  static const arrowFatDown = PhosphorDuotoneIconData(0xe519, 0xe518);
+  static const arrowFatDown = IconData(0xe518e519, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-left-duotone.svg)
-  static const arrowFatLeft = PhosphorDuotoneIconData(0xe51b, 0xe51a);
+  static const arrowFatLeft = IconData(0xe51ae51b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-down-duotone.svg)
-  static const arrowFatLineDown = PhosphorDuotoneIconData(0xe51d, 0xe51c);
+  static const arrowFatLineDown = IconData(0xe51ce51d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-left-duotone.svg)
-  static const arrowFatLineLeft = PhosphorDuotoneIconData(0xe51f, 0xe51e);
+  static const arrowFatLineLeft = IconData(0xe51ee51f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-right-duotone.svg)
-  static const arrowFatLineRight = PhosphorDuotoneIconData(0xe521, 0xe520);
+  static const arrowFatLineRight = IconData(0xe520e521, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-up-duotone.svg)
-  static const arrowFatLineUp = PhosphorDuotoneIconData(0xe523, 0xe522);
+  static const arrowFatLineUp = IconData(0xe522e523, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-lines-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-down-duotone.svg)
-  static const arrowFatLinesDown = PhosphorDuotoneIconData(0xe525, 0xe524);
+  static const arrowFatLinesDown = IconData(0xe524e525, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-lines-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-left-duotone.svg)
-  static const arrowFatLinesLeft = PhosphorDuotoneIconData(0xe527, 0xe526);
+  static const arrowFatLinesLeft = IconData(0xe526e527, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-lines-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-right-duotone.svg)
-  static const arrowFatLinesRight = PhosphorDuotoneIconData(0xe529, 0xe528);
+  static const arrowFatLinesRight = IconData(0xe528e529, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-lines-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-up-duotone.svg)
-  static const arrowFatLinesUp = PhosphorDuotoneIconData(0xe52b, 0xe52a);
+  static const arrowFatLinesUp = IconData(0xe52ae52b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-right-duotone.svg)
-  static const arrowFatRight = PhosphorDuotoneIconData(0xe52d, 0xe52c);
+  static const arrowFatRight = IconData(0xe52ce52d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-fat-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-up-duotone.svg)
-  static const arrowFatUp = PhosphorDuotoneIconData(0xe52f, 0xe52e);
+  static const arrowFatUp = IconData(0xe52ee52f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-left-duotone.svg)
-  static const arrowLeft = PhosphorDuotoneIconData(0xe059, 0xe058);
+  static const arrowLeft = IconData(0xe058e059, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-duotone.svg)
-  static const arrowLineDown = PhosphorDuotoneIconData(0xe05d, 0xe05c);
+  static const arrowLineDown = IconData(0xe05ce05d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-line-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-left-duotone.svg)
-  static const arrowLineDownLeft = PhosphorDuotoneIconData(0xe05f, 0xe05e);
+  static const arrowLineDownLeft = IconData(0xe05ee05f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-line-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-right-duotone.svg)
-  static const arrowLineDownRight = PhosphorDuotoneIconData(0xe061, 0xe060);
+  static const arrowLineDownRight = IconData(0xe060e061, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-left-duotone.svg)
-  static const arrowLineLeft = PhosphorDuotoneIconData(0xe063, 0xe062);
+  static const arrowLineLeft = IconData(0xe062e063, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-right-duotone.svg)
-  static const arrowLineRight = PhosphorDuotoneIconData(0xe065, 0xe064);
+  static const arrowLineRight = IconData(0xe064e065, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-duotone.svg)
-  static const arrowLineUp = PhosphorDuotoneIconData(0xe067, 0xe066);
+  static const arrowLineUp = IconData(0xe066e067, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-line-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-left-duotone.svg)
-  static const arrowLineUpLeft = PhosphorDuotoneIconData(0xe069, 0xe068);
+  static const arrowLineUpLeft = IconData(0xe068e069, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-line-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-right-duotone.svg)
-  static const arrowLineUpRight = PhosphorDuotoneIconData(0xe06b, 0xe06a);
+  static const arrowLineUpRight = IconData(0xe06ae06b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-right-duotone.svg)
-  static const arrowRight = PhosphorDuotoneIconData(0xe06d, 0xe06c);
+  static const arrowRight = IconData(0xe06ce06d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-duotone.svg)
-  static const arrowSquareDown = PhosphorDuotoneIconData(0xe06f, 0xe06e);
+  static const arrowSquareDown = IconData(0xe06ee06f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-left-duotone.svg)
-  static const arrowSquareDownLeft = PhosphorDuotoneIconData(0xe071, 0xe070);
+  static const arrowSquareDownLeft = IconData(0xe070e071, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-right-duotone.svg)
-  static const arrowSquareDownRight = PhosphorDuotoneIconData(0xe073, 0xe072);
+  static const arrowSquareDownRight = IconData(0xe072e073, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-in-duotone.svg)
-  static const arrowSquareIn = PhosphorDuotoneIconData(0xe5dd, 0xe5dc);
+  static const arrowSquareIn = IconData(0xe5dce5dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-left-duotone.svg)
-  static const arrowSquareLeft = PhosphorDuotoneIconData(0xe075, 0xe074);
+  static const arrowSquareLeft = IconData(0xe074e075, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-out-duotone.svg)
-  static const arrowSquareOut = PhosphorDuotoneIconData(0xe5df, 0xe5de);
+  static const arrowSquareOut = IconData(0xe5dee5df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-right-duotone.svg)
-  static const arrowSquareRight = PhosphorDuotoneIconData(0xe077, 0xe076);
+  static const arrowSquareRight = IconData(0xe076e077, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-duotone.svg)
-  static const arrowSquareUp = PhosphorDuotoneIconData(0xe079, 0xe078);
+  static const arrowSquareUp = IconData(0xe078e079, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-left-duotone.svg)
-  static const arrowSquareUpLeft = PhosphorDuotoneIconData(0xe07b, 0xe07a);
+  static const arrowSquareUpLeft = IconData(0xe07ae07b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-square-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-right-duotone.svg)
-  static const arrowSquareUpRight = PhosphorDuotoneIconData(0xe07d, 0xe07c);
+  static const arrowSquareUpRight = IconData(0xe07ce07d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-u-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-left-duotone.svg)
-  static const arrowUDownLeft = PhosphorDuotoneIconData(0xe07f, 0xe07e);
+  static const arrowUDownLeft = IconData(0xe07ee07f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-u-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-right-duotone.svg)
-  static const arrowUDownRight = PhosphorDuotoneIconData(0xe081, 0xe080);
+  static const arrowUDownRight = IconData(0xe080e081, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-u-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-down-duotone.svg)
-  static const arrowULeftDown = PhosphorDuotoneIconData(0xe083, 0xe082);
+  static const arrowULeftDown = IconData(0xe082e083, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-u-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-up-duotone.svg)
-  static const arrowULeftUp = PhosphorDuotoneIconData(0xe085, 0xe084);
+  static const arrowULeftUp = IconData(0xe084e085, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-u-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-down-duotone.svg)
-  static const arrowURightDown = PhosphorDuotoneIconData(0xe087, 0xe086);
+  static const arrowURightDown = IconData(0xe086e087, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-u-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-up-duotone.svg)
-  static const arrowURightUp = PhosphorDuotoneIconData(0xe089, 0xe088);
+  static const arrowURightUp = IconData(0xe088e089, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-u-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-left-duotone.svg)
-  static const arrowUUpLeft = PhosphorDuotoneIconData(0xe08b, 0xe08a);
+  static const arrowUUpLeft = IconData(0xe08ae08b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-u-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-right-duotone.svg)
-  static const arrowUUpRight = PhosphorDuotoneIconData(0xe08d, 0xe08c);
+  static const arrowUUpRight = IconData(0xe08ce08d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-duotone.svg)
-  static const arrowUp = PhosphorDuotoneIconData(0xe08f, 0xe08e);
+  static const arrowUp = IconData(0xe08ee08f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-left-duotone.svg)
-  static const arrowUpLeft = PhosphorDuotoneIconData(0xe091, 0xe090);
+  static const arrowUpLeft = IconData(0xe090e091, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrow-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-right-duotone.svg)
-  static const arrowUpRight = PhosphorDuotoneIconData(0xe093, 0xe092);
+  static const arrowUpRight = IconData(0xe092e093, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-clockwise-duotone.svg)
-  static const arrowsClockwise = PhosphorDuotoneIconData(0xe095, 0xe094);
+  static const arrowsClockwise = IconData(0xe094e095, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-counter-clockwise-duotone.svg)
-  static const arrowsCounterClockwise = PhosphorDuotoneIconData(0xe097, 0xe096);
+  static const arrowsCounterClockwise = IconData(0xe096e097, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-down-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-down-up-duotone.svg)
-  static const arrowsDownUp = PhosphorDuotoneIconData(0xe099, 0xe098);
+  static const arrowsDownUp = IconData(0xe098e099, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-horizontal-duotone.svg)
-  static const arrowsHorizontal = PhosphorDuotoneIconData(0xeb07, 0xeb06);
+  static const arrowsHorizontal = IconData(0xeb06eb07, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-duotone.svg)
-  static const arrowsIn = PhosphorDuotoneIconData(0xe09b, 0xe09a);
+  static const arrowsIn = IconData(0xe09ae09b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-in-cardinal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-cardinal-duotone.svg)
-  static const arrowsInCardinal = PhosphorDuotoneIconData(0xe09d, 0xe09c);
+  static const arrowsInCardinal = IconData(0xe09ce09d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-in-line-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-horizontal-duotone.svg)
-  static const arrowsInLineHorizontal = PhosphorDuotoneIconData(0xe531, 0xe530);
+  static const arrowsInLineHorizontal = IconData(0xe530e531, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-in-line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-vertical-duotone.svg)
-  static const arrowsInLineVertical = PhosphorDuotoneIconData(0xe533, 0xe532);
+  static const arrowsInLineVertical = IconData(0xe532e533, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-in-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-simple-duotone.svg)
-  static const arrowsInSimple = PhosphorDuotoneIconData(0xe09f, 0xe09e);
+  static const arrowsInSimple = IconData(0xe09ee09f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-left-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-left-right-duotone.svg)
-  static const arrowsLeftRight = PhosphorDuotoneIconData(0xe0a1, 0xe0a0);
+  static const arrowsLeftRight = IconData(0xe0a0e0a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-merge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-merge-duotone.svg)
-  static const arrowsMerge = PhosphorDuotoneIconData(0xed3f, 0xed3e);
+  static const arrowsMerge = IconData(0xed3eed3f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-duotone.svg)
-  static const arrowsOut = PhosphorDuotoneIconData(0xe0a3, 0xe0a2);
+  static const arrowsOut = IconData(0xe0a2e0a3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-out-cardinal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-cardinal-duotone.svg)
-  static const arrowsOutCardinal = PhosphorDuotoneIconData(0xe0a5, 0xe0a4);
+  static const arrowsOutCardinal = IconData(0xe0a4e0a5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-out-line-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-horizontal-duotone.svg)
-  static const arrowsOutLineHorizontal = PhosphorDuotoneIconData(0xe535, 0xe534);
+  static const arrowsOutLineHorizontal = IconData(0xe534e535, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-out-line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-vertical-duotone.svg)
-  static const arrowsOutLineVertical = PhosphorDuotoneIconData(0xe537, 0xe536);
+  static const arrowsOutLineVertical = IconData(0xe536e537, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-out-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-simple-duotone.svg)
-  static const arrowsOutSimple = PhosphorDuotoneIconData(0xe0a7, 0xe0a6);
+  static const arrowsOutSimple = IconData(0xe0a6e0a7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-split-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-split-duotone.svg)
-  static const arrowsSplit = PhosphorDuotoneIconData(0xed3d, 0xed3c);
+  static const arrowsSplit = IconData(0xed3ced3d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![arrows-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-vertical-duotone.svg)
-  static const arrowsVertical = PhosphorDuotoneIconData(0xeb05, 0xeb04);
+  static const arrowsVertical = IconData(0xeb04eb05, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![article-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-duotone.svg)
-  static const article = PhosphorDuotoneIconData(0xe0a9, 0xe0a8);
+  static const article = IconData(0xe0a8e0a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![article-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-medium-duotone.svg)
-  static const articleMedium = PhosphorDuotoneIconData(0xe5e1, 0xe5e0);
+  static const articleMedium = IconData(0xe5e0e5e1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![article-ny-times-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-ny-times-duotone.svg)
-  static const articleNyTimes = PhosphorDuotoneIconData(0xe5e3, 0xe5e2);
+  static const articleNyTimes = IconData(0xe5e2e5e3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![asclepius-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asclepius-duotone.svg)
-  static const asclepius = PhosphorDuotoneIconData(0xee35, 0xee34);
+  static const asclepius = IconData(0xee34ee35, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![asterisk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-duotone.svg)
-  static const asterisk = PhosphorDuotoneIconData(0xe0ab, 0xe0aa);
+  static const asterisk = IconData(0xe0aae0ab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![asterisk-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-simple-duotone.svg)
-  static const asteriskSimple = PhosphorDuotoneIconData(0xe833, 0xe832);
+  static const asteriskSimple = IconData(0xe832e833, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![at-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/at-duotone.svg)
-  static const at = PhosphorDuotoneIconData(0xe0ad, 0xe0ac);
+  static const at = IconData(0xe0ace0ad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![atom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/atom-duotone.svg)
-  static const atom = PhosphorDuotoneIconData(0xe5e5, 0xe5e4);
+  static const atom = IconData(0xe5e4e5e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![avocado-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/avocado-duotone.svg)
-  static const avocado = PhosphorDuotoneIconData(0xee05, 0xee04);
+  static const avocado = IconData(0xee04ee05, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![axe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/axe-duotone.svg)
-  static const axe = PhosphorDuotoneIconData(0xe9fd, 0xe9fc);
+  static const axe = IconData(0xe9fce9fd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![baby-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-duotone.svg)
-  static const baby = PhosphorDuotoneIconData(0xe775, 0xe774);
+  static const baby = IconData(0xe774e775, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![baby-carriage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-carriage-duotone.svg)
-  static const babyCarriage = PhosphorDuotoneIconData(0xe819, 0xe818);
+  static const babyCarriage = IconData(0xe818e819, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![backpack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backpack-duotone.svg)
-  static const backpack = PhosphorDuotoneIconData(0xe923, 0xe922);
+  static const backpack = IconData(0xe922e923, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![backspace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backspace-duotone.svg)
-  static const backspace = PhosphorDuotoneIconData(0xe0af, 0xe0ae);
+  static const backspace = IconData(0xe0aee0af, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-duotone.svg)
-  static const bag = PhosphorDuotoneIconData(0xe0b1, 0xe0b0);
+  static const bag = IconData(0xe0b0e0b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-simple-duotone.svg)
-  static const bagSimple = PhosphorDuotoneIconData(0xe5e7, 0xe5e6);
+  static const bagSimple = IconData(0xe5e6e5e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![balloon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/balloon-duotone.svg)
-  static const balloon = PhosphorDuotoneIconData(0xe76d, 0xe76c);
+  static const balloon = IconData(0xe76ce76d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bandaids-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bandaids-duotone.svg)
-  static const bandaids = PhosphorDuotoneIconData(0xe0b3, 0xe0b2);
+  static const bandaids = IconData(0xe0b2e0b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bank-duotone.svg)
-  static const bank = PhosphorDuotoneIconData(0xe0b5, 0xe0b4);
+  static const bank = IconData(0xe0b4e0b5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![barbell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barbell-duotone.svg)
-  static const barbell = PhosphorDuotoneIconData(0xe0b7, 0xe0b6);
+  static const barbell = IconData(0xe0b6e0b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![barcode-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barcode-duotone.svg)
-  static const barcode = PhosphorDuotoneIconData(0xe0b9, 0xe0b8);
+  static const barcode = IconData(0xe0b8e0b9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![barn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barn-duotone.svg)
-  static const barn = PhosphorDuotoneIconData(0xec73, 0xec72);
+  static const barn = IconData(0xec72ec73, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![barricade-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barricade-duotone.svg)
-  static const barricade = PhosphorDuotoneIconData(0xe949, 0xe948);
+  static const barricade = IconData(0xe948e949, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![baseball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-duotone.svg)
-  static const baseball = PhosphorDuotoneIconData(0xe71b, 0xe71a);
+  static const baseball = IconData(0xe71ae71b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![baseball-cap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-cap-duotone.svg)
-  static const baseballCap = PhosphorDuotoneIconData(0xea29, 0xea28);
+  static const baseballCap = IconData(0xea28ea29, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![baseball-helmet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-helmet-duotone.svg)
-  static const baseballHelmet = PhosphorDuotoneIconData(0xee4b, 0xee4a);
+  static const baseballHelmet = IconData(0xee4aee4b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![basket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basket-duotone.svg)
-  static const basket = PhosphorDuotoneIconData(0xe965, 0xe964);
+  static const basket = IconData(0xe964e965, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![basketball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basketball-duotone.svg)
-  static const basketball = PhosphorDuotoneIconData(0xe725, 0xe724);
+  static const basketball = IconData(0xe724e725, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bathtub-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bathtub-duotone.svg)
-  static const bathtub = PhosphorDuotoneIconData(0xe81f, 0xe81e);
+  static const bathtub = IconData(0xe81ee81f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-charging-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-duotone.svg)
-  static const batteryCharging = PhosphorDuotoneIconData(0xe0bb, 0xe0ba);
+  static const batteryCharging = IconData(0xe0bae0bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-charging-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-vertical-duotone.svg)
-  static const batteryChargingVertical = PhosphorDuotoneIconData(0xe0bd, 0xe0bc);
+  static const batteryChargingVertical = IconData(0xe0bce0bd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-empty-duotone.svg)
-  static const batteryEmpty = PhosphorDuotoneIconData(0xe0bf, 0xe0be);
+  static const batteryEmpty = IconData(0xe0bee0bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-full-duotone.svg)
-  static const batteryFull = PhosphorDuotoneIconData(0xe0c1, 0xe0c0);
+  static const batteryFull = IconData(0xe0c0e0c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-high-duotone.svg)
-  static const batteryHigh = PhosphorDuotoneIconData(0xe0c3, 0xe0c2);
+  static const batteryHigh = IconData(0xe0c2e0c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-low-duotone.svg)
-  static const batteryLow = PhosphorDuotoneIconData(0xe0c5, 0xe0c4);
+  static const batteryLow = IconData(0xe0c4e0c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-medium-duotone.svg)
-  static const batteryMedium = PhosphorDuotoneIconData(0xe0c7, 0xe0c6);
+  static const batteryMedium = IconData(0xe0c6e0c7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-duotone.svg)
-  static const batteryPlus = PhosphorDuotoneIconData(0xe809, 0xe808);
+  static const batteryPlus = IconData(0xe808e809, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-plus-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-vertical-duotone.svg)
-  static const batteryPlusVertical = PhosphorDuotoneIconData(0xec51, 0xec50);
+  static const batteryPlusVertical = IconData(0xec50ec51, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-vertical-empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-empty-duotone.svg)
-  static const batteryVerticalEmpty = PhosphorDuotoneIconData(0xe7c7, 0xe7c6);
+  static const batteryVerticalEmpty = IconData(0xe7c6e7c7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-vertical-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-full-duotone.svg)
-  static const batteryVerticalFull = PhosphorDuotoneIconData(0xe7c5, 0xe7c4);
+  static const batteryVerticalFull = IconData(0xe7c4e7c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-vertical-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-high-duotone.svg)
-  static const batteryVerticalHigh = PhosphorDuotoneIconData(0xe7c3, 0xe7c2);
+  static const batteryVerticalHigh = IconData(0xe7c2e7c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-vertical-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-low-duotone.svg)
-  static const batteryVerticalLow = PhosphorDuotoneIconData(0xe7bf, 0xe7be);
+  static const batteryVerticalLow = IconData(0xe7bee7bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-vertical-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-medium-duotone.svg)
-  static const batteryVerticalMedium = PhosphorDuotoneIconData(0xe7c1, 0xe7c0);
+  static const batteryVerticalMedium = IconData(0xe7c0e7c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-duotone.svg)
-  static const batteryWarning = PhosphorDuotoneIconData(0xe0c9, 0xe0c8);
+  static const batteryWarning = IconData(0xe0c8e0c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![battery-warning-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-vertical-duotone.svg)
-  static const batteryWarningVertical = PhosphorDuotoneIconData(0xe0cb, 0xe0ca);
+  static const batteryWarningVertical = IconData(0xe0cae0cb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![beach-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beach-ball-duotone.svg)
-  static const beachBall = PhosphorDuotoneIconData(0xed25, 0xed24);
+  static const beachBall = IconData(0xed24ed25, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![beanie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beanie-duotone.svg)
-  static const beanie = PhosphorDuotoneIconData(0xea2b, 0xea2a);
+  static const beanie = IconData(0xea2aea2b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bed-duotone.svg)
-  static const bed = PhosphorDuotoneIconData(0xe0cd, 0xe0cc);
+  static const bed = IconData(0xe0cce0cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![beer-bottle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-bottle-duotone.svg)
-  static const beerBottle = PhosphorDuotoneIconData(0xe7b1, 0xe7b0);
+  static const beerBottle = IconData(0xe7b0e7b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![beer-stein-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-stein-duotone.svg)
-  static const beerStein = PhosphorDuotoneIconData(0xeb63, 0xeb62);
+  static const beerStein = IconData(0xeb62eb63, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![behance-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/behance-logo-duotone.svg)
-  static const behanceLogo = PhosphorDuotoneIconData(0xe7f5, 0xe7f4);
+  static const behanceLogo = IconData(0xe7f4e7f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-duotone.svg)
-  static const bell = PhosphorDuotoneIconData(0xe0cf, 0xe0ce);
+  static const bell = IconData(0xe0cee0cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bell-ringing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-ringing-duotone.svg)
-  static const bellRinging = PhosphorDuotoneIconData(0xe5e9, 0xe5e8);
+  static const bellRinging = IconData(0xe5e8e5e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bell-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-duotone.svg)
-  static const bellSimple = PhosphorDuotoneIconData(0xe0d1, 0xe0d0);
+  static const bellSimple = IconData(0xe0d0e0d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bell-simple-ringing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-ringing-duotone.svg)
-  static const bellSimpleRinging = PhosphorDuotoneIconData(0xe5eb, 0xe5ea);
+  static const bellSimpleRinging = IconData(0xe5eae5eb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bell-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-slash-duotone.svg)
-  static const bellSimpleSlash = PhosphorDuotoneIconData(0xe0d3, 0xe0d2);
+  static const bellSimpleSlash = IconData(0xe0d2e0d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bell-simple-z-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-z-duotone.svg)
-  static const bellSimpleZ = PhosphorDuotoneIconData(0xe5ed, 0xe5ec);
+  static const bellSimpleZ = IconData(0xe5ece5ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bell-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-slash-duotone.svg)
-  static const bellSlash = PhosphorDuotoneIconData(0xe0d5, 0xe0d4);
+  static const bellSlash = IconData(0xe0d4e0d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bell-z-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-z-duotone.svg)
-  static const bellZ = PhosphorDuotoneIconData(0xe5ef, 0xe5ee);
+  static const bellZ = IconData(0xe5eee5ef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![belt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/belt-duotone.svg)
-  static const belt = PhosphorDuotoneIconData(0xea2d, 0xea2c);
+  static const belt = IconData(0xea2cea2d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bezier-curve-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bezier-curve-duotone.svg)
-  static const bezierCurve = PhosphorDuotoneIconData(0xeb01, 0xeb00);
+  static const bezierCurve = IconData(0xeb00eb01, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bicycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bicycle-duotone.svg)
-  static const bicycle = PhosphorDuotoneIconData(0xe0d7, 0xe0d6);
+  static const bicycle = IconData(0xe0d6e0d7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![binary-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binary-duotone.svg)
-  static const binary = PhosphorDuotoneIconData(0xee61, 0xee60);
+  static const binary = IconData(0xee60ee61, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![binoculars-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binoculars-duotone.svg)
-  static const binoculars = PhosphorDuotoneIconData(0xea65, 0xea64);
+  static const binoculars = IconData(0xea64ea65, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![biohazard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/biohazard-duotone.svg)
-  static const biohazard = PhosphorDuotoneIconData(0xe9e1, 0xe9e0);
+  static const biohazard = IconData(0xe9e0e9e1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bird-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bird-duotone.svg)
-  static const bird = PhosphorDuotoneIconData(0xe72d, 0xe72c);
+  static const bird = IconData(0xe72ce72d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![blueprint-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/blueprint-duotone.svg)
-  static const blueprint = PhosphorDuotoneIconData(0xeda1, 0xeda0);
+  static const blueprint = IconData(0xeda0eda1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bluetooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-duotone.svg)
-  static const bluetooth = PhosphorDuotoneIconData(0xe0db, 0xe0da);
+  static const bluetooth = IconData(0xe0dae0db, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bluetooth-connected-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-connected-duotone.svg)
-  static const bluetoothConnected = PhosphorDuotoneIconData(0xe0dd, 0xe0dc);
+  static const bluetoothConnected = IconData(0xe0dce0dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bluetooth-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-slash-duotone.svg)
-  static const bluetoothSlash = PhosphorDuotoneIconData(0xe0df, 0xe0de);
+  static const bluetoothSlash = IconData(0xe0dee0df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bluetooth-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-x-duotone.svg)
-  static const bluetoothX = PhosphorDuotoneIconData(0xe0e1, 0xe0e0);
+  static const bluetoothX = IconData(0xe0e0e0e1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![boat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boat-duotone.svg)
-  static const boat = PhosphorDuotoneIconData(0xe787, 0xe786);
+  static const boat = IconData(0xe786e787, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bomb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bomb-duotone.svg)
-  static const bomb = PhosphorDuotoneIconData(0xee0b, 0xee0a);
+  static const bomb = IconData(0xee0aee0b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bone-duotone.svg)
-  static const bone = PhosphorDuotoneIconData(0xe7f3, 0xe7f2);
+  static const bone = IconData(0xe7f2e7f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-duotone.svg)
-  static const book = PhosphorDuotoneIconData(0xe0e3, 0xe0e2);
+  static const book = IconData(0xe0e2e0e3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![book-bookmark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-bookmark-duotone.svg)
-  static const bookBookmark = PhosphorDuotoneIconData(0xe0e5, 0xe0e4);
+  static const bookBookmark = IconData(0xe0e4e0e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![book-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-duotone.svg)
-  static const bookOpen = PhosphorDuotoneIconData(0xe0e7, 0xe0e6);
+  static const bookOpen = IconData(0xe0e6e0e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![book-open-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-text-duotone.svg)
-  static const bookOpenText = PhosphorDuotoneIconData(0xe8f3, 0xe8f2);
+  static const bookOpenText = IconData(0xe8f2e8f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![book-open-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-user-duotone.svg)
-  static const bookOpenUser = PhosphorDuotoneIconData(0xede1, 0xede0);
+  static const bookOpenUser = IconData(0xede0ede1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bookmark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-duotone.svg)
-  static const bookmark = PhosphorDuotoneIconData(0xe0e9, 0xe0e8);
+  static const bookmark = IconData(0xe0e8e0e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bookmark-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-simple-duotone.svg)
-  static const bookmarkSimple = PhosphorDuotoneIconData(0xe0eb, 0xe0ea);
+  static const bookmarkSimple = IconData(0xe0eae0eb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bookmarks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-duotone.svg)
-  static const bookmarks = PhosphorDuotoneIconData(0xe0ed, 0xe0ec);
+  static const bookmarks = IconData(0xe0ece0ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bookmarks-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-simple-duotone.svg)
-  static const bookmarksSimple = PhosphorDuotoneIconData(0xe5f1, 0xe5f0);
+  static const bookmarksSimple = IconData(0xe5f0e5f1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![books-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/books-duotone.svg)
-  static const books = PhosphorDuotoneIconData(0xe759, 0xe758);
+  static const books = IconData(0xe758e759, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![boot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boot-duotone.svg)
-  static const boot = PhosphorDuotoneIconData(0xeccb, 0xecca);
+  static const boot = IconData(0xeccaeccb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![boules-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boules-duotone.svg)
-  static const boules = PhosphorDuotoneIconData(0xe723, 0xe722);
+  static const boules = IconData(0xe722e723, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bounding-box-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bounding-box-duotone.svg)
-  static const boundingBox = PhosphorDuotoneIconData(0xe6cf, 0xe6ce);
+  static const boundingBox = IconData(0xe6cee6cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bowl-food-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-food-duotone.svg)
-  static const bowlFood = PhosphorDuotoneIconData(0xeaa5, 0xeaa4);
+  static const bowlFood = IconData(0xeaa4eaa5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bowl-steam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-steam-duotone.svg)
-  static const bowlSteam = PhosphorDuotoneIconData(0xe8e5, 0xe8e4);
+  static const bowlSteam = IconData(0xe8e4e8e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bowling-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowling-ball-duotone.svg)
-  static const bowlingBall = PhosphorDuotoneIconData(0xea35, 0xea34);
+  static const bowlingBall = IconData(0xea34ea35, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![box-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-down-duotone.svg)
-  static const boxArrowDown = PhosphorDuotoneIconData(0xe00f, 0xe00e);
+  static const boxArrowDown = IconData(0xe00ee00f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![box-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-up-duotone.svg)
-  static const boxArrowUp = PhosphorDuotoneIconData(0xee55, 0xee54);
+  static const boxArrowUp = IconData(0xee54ee55, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![boxing-glove-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boxing-glove-duotone.svg)
-  static const boxingGlove = PhosphorDuotoneIconData(0xea37, 0xea36);
+  static const boxingGlove = IconData(0xea36ea37, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![brackets-angle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-angle-duotone.svg)
-  static const bracketsAngle = PhosphorDuotoneIconData(0xe863, 0xe862);
+  static const bracketsAngle = IconData(0xe862e863, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![brackets-curly-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-curly-duotone.svg)
-  static const bracketsCurly = PhosphorDuotoneIconData(0xe861, 0xe860);
+  static const bracketsCurly = IconData(0xe860e861, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![brackets-round-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-round-duotone.svg)
-  static const bracketsRound = PhosphorDuotoneIconData(0xe865, 0xe864);
+  static const bracketsRound = IconData(0xe864e865, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![brackets-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-square-duotone.svg)
-  static const bracketsSquare = PhosphorDuotoneIconData(0xe85f, 0xe85e);
+  static const bracketsSquare = IconData(0xe85ee85f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![brain-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brain-duotone.svg)
-  static const brain = PhosphorDuotoneIconData(0xe74f, 0xe74e);
+  static const brain = IconData(0xe74ee74f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![brandy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brandy-duotone.svg)
-  static const brandy = PhosphorDuotoneIconData(0xe6b5, 0xe6b4);
+  static const brandy = IconData(0xe6b4e6b5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bread-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bread-duotone.svg)
-  static const bread = PhosphorDuotoneIconData(0xe81d, 0xe81c);
+  static const bread = IconData(0xe81ce81d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bridge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bridge-duotone.svg)
-  static const bridge = PhosphorDuotoneIconData(0xea69, 0xea68);
+  static const bridge = IconData(0xea68ea69, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![briefcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-duotone.svg)
-  static const briefcase = PhosphorDuotoneIconData(0xe0ef, 0xe0ee);
+  static const briefcase = IconData(0xe0eee0ef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![briefcase-metal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-metal-duotone.svg)
-  static const briefcaseMetal = PhosphorDuotoneIconData(0xe5f3, 0xe5f2);
+  static const briefcaseMetal = IconData(0xe5f2e5f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![broadcast-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broadcast-duotone.svg)
-  static const broadcast = PhosphorDuotoneIconData(0xe0f3, 0xe0f2);
+  static const broadcast = IconData(0xe0f2e0f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![broom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broom-duotone.svg)
-  static const broom = PhosphorDuotoneIconData(0xec55, 0xec54);
+  static const broom = IconData(0xec54ec55, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![browser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browser-duotone.svg)
-  static const browser = PhosphorDuotoneIconData(0xe0f5, 0xe0f4);
+  static const browser = IconData(0xe0f4e0f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![browsers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browsers-duotone.svg)
-  static const browsers = PhosphorDuotoneIconData(0xe0f7, 0xe0f6);
+  static const browsers = IconData(0xe0f6e0f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-duotone.svg)
-  static const bug = PhosphorDuotoneIconData(0xe5f5, 0xe5f4);
+  static const bug = IconData(0xe5f4e5f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bug-beetle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-beetle-duotone.svg)
-  static const bugBeetle = PhosphorDuotoneIconData(0xe5f7, 0xe5f6);
+  static const bugBeetle = IconData(0xe5f6e5f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bug-droid-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-droid-duotone.svg)
-  static const bugDroid = PhosphorDuotoneIconData(0xe5f9, 0xe5f8);
+  static const bugDroid = IconData(0xe5f8e5f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![building-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-duotone.svg)
-  static const building = PhosphorDuotoneIconData(0xe101, 0xe100);
+  static const building = IconData(0xe100e101, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![building-apartment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-apartment-duotone.svg)
-  static const buildingApartment = PhosphorDuotoneIconData(0xe103, 0xe0fe);
+  static const buildingApartment = IconData(0xe0fee103, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![building-office-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-office-duotone.svg)
-  static const buildingOffice = PhosphorDuotoneIconData(0xe104, 0xe0ff);
+  static const buildingOffice = IconData(0xe0ffe104, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![buildings-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/buildings-duotone.svg)
-  static const buildings = PhosphorDuotoneIconData(0xe105, 0xe102);
+  static const buildings = IconData(0xe102e105, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bulldozer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bulldozer-duotone.svg)
-  static const bulldozer = PhosphorDuotoneIconData(0xec6d, 0xec6c);
+  static const bulldozer = IconData(0xec6cec6d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![bus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bus-duotone.svg)
-  static const bus = PhosphorDuotoneIconData(0xe107, 0xe106);
+  static const bus = IconData(0xe106e107, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![butterfly-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/butterfly-duotone.svg)
-  static const butterfly = PhosphorDuotoneIconData(0xea6f, 0xea6e);
+  static const butterfly = IconData(0xea6eea6f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cable-car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cable-car-duotone.svg)
-  static const cableCar = PhosphorDuotoneIconData(0xe49d, 0xe49c);
+  static const cableCar = IconData(0xe49ce49d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cactus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cactus-duotone.svg)
-  static const cactus = PhosphorDuotoneIconData(0xe919, 0xe918);
+  static const cactus = IconData(0xe918e919, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cake-duotone.svg)
-  static const cake = PhosphorDuotoneIconData(0xe781, 0xe780);
+  static const cake = IconData(0xe780e781, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calculator-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calculator-duotone.svg)
-  static const calculator = PhosphorDuotoneIconData(0xe539, 0xe538);
+  static const calculator = IconData(0xe538e539, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-duotone.svg)
-  static const calendar = PhosphorDuotoneIconData(0xe109, 0xe108);
+  static const calendar = IconData(0xe108e109, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-blank-duotone.svg)
-  static const calendarBlank = PhosphorDuotoneIconData(0xe10b, 0xe10a);
+  static const calendarBlank = IconData(0xe10ae10b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-check-duotone.svg)
-  static const calendarCheck = PhosphorDuotoneIconData(0xe713, 0xe712);
+  static const calendarCheck = IconData(0xe712e713, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-dot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dot-duotone.svg)
-  static const calendarDot = PhosphorDuotoneIconData(0xe7b3, 0xe7b2);
+  static const calendarDot = IconData(0xe7b2e7b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dots-duotone.svg)
-  static const calendarDots = PhosphorDuotoneIconData(0xe7b5, 0xe7b4);
+  static const calendarDots = IconData(0xe7b4e7b5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-heart-duotone.svg)
-  static const calendarHeart = PhosphorDuotoneIconData(0xe8b1, 0xe8b0);
+  static const calendarHeart = IconData(0xe8b0e8b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-minus-duotone.svg)
-  static const calendarMinus = PhosphorDuotoneIconData(0xea15, 0xea14);
+  static const calendarMinus = IconData(0xea14ea15, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-plus-duotone.svg)
-  static const calendarPlus = PhosphorDuotoneIconData(0xe715, 0xe714);
+  static const calendarPlus = IconData(0xe714e715, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-slash-duotone.svg)
-  static const calendarSlash = PhosphorDuotoneIconData(0xea13, 0xea12);
+  static const calendarSlash = IconData(0xea12ea13, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-star-duotone.svg)
-  static const calendarStar = PhosphorDuotoneIconData(0xe8b3, 0xe8b2);
+  static const calendarStar = IconData(0xe8b2e8b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![calendar-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-x-duotone.svg)
-  static const calendarX = PhosphorDuotoneIconData(0xe10d, 0xe10c);
+  static const calendarX = IconData(0xe10ce10d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![call-bell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/call-bell-duotone.svg)
-  static const callBell = PhosphorDuotoneIconData(0xe7df, 0xe7de);
+  static const callBell = IconData(0xe7dee7df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-duotone.svg)
-  static const camera = PhosphorDuotoneIconData(0xe10f, 0xe10e);
+  static const camera = IconData(0xe10ee10f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![camera-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-plus-duotone.svg)
-  static const cameraPlus = PhosphorDuotoneIconData(0xec59, 0xec58);
+  static const cameraPlus = IconData(0xec58ec59, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![camera-rotate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-rotate-duotone.svg)
-  static const cameraRotate = PhosphorDuotoneIconData(0xe7a5, 0xe7a4);
+  static const cameraRotate = IconData(0xe7a4e7a5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![camera-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-slash-duotone.svg)
-  static const cameraSlash = PhosphorDuotoneIconData(0xe111, 0xe110);
+  static const cameraSlash = IconData(0xe110e111, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![campfire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/campfire-duotone.svg)
-  static const campfire = PhosphorDuotoneIconData(0xe9d9, 0xe9d8);
+  static const campfire = IconData(0xe9d8e9d9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-duotone.svg)
-  static const car = PhosphorDuotoneIconData(0xe113, 0xe112);
+  static const car = IconData(0xe112e113, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![car-battery-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-battery-duotone.svg)
-  static const carBattery = PhosphorDuotoneIconData(0xee31, 0xee30);
+  static const carBattery = IconData(0xee30ee31, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![car-profile-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-profile-duotone.svg)
-  static const carProfile = PhosphorDuotoneIconData(0xe8cd, 0xe8cc);
+  static const carProfile = IconData(0xe8cce8cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![car-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-simple-duotone.svg)
-  static const carSimple = PhosphorDuotoneIconData(0xe115, 0xe114);
+  static const carSimple = IconData(0xe114e115, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cardholder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cardholder-duotone.svg)
-  static const cardholder = PhosphorDuotoneIconData(0xe5fb, 0xe5fa);
+  static const cardholder = IconData(0xe5fae5fb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cards-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-duotone.svg)
-  static const cards = PhosphorDuotoneIconData(0xe0f9, 0xe0f8);
+  static const cards = IconData(0xe0f8e0f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cards-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-three-duotone.svg)
-  static const cardsThree = PhosphorDuotoneIconData(0xee51, 0xee50);
+  static const cardsThree = IconData(0xee50ee51, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-double-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-down-duotone.svg)
-  static const caretCircleDoubleDown = PhosphorDuotoneIconData(0xe117, 0xe116);
+  static const caretCircleDoubleDown = IconData(0xe116e117, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-double-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-left-duotone.svg)
-  static const caretCircleDoubleLeft = PhosphorDuotoneIconData(0xe119, 0xe118);
+  static const caretCircleDoubleLeft = IconData(0xe118e119, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-double-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-right-duotone.svg)
-  static const caretCircleDoubleRight = PhosphorDuotoneIconData(0xe11b, 0xe11a);
+  static const caretCircleDoubleRight = IconData(0xe11ae11b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-double-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-up-duotone.svg)
-  static const caretCircleDoubleUp = PhosphorDuotoneIconData(0xe11d, 0xe11c);
+  static const caretCircleDoubleUp = IconData(0xe11ce11d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-down-duotone.svg)
-  static const caretCircleDown = PhosphorDuotoneIconData(0xe11f, 0xe11e);
+  static const caretCircleDown = IconData(0xe11ee11f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-left-duotone.svg)
-  static const caretCircleLeft = PhosphorDuotoneIconData(0xe121, 0xe120);
+  static const caretCircleLeft = IconData(0xe120e121, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-right-duotone.svg)
-  static const caretCircleRight = PhosphorDuotoneIconData(0xe123, 0xe122);
+  static const caretCircleRight = IconData(0xe122e123, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-duotone.svg)
-  static const caretCircleUp = PhosphorDuotoneIconData(0xe125, 0xe124);
+  static const caretCircleUp = IconData(0xe124e125, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-circle-up-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-down-duotone.svg)
-  static const caretCircleUpDown = PhosphorDuotoneIconData(0xe13f, 0xe13e);
+  static const caretCircleUpDown = IconData(0xe13ee13f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-double-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-down-duotone.svg)
-  static const caretDoubleDown = PhosphorDuotoneIconData(0xe127, 0xe126);
+  static const caretDoubleDown = IconData(0xe126e127, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-double-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-left-duotone.svg)
-  static const caretDoubleLeft = PhosphorDuotoneIconData(0xe129, 0xe128);
+  static const caretDoubleLeft = IconData(0xe128e129, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-double-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-right-duotone.svg)
-  static const caretDoubleRight = PhosphorDuotoneIconData(0xe12b, 0xe12a);
+  static const caretDoubleRight = IconData(0xe12ae12b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-double-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-up-duotone.svg)
-  static const caretDoubleUp = PhosphorDuotoneIconData(0xe12d, 0xe12c);
+  static const caretDoubleUp = IconData(0xe12ce12d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-down-duotone.svg)
-  static const caretDown = PhosphorDuotoneIconData(0xe137, 0xe136);
+  static const caretDown = IconData(0xe136e137, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-left-duotone.svg)
-  static const caretLeft = PhosphorDuotoneIconData(0xe139, 0xe138);
+  static const caretLeft = IconData(0xe138e139, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-down-duotone.svg)
-  static const caretLineDown = PhosphorDuotoneIconData(0xe135, 0xe134);
+  static const caretLineDown = IconData(0xe134e135, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-left-duotone.svg)
-  static const caretLineLeft = PhosphorDuotoneIconData(0xe133, 0xe132);
+  static const caretLineLeft = IconData(0xe132e133, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-right-duotone.svg)
-  static const caretLineRight = PhosphorDuotoneIconData(0xe131, 0xe130);
+  static const caretLineRight = IconData(0xe130e131, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-up-duotone.svg)
-  static const caretLineUp = PhosphorDuotoneIconData(0xe12f, 0xe12e);
+  static const caretLineUp = IconData(0xe12ee12f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-right-duotone.svg)
-  static const caretRight = PhosphorDuotoneIconData(0xe13b, 0xe13a);
+  static const caretRight = IconData(0xe13ae13b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-duotone.svg)
-  static const caretUp = PhosphorDuotoneIconData(0xe13d, 0xe13c);
+  static const caretUp = IconData(0xe13ce13d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![caret-up-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-down-duotone.svg)
-  static const caretUpDown = PhosphorDuotoneIconData(0xe141, 0xe140);
+  static const caretUpDown = IconData(0xe140e141, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![carrot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/carrot-duotone.svg)
-  static const carrot = PhosphorDuotoneIconData(0xed39, 0xed38);
+  static const carrot = IconData(0xed38ed39, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cash-register-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cash-register-duotone.svg)
-  static const cashRegister = PhosphorDuotoneIconData(0xed81, 0xed80);
+  static const cashRegister = IconData(0xed80ed81, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cassette-tape-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cassette-tape-duotone.svg)
-  static const cassetteTape = PhosphorDuotoneIconData(0xed2f, 0xed2e);
+  static const cassetteTape = IconData(0xed2eed2f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![castle-turret-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/castle-turret-duotone.svg)
-  static const castleTurret = PhosphorDuotoneIconData(0xe9d1, 0xe9d0);
+  static const castleTurret = IconData(0xe9d0e9d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cat-duotone.svg)
-  static const cat = PhosphorDuotoneIconData(0xe749, 0xe748);
+  static const cat = IconData(0xe748e749, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-signal-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-full-duotone.svg)
-  static const cellSignalFull = PhosphorDuotoneIconData(0xe143, 0xe142);
+  static const cellSignalFull = IconData(0xe142e143, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-signal-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-high-duotone.svg)
-  static const cellSignalHigh = PhosphorDuotoneIconData(0xe145, 0xe144);
+  static const cellSignalHigh = IconData(0xe144e145, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-signal-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-low-duotone.svg)
-  static const cellSignalLow = PhosphorDuotoneIconData(0xe147, 0xe146);
+  static const cellSignalLow = IconData(0xe146e147, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-signal-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-medium-duotone.svg)
-  static const cellSignalMedium = PhosphorDuotoneIconData(0xe149, 0xe148);
+  static const cellSignalMedium = IconData(0xe148e149, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-signal-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-none-duotone.svg)
   static const cellSignalNone = PhosphorFlatIconData(0xe14a, 'Duotone');
 
   /// ![cell-signal-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-slash-duotone.svg)
-  static const cellSignalSlash = PhosphorDuotoneIconData(0xe14d, 0xe14c);
+  static const cellSignalSlash = IconData(0xe14ce14d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-signal-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-x-duotone.svg)
-  static const cellSignalX = PhosphorDuotoneIconData(0xe14f, 0xe14e);
+  static const cellSignalX = IconData(0xe14ee14f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-tower-duotone.svg)
-  static const cellTower = PhosphorDuotoneIconData(0xebab, 0xebaa);
+  static const cellTower = IconData(0xebaaebab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![certificate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/certificate-duotone.svg)
-  static const certificate = PhosphorDuotoneIconData(0xe767, 0xe766);
+  static const certificate = IconData(0xe766e767, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chair-duotone.svg)
-  static const chair = PhosphorDuotoneIconData(0xe951, 0xe950);
+  static const chair = IconData(0xe950e951, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chalkboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-duotone.svg)
-  static const chalkboard = PhosphorDuotoneIconData(0xe5fd, 0xe5fc);
+  static const chalkboard = IconData(0xe5fce5fd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chalkboard-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-simple-duotone.svg)
-  static const chalkboardSimple = PhosphorDuotoneIconData(0xe5ff, 0xe5fe);
+  static const chalkboardSimple = IconData(0xe5fee5ff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chalkboard-teacher-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-teacher-duotone.svg)
-  static const chalkboardTeacher = PhosphorDuotoneIconData(0xe601, 0xe600);
+  static const chalkboardTeacher = IconData(0xe600e601, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![champagne-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/champagne-duotone.svg)
-  static const champagne = PhosphorDuotoneIconData(0xeacb, 0xeaca);
+  static const champagne = IconData(0xeacaeacb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![charging-station-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/charging-station-duotone.svg)
-  static const chargingStation = PhosphorDuotoneIconData(0xe8d1, 0xe8d0);
+  static const chargingStation = IconData(0xe8d0e8d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-bar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-duotone.svg)
-  static const chartBar = PhosphorDuotoneIconData(0xe151, 0xe150);
+  static const chartBar = IconData(0xe150e151, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-bar-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-horizontal-duotone.svg)
-  static const chartBarHorizontal = PhosphorDuotoneIconData(0xe153, 0xe152);
+  static const chartBarHorizontal = IconData(0xe152e153, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-donut-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-donut-duotone.svg)
-  static const chartDonut = PhosphorDuotoneIconData(0xeaa7, 0xeaa6);
+  static const chartDonut = IconData(0xeaa6eaa7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-duotone.svg)
-  static const chartLine = PhosphorDuotoneIconData(0xe155, 0xe154);
+  static const chartLine = IconData(0xe154e155, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-down-duotone.svg)
-  static const chartLineDown = PhosphorDuotoneIconData(0xe8b7, 0xe8b6);
+  static const chartLineDown = IconData(0xe8b6e8b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-up-duotone.svg)
-  static const chartLineUp = PhosphorDuotoneIconData(0xe157, 0xe156);
+  static const chartLineUp = IconData(0xe156e157, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-pie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-duotone.svg)
-  static const chartPie = PhosphorDuotoneIconData(0xe159, 0xe158);
+  static const chartPie = IconData(0xe158e159, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-pie-slice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-slice-duotone.svg)
-  static const chartPieSlice = PhosphorDuotoneIconData(0xe15b, 0xe15a);
+  static const chartPieSlice = IconData(0xe15ae15b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-polar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-polar-duotone.svg)
-  static const chartPolar = PhosphorDuotoneIconData(0xeaa9, 0xeaa8);
+  static const chartPolar = IconData(0xeaa8eaa9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chart-scatter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-scatter-duotone.svg)
-  static const chartScatter = PhosphorDuotoneIconData(0xeaad, 0xeaac);
+  static const chartScatter = IconData(0xeaaceaad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-duotone.svg)
-  static const chat = PhosphorDuotoneIconData(0xe15d, 0xe15c);
+  static const chat = IconData(0xe15ce15d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-centered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-duotone.svg)
-  static const chatCentered = PhosphorDuotoneIconData(0xe161, 0xe160);
+  static const chatCentered = IconData(0xe160e161, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-centered-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-dots-duotone.svg)
-  static const chatCenteredDots = PhosphorDuotoneIconData(0xe165, 0xe164);
+  static const chatCenteredDots = IconData(0xe164e165, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-centered-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-slash-duotone.svg)
-  static const chatCenteredSlash = PhosphorDuotoneIconData(0xe163, 0xe162);
+  static const chatCenteredSlash = IconData(0xe162e163, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-centered-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-text-duotone.svg)
-  static const chatCenteredText = PhosphorDuotoneIconData(0xe167, 0xe166);
+  static const chatCenteredText = IconData(0xe166e167, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-duotone.svg)
-  static const chatCircle = PhosphorDuotoneIconData(0xe169, 0xe168);
+  static const chatCircle = IconData(0xe168e169, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-circle-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-dots-duotone.svg)
-  static const chatCircleDots = PhosphorDuotoneIconData(0xe16d, 0xe16c);
+  static const chatCircleDots = IconData(0xe16ce16d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-circle-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-slash-duotone.svg)
-  static const chatCircleSlash = PhosphorDuotoneIconData(0xe16b, 0xe16a);
+  static const chatCircleSlash = IconData(0xe16ae16b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-circle-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-text-duotone.svg)
-  static const chatCircleText = PhosphorDuotoneIconData(0xe16f, 0xe16e);
+  static const chatCircleText = IconData(0xe16ee16f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-dots-duotone.svg)
-  static const chatDots = PhosphorDuotoneIconData(0xe171, 0xe170);
+  static const chatDots = IconData(0xe170e171, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-slash-duotone.svg)
-  static const chatSlash = PhosphorDuotoneIconData(0xe15f, 0xe15e);
+  static const chatSlash = IconData(0xe15ee15f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-teardrop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-duotone.svg)
-  static const chatTeardrop = PhosphorDuotoneIconData(0xe173, 0xe172);
+  static const chatTeardrop = IconData(0xe172e173, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-teardrop-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-dots-duotone.svg)
-  static const chatTeardropDots = PhosphorDuotoneIconData(0xe177, 0xe176);
+  static const chatTeardropDots = IconData(0xe176e177, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-teardrop-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-slash-duotone.svg)
-  static const chatTeardropSlash = PhosphorDuotoneIconData(0xe175, 0xe174);
+  static const chatTeardropSlash = IconData(0xe174e175, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-teardrop-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-text-duotone.svg)
-  static const chatTeardropText = PhosphorDuotoneIconData(0xe179, 0xe178);
+  static const chatTeardropText = IconData(0xe178e179, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chat-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-text-duotone.svg)
-  static const chatText = PhosphorDuotoneIconData(0xe17b, 0xe17a);
+  static const chatText = IconData(0xe17ae17b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chats-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-duotone.svg)
-  static const chats = PhosphorDuotoneIconData(0xe17d, 0xe17c);
+  static const chats = IconData(0xe17ce17d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chats-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-circle-duotone.svg)
-  static const chatsCircle = PhosphorDuotoneIconData(0xe17f, 0xe17e);
+  static const chatsCircle = IconData(0xe17ee17f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chats-teardrop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-teardrop-duotone.svg)
-  static const chatsTeardrop = PhosphorDuotoneIconData(0xe181, 0xe180);
+  static const chatsTeardrop = IconData(0xe180e181, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-duotone.svg)
-  static const check = PhosphorDuotoneIconData(0xe183, 0xe182);
+  static const check = IconData(0xe182e183, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![check-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-circle-duotone.svg)
-  static const checkCircle = PhosphorDuotoneIconData(0xe185, 0xe184);
+  static const checkCircle = IconData(0xe184e185, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![check-fat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-fat-duotone.svg)
-  static const checkFat = PhosphorDuotoneIconData(0xeba7, 0xeba6);
+  static const checkFat = IconData(0xeba6eba7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![check-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-duotone.svg)
-  static const checkSquare = PhosphorDuotoneIconData(0xe187, 0xe186);
+  static const checkSquare = IconData(0xe186e187, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![check-square-offset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-offset-duotone.svg)
-  static const checkSquareOffset = PhosphorDuotoneIconData(0xe189, 0xe188);
+  static const checkSquareOffset = IconData(0xe188e189, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![checkerboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checkerboard-duotone.svg)
-  static const checkerboard = PhosphorDuotoneIconData(0xe8c5, 0xe8c4);
+  static const checkerboard = IconData(0xe8c4e8c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![checks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checks-duotone.svg)
-  static const checks = PhosphorDuotoneIconData(0xe53b, 0xe53a);
+  static const checks = IconData(0xe53ae53b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cheers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheers-duotone.svg)
-  static const cheers = PhosphorDuotoneIconData(0xea4b, 0xea4a);
+  static const cheers = IconData(0xea4aea4b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cheese-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheese-duotone.svg)
-  static const cheese = PhosphorDuotoneIconData(0xe9ff, 0xe9fe);
+  static const cheese = IconData(0xe9fee9ff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![chef-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chef-hat-duotone.svg)
-  static const chefHat = PhosphorDuotoneIconData(0xed8f, 0xed8e);
+  static const chefHat = IconData(0xed8eed8f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cherries-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cherries-duotone.svg)
-  static const cherries = PhosphorDuotoneIconData(0xe831, 0xe830);
+  static const cherries = IconData(0xe830e831, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![church-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/church-duotone.svg)
-  static const church = PhosphorDuotoneIconData(0xeceb, 0xecea);
+  static const church = IconData(0xeceaeceb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cigarette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-duotone.svg)
-  static const cigarette = PhosphorDuotoneIconData(0xed91, 0xed90);
+  static const cigarette = IconData(0xed90ed91, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cigarette-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-slash-duotone.svg)
-  static const cigaretteSlash = PhosphorDuotoneIconData(0xed93, 0xed92);
+  static const cigaretteSlash = IconData(0xed92ed93, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-duotone.svg)
-  static const circle = PhosphorDuotoneIconData(0xe18b, 0xe18a);
+  static const circle = IconData(0xe18ae18b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-dashed-duotone.svg)
-  static const circleDashed = PhosphorDuotoneIconData(0xe603, 0xe602);
+  static const circleDashed = IconData(0xe602e603, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circle-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-duotone.svg)
-  static const circleHalf = PhosphorDuotoneIconData(0xe18d, 0xe18c);
+  static const circleHalf = IconData(0xe18ce18d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circle-half-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-tilt-duotone.svg)
-  static const circleHalfTilt = PhosphorDuotoneIconData(0xe18f, 0xe18e);
+  static const circleHalfTilt = IconData(0xe18ee18f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circle-notch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-notch-duotone.svg)
-  static const circleNotch = PhosphorDuotoneIconData(0xeb45, 0xeb44);
+  static const circleNotch = IconData(0xeb44eb45, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circles-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-four-duotone.svg)
-  static const circlesFour = PhosphorDuotoneIconData(0xe191, 0xe190);
+  static const circlesFour = IconData(0xe190e191, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circles-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-duotone.svg)
-  static const circlesThree = PhosphorDuotoneIconData(0xe193, 0xe192);
+  static const circlesThree = IconData(0xe192e193, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circles-three-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-plus-duotone.svg)
-  static const circlesThreePlus = PhosphorDuotoneIconData(0xe195, 0xe194);
+  static const circlesThreePlus = IconData(0xe194e195, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![circuitry-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circuitry-duotone.svg)
-  static const circuitry = PhosphorDuotoneIconData(0xe9c3, 0xe9c2);
+  static const circuitry = IconData(0xe9c2e9c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![city-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/city-duotone.svg)
-  static const city = PhosphorDuotoneIconData(0xea6b, 0xea6a);
+  static const city = IconData(0xea6aea6b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clipboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-duotone.svg)
-  static const clipboard = PhosphorDuotoneIconData(0xe197, 0xe196);
+  static const clipboard = IconData(0xe196e197, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clipboard-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-text-duotone.svg)
-  static const clipboardText = PhosphorDuotoneIconData(0xe199, 0xe198);
+  static const clipboardText = IconData(0xe198e199, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-duotone.svg)
-  static const clock = PhosphorDuotoneIconData(0xe19b, 0xe19a);
+  static const clock = IconData(0xe19ae19b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clock-afternoon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-afternoon-duotone.svg)
-  static const clockAfternoon = PhosphorDuotoneIconData(0xe19d, 0xe19c);
+  static const clockAfternoon = IconData(0xe19ce19d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clock-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-clockwise-duotone.svg)
-  static const clockClockwise = PhosphorDuotoneIconData(0xe19f, 0xe19e);
+  static const clockClockwise = IconData(0xe19ee19f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clock-countdown-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-countdown-duotone.svg)
-  static const clockCountdown = PhosphorDuotoneIconData(0xed2d, 0xed2c);
+  static const clockCountdown = IconData(0xed2ced2d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clock-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-counter-clockwise-duotone.svg)
-  static const clockCounterClockwise = PhosphorDuotoneIconData(0xe1a1, 0xe1a0);
+  static const clockCounterClockwise = IconData(0xe1a0e1a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clock-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-user-duotone.svg)
-  static const clockUser = PhosphorDuotoneIconData(0xeded, 0xedec);
+  static const clockUser = IconData(0xedeceded, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![closed-captioning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/closed-captioning-duotone.svg)
-  static const closedCaptioning = PhosphorDuotoneIconData(0xe1a5, 0xe1a4);
+  static const closedCaptioning = IconData(0xe1a4e1a5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-duotone.svg)
-  static const cloud = PhosphorDuotoneIconData(0xe1ab, 0xe1aa);
+  static const cloud = IconData(0xe1aae1ab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-down-duotone.svg)
-  static const cloudArrowDown = PhosphorDuotoneIconData(0xe1ad, 0xe1ac);
+  static const cloudArrowDown = IconData(0xe1ace1ad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-up-duotone.svg)
-  static const cloudArrowUp = PhosphorDuotoneIconData(0xe1af, 0xe1ae);
+  static const cloudArrowUp = IconData(0xe1aee1af, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-check-duotone.svg)
-  static const cloudCheck = PhosphorDuotoneIconData(0xe1b1, 0xe1b0);
+  static const cloudCheck = IconData(0xe1b0e1b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-fog-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-fog-duotone.svg)
-  static const cloudFog = PhosphorDuotoneIconData(0xe53d, 0xe53c);
+  static const cloudFog = IconData(0xe53ce53d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-lightning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-lightning-duotone.svg)
-  static const cloudLightning = PhosphorDuotoneIconData(0xe1b3, 0xe1b2);
+  static const cloudLightning = IconData(0xe1b2e1b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-moon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-moon-duotone.svg)
-  static const cloudMoon = PhosphorDuotoneIconData(0xe53f, 0xe53e);
+  static const cloudMoon = IconData(0xe53ee53f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-rain-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-rain-duotone.svg)
-  static const cloudRain = PhosphorDuotoneIconData(0xe1b5, 0xe1b4);
+  static const cloudRain = IconData(0xe1b4e1b5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-slash-duotone.svg)
-  static const cloudSlash = PhosphorDuotoneIconData(0xe1b7, 0xe1b6);
+  static const cloudSlash = IconData(0xe1b6e1b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-snow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-snow-duotone.svg)
-  static const cloudSnow = PhosphorDuotoneIconData(0xe1b9, 0xe1b8);
+  static const cloudSnow = IconData(0xe1b8e1b9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-sun-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-sun-duotone.svg)
-  static const cloudSun = PhosphorDuotoneIconData(0xe541, 0xe540);
+  static const cloudSun = IconData(0xe540e541, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-warning-duotone.svg)
-  static const cloudWarning = PhosphorDuotoneIconData(0xea99, 0xea98);
+  static const cloudWarning = IconData(0xea98ea99, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cloud-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-x-duotone.svg)
-  static const cloudX = PhosphorDuotoneIconData(0xea97, 0xea96);
+  static const cloudX = IconData(0xea96ea97, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![clover-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clover-duotone.svg)
-  static const clover = PhosphorDuotoneIconData(0xedc9, 0xedc8);
+  static const clover = IconData(0xedc8edc9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![club-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/club-duotone.svg)
-  static const club = PhosphorDuotoneIconData(0xe1bb, 0xe1ba);
+  static const club = IconData(0xe1bae1bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![coat-hanger-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coat-hanger-duotone.svg)
-  static const coatHanger = PhosphorDuotoneIconData(0xe7ff, 0xe7fe);
+  static const coatHanger = IconData(0xe7fee7ff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![coda-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coda-logo-duotone.svg)
-  static const codaLogo = PhosphorDuotoneIconData(0xe7cf, 0xe7ce);
+  static const codaLogo = IconData(0xe7cee7cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-duotone.svg)
-  static const code = PhosphorDuotoneIconData(0xe1bd, 0xe1bc);
+  static const code = IconData(0xe1bce1bd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![code-block-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-block-duotone.svg)
-  static const codeBlock = PhosphorDuotoneIconData(0xeaff, 0xeafe);
+  static const codeBlock = IconData(0xeafeeaff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![code-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-simple-duotone.svg)
-  static const codeSimple = PhosphorDuotoneIconData(0xe1bf, 0xe1be);
+  static const codeSimple = IconData(0xe1bee1bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![codepen-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codepen-logo-duotone.svg)
-  static const codepenLogo = PhosphorDuotoneIconData(0xe979, 0xe978);
+  static const codepenLogo = IconData(0xe978e979, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![codesandbox-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codesandbox-logo-duotone.svg)
-  static const codesandboxLogo = PhosphorDuotoneIconData(0xea07, 0xea06);
+  static const codesandboxLogo = IconData(0xea06ea07, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![coffee-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-duotone.svg)
-  static const coffee = PhosphorDuotoneIconData(0xe1c3, 0xe1c2);
+  static const coffee = IconData(0xe1c2e1c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![coffee-bean-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-bean-duotone.svg)
-  static const coffeeBean = PhosphorDuotoneIconData(0xe1c1, 0xe1c0);
+  static const coffeeBean = IconData(0xe1c0e1c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![coin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-duotone.svg)
-  static const coin = PhosphorDuotoneIconData(0xe60f, 0xe60e);
+  static const coin = IconData(0xe60ee60f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![coin-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-vertical-duotone.svg)
-  static const coinVertical = PhosphorDuotoneIconData(0xeb49, 0xeb48);
+  static const coinVertical = IconData(0xeb48eb49, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![coins-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coins-duotone.svg)
-  static const coins = PhosphorDuotoneIconData(0xe78f, 0xe78e);
+  static const coins = IconData(0xe78ee78f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![columns-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-duotone.svg)
-  static const columns = PhosphorDuotoneIconData(0xe547, 0xe546);
+  static const columns = IconData(0xe546e547, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![columns-plus-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-left-duotone.svg)
-  static const columnsPlusLeft = PhosphorDuotoneIconData(0xe545, 0xe544);
+  static const columnsPlusLeft = IconData(0xe544e545, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![columns-plus-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-right-duotone.svg)
-  static const columnsPlusRight = PhosphorDuotoneIconData(0xe543, 0xe542);
+  static const columnsPlusRight = IconData(0xe542e543, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![command-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/command-duotone.svg)
-  static const command = PhosphorDuotoneIconData(0xe1c5, 0xe1c4);
+  static const command = IconData(0xe1c4e1c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![compass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-duotone.svg)
-  static const compass = PhosphorDuotoneIconData(0xe1c9, 0xe1c8);
+  static const compass = IconData(0xe1c8e1c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![compass-rose-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-rose-duotone.svg)
-  static const compassRose = PhosphorDuotoneIconData(0xe1c7, 0xe1c6);
+  static const compassRose = IconData(0xe1c6e1c7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![compass-tool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-tool-duotone.svg)
-  static const compassTool = PhosphorDuotoneIconData(0xea0f, 0xea0e);
+  static const compassTool = IconData(0xea0eea0f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![computer-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/computer-tower-duotone.svg)
-  static const computerTower = PhosphorDuotoneIconData(0xe549, 0xe548);
+  static const computerTower = IconData(0xe548e549, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![confetti-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/confetti-duotone.svg)
-  static const confetti = PhosphorDuotoneIconData(0xe81b, 0xe81a);
+  static const confetti = IconData(0xe81ae81b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![contactless-payment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/contactless-payment-duotone.svg)
-  static const contactlessPayment = PhosphorDuotoneIconData(0xed43, 0xed42);
+  static const contactlessPayment = IconData(0xed42ed43, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![control-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/control-duotone.svg)
-  static const control = PhosphorDuotoneIconData(0xeca7, 0xeca6);
+  static const control = IconData(0xeca6eca7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cookie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cookie-duotone.svg)
-  static const cookie = PhosphorDuotoneIconData(0xe6cb, 0xe6ca);
+  static const cookie = IconData(0xe6cae6cb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cooking-pot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cooking-pot-duotone.svg)
-  static const cookingPot = PhosphorDuotoneIconData(0xe765, 0xe764);
+  static const cookingPot = IconData(0xe764e765, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![copy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-duotone.svg)
-  static const copy = PhosphorDuotoneIconData(0xe1cb, 0xe1ca);
+  static const copy = IconData(0xe1cae1cb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![copy-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-simple-duotone.svg)
-  static const copySimple = PhosphorDuotoneIconData(0xe1cd, 0xe1cc);
+  static const copySimple = IconData(0xe1cce1cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![copyleft-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyleft-duotone.svg)
-  static const copyleft = PhosphorDuotoneIconData(0xe86b, 0xe86a);
+  static const copyleft = IconData(0xe86ae86b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![copyright-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyright-duotone.svg)
-  static const copyright = PhosphorDuotoneIconData(0xe54b, 0xe54a);
+  static const copyright = IconData(0xe54ae54b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![corners-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-in-duotone.svg)
-  static const cornersIn = PhosphorDuotoneIconData(0xe1cf, 0xe1ce);
+  static const cornersIn = IconData(0xe1cee1cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![corners-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-out-duotone.svg)
-  static const cornersOut = PhosphorDuotoneIconData(0xe1d1, 0xe1d0);
+  static const cornersOut = IconData(0xe1d0e1d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![couch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/couch-duotone.svg)
-  static const couch = PhosphorDuotoneIconData(0xe7f7, 0xe7f6);
+  static const couch = IconData(0xe7f6e7f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![court-basketball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/court-basketball-duotone.svg)
-  static const courtBasketball = PhosphorDuotoneIconData(0xee37, 0xee36);
+  static const courtBasketball = IconData(0xee36ee37, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cow-duotone.svg)
-  static const cow = PhosphorDuotoneIconData(0xeabf, 0xeabe);
+  static const cow = IconData(0xeabeeabf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cowboy-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cowboy-hat-duotone.svg)
-  static const cowboyHat = PhosphorDuotoneIconData(0xed13, 0xed12);
+  static const cowboyHat = IconData(0xed12ed13, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cpu-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cpu-duotone.svg)
-  static const cpu = PhosphorDuotoneIconData(0xe611, 0xe610);
+  static const cpu = IconData(0xe610e611, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![crane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-duotone.svg)
-  static const crane = PhosphorDuotoneIconData(0xed4b, 0xed48);
+  static const crane = IconData(0xed48ed4b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![crane-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-tower-duotone.svg)
-  static const craneTower = PhosphorDuotoneIconData(0xed4d, 0xed49);
+  static const craneTower = IconData(0xed49ed4d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![credit-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/credit-card-duotone.svg)
-  static const creditCard = PhosphorDuotoneIconData(0xe1d3, 0xe1d2);
+  static const creditCard = IconData(0xe1d2e1d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cricket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cricket-duotone.svg)
-  static const cricket = PhosphorDuotoneIconData(0xee13, 0xee12);
+  static const cricket = IconData(0xee12ee13, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![crop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crop-duotone.svg)
-  static const crop = PhosphorDuotoneIconData(0xe1d5, 0xe1d4);
+  static const crop = IconData(0xe1d4e1d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cross-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cross-duotone.svg)
-  static const cross = PhosphorDuotoneIconData(0xe8a1, 0xe8a0);
+  static const cross = IconData(0xe8a0e8a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![crosshair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-duotone.svg)
-  static const crosshair = PhosphorDuotoneIconData(0xe1d7, 0xe1d6);
+  static const crosshair = IconData(0xe1d6e1d7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![crosshair-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-simple-duotone.svg)
-  static const crosshairSimple = PhosphorDuotoneIconData(0xe1d9, 0xe1d8);
+  static const crosshairSimple = IconData(0xe1d8e1d9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![crown-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-duotone.svg)
-  static const crown = PhosphorDuotoneIconData(0xe615, 0xe614);
+  static const crown = IconData(0xe614e615, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![crown-cross-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-cross-duotone.svg)
-  static const crownCross = PhosphorDuotoneIconData(0xee5f, 0xee5e);
+  static const crownCross = IconData(0xee5eee5f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![crown-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-simple-duotone.svg)
-  static const crownSimple = PhosphorDuotoneIconData(0xe617, 0xe616);
+  static const crownSimple = IconData(0xe616e617, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cube-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-duotone.svg)
-  static const cube = PhosphorDuotoneIconData(0xe1db, 0xe1da);
+  static const cube = IconData(0xe1dae1db, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cube-focus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-focus-duotone.svg)
-  static const cubeFocus = PhosphorDuotoneIconData(0xed0b, 0xed0a);
+  static const cubeFocus = IconData(0xed0aed0b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cube-transparent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-transparent-duotone.svg)
-  static const cubeTransparent = PhosphorDuotoneIconData(0xec7d, 0xec7c);
+  static const cubeTransparent = IconData(0xec7cec7d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-btc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-btc-duotone.svg)
-  static const currencyBtc = PhosphorDuotoneIconData(0xe619, 0xe618);
+  static const currencyBtc = IconData(0xe618e619, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-circle-dollar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-circle-dollar-duotone.svg)
-  static const currencyCircleDollar = PhosphorDuotoneIconData(0xe54d, 0xe54c);
+  static const currencyCircleDollar = IconData(0xe54ce54d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-cny-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-cny-duotone.svg)
-  static const currencyCny = PhosphorDuotoneIconData(0xe54f, 0xe54e);
+  static const currencyCny = IconData(0xe54ee54f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-dollar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-duotone.svg)
-  static const currencyDollar = PhosphorDuotoneIconData(0xe551, 0xe550);
+  static const currencyDollar = IconData(0xe550e551, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-dollar-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-simple-duotone.svg)
-  static const currencyDollarSimple = PhosphorDuotoneIconData(0xe553, 0xe552);
+  static const currencyDollarSimple = IconData(0xe552e553, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-eth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eth-duotone.svg)
-  static const currencyEth = PhosphorDuotoneIconData(0xeadb, 0xeada);
+  static const currencyEth = IconData(0xeadaeadb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-eur-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eur-duotone.svg)
-  static const currencyEur = PhosphorDuotoneIconData(0xe555, 0xe554);
+  static const currencyEur = IconData(0xe554e555, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-gbp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-gbp-duotone.svg)
-  static const currencyGbp = PhosphorDuotoneIconData(0xe557, 0xe556);
+  static const currencyGbp = IconData(0xe556e557, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-inr-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-inr-duotone.svg)
-  static const currencyInr = PhosphorDuotoneIconData(0xe559, 0xe558);
+  static const currencyInr = IconData(0xe558e559, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-jpy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-jpy-duotone.svg)
-  static const currencyJpy = PhosphorDuotoneIconData(0xe55b, 0xe55a);
+  static const currencyJpy = IconData(0xe55ae55b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-krw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-krw-duotone.svg)
-  static const currencyKrw = PhosphorDuotoneIconData(0xe55d, 0xe55c);
+  static const currencyKrw = IconData(0xe55ce55d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-kzt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-kzt-duotone.svg)
-  static const currencyKzt = PhosphorDuotoneIconData(0xec4d, 0xec4c);
+  static const currencyKzt = IconData(0xec4cec4d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-ngn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-ngn-duotone.svg)
-  static const currencyNgn = PhosphorDuotoneIconData(0xeb53, 0xeb52);
+  static const currencyNgn = IconData(0xeb52eb53, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![currency-rub-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-rub-duotone.svg)
-  static const currencyRub = PhosphorDuotoneIconData(0xe55f, 0xe55e);
+  static const currencyRub = IconData(0xe55ee55f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cursor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-duotone.svg)
-  static const cursor = PhosphorDuotoneIconData(0xe1dd, 0xe1dc);
+  static const cursor = IconData(0xe1dce1dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cursor-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-click-duotone.svg)
-  static const cursorClick = PhosphorDuotoneIconData(0xe7c9, 0xe7c8);
+  static const cursorClick = IconData(0xe7c8e7c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cursor-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-text-duotone.svg)
-  static const cursorText = PhosphorDuotoneIconData(0xe7d9, 0xe7d8);
+  static const cursorText = IconData(0xe7d8e7d9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cylinder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cylinder-duotone.svg)
-  static const cylinder = PhosphorDuotoneIconData(0xe8fd, 0xe8fc);
+  static const cylinder = IconData(0xe8fce8fd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![database-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/database-duotone.svg)
-  static const database = PhosphorDuotoneIconData(0xe1df, 0xe1de);
+  static const database = IconData(0xe1dee1df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![desk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desk-duotone.svg)
-  static const desk = PhosphorDuotoneIconData(0xed17, 0xed16);
+  static const desk = IconData(0xed16ed17, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![desktop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-duotone.svg)
-  static const desktop = PhosphorDuotoneIconData(0xe561, 0xe560);
+  static const desktop = IconData(0xe560e561, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![desktop-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-tower-duotone.svg)
-  static const desktopTower = PhosphorDuotoneIconData(0xe563, 0xe562);
+  static const desktopTower = IconData(0xe562e563, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![detective-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/detective-duotone.svg)
-  static const detective = PhosphorDuotoneIconData(0xe83f, 0xe83e);
+  static const detective = IconData(0xe83ee83f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dev-to-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dev-to-logo-duotone.svg)
-  static const devToLogo = PhosphorDuotoneIconData(0xed0f, 0xed0e);
+  static const devToLogo = IconData(0xed0eed0f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![device-mobile-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-duotone.svg)
-  static const deviceMobile = PhosphorDuotoneIconData(0xe1e1, 0xe1e0);
+  static const deviceMobile = IconData(0xe1e0e1e1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![device-mobile-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-camera-duotone.svg)
-  static const deviceMobileCamera = PhosphorDuotoneIconData(0xe1e3, 0xe1e2);
+  static const deviceMobileCamera = IconData(0xe1e2e1e3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![device-mobile-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-slash-duotone.svg)
-  static const deviceMobileSlash = PhosphorDuotoneIconData(0xee47, 0xee46);
+  static const deviceMobileSlash = IconData(0xee46ee47, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![device-mobile-speaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-speaker-duotone.svg)
-  static const deviceMobileSpeaker = PhosphorDuotoneIconData(0xe1e5, 0xe1e4);
+  static const deviceMobileSpeaker = IconData(0xe1e4e1e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![device-rotate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-rotate-duotone.svg)
-  static const deviceRotate = PhosphorDuotoneIconData(0xedf3, 0xedf2);
+  static const deviceRotate = IconData(0xedf2edf3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![device-tablet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-duotone.svg)
-  static const deviceTablet = PhosphorDuotoneIconData(0xe1e7, 0xe1e6);
+  static const deviceTablet = IconData(0xe1e6e1e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![device-tablet-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-camera-duotone.svg)
-  static const deviceTabletCamera = PhosphorDuotoneIconData(0xe1e9, 0xe1e8);
+  static const deviceTabletCamera = IconData(0xe1e8e1e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![device-tablet-speaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-speaker-duotone.svg)
-  static const deviceTabletSpeaker = PhosphorDuotoneIconData(0xe1eb, 0xe1ea);
+  static const deviceTabletSpeaker = IconData(0xe1eae1eb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![devices-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/devices-duotone.svg)
-  static const devices = PhosphorDuotoneIconData(0xeba5, 0xeba4);
+  static const devices = IconData(0xeba4eba5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![diamond-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamond-duotone.svg)
-  static const diamond = PhosphorDuotoneIconData(0xe1ed, 0xe1ec);
+  static const diamond = IconData(0xe1ece1ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![diamonds-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamonds-four-duotone.svg)
-  static const diamondsFour = PhosphorDuotoneIconData(0xe8f5, 0xe8f4);
+  static const diamondsFour = IconData(0xe8f4e8f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dice-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-five-duotone.svg)
-  static const diceFive = PhosphorDuotoneIconData(0xe1ef, 0xe1ee);
+  static const diceFive = IconData(0xe1eee1ef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dice-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-four-duotone.svg)
-  static const diceFour = PhosphorDuotoneIconData(0xe1f1, 0xe1f0);
+  static const diceFour = IconData(0xe1f0e1f1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dice-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-one-duotone.svg)
-  static const diceOne = PhosphorDuotoneIconData(0xe1f3, 0xe1f2);
+  static const diceOne = IconData(0xe1f2e1f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dice-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-six-duotone.svg)
-  static const diceSix = PhosphorDuotoneIconData(0xe1f5, 0xe1f4);
+  static const diceSix = IconData(0xe1f4e1f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dice-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-three-duotone.svg)
-  static const diceThree = PhosphorDuotoneIconData(0xe1f7, 0xe1f6);
+  static const diceThree = IconData(0xe1f6e1f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dice-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-two-duotone.svg)
-  static const diceTwo = PhosphorDuotoneIconData(0xe1f9, 0xe1f8);
+  static const diceTwo = IconData(0xe1f8e1f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![disc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disc-duotone.svg)
-  static const disc = PhosphorDuotoneIconData(0xe565, 0xe564);
+  static const disc = IconData(0xe564e565, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![disco-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disco-ball-duotone.svg)
-  static const discoBall = PhosphorDuotoneIconData(0xed99, 0xed98);
+  static const discoBall = IconData(0xed98ed99, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![discord-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/discord-logo-duotone.svg)
-  static const discordLogo = PhosphorDuotoneIconData(0xe61b, 0xe61a);
+  static const discordLogo = IconData(0xe61ae61b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![divide-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/divide-duotone.svg)
-  static const divide = PhosphorDuotoneIconData(0xe1fb, 0xe1fa);
+  static const divide = IconData(0xe1fae1fb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dna-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dna-duotone.svg)
-  static const dna = PhosphorDuotoneIconData(0xe925, 0xe924);
+  static const dna = IconData(0xe924e925, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dog-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dog-duotone.svg)
-  static const dog = PhosphorDuotoneIconData(0xe74b, 0xe74a);
+  static const dog = IconData(0xe74ae74b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![door-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-duotone.svg)
-  static const door = PhosphorDuotoneIconData(0xe61d, 0xe61c);
+  static const door = IconData(0xe61ce61d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![door-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-open-duotone.svg)
-  static const doorOpen = PhosphorDuotoneIconData(0xe7e7, 0xe7e6);
+  static const doorOpen = IconData(0xe7e6e7e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-duotone.svg)
-  static const dot = PhosphorDuotoneIconData(0xecdf, 0xecde);
+  static const dot = IconData(0xecdeecdf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dot-outline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-outline-duotone.svg)
-  static const dotOutline = PhosphorDuotoneIconData(0xece1, 0xece0);
+  static const dotOutline = IconData(0xece0ece1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-nine-duotone.svg)
-  static const dotsNine = PhosphorDuotoneIconData(0xe1fd, 0xe1fc);
+  static const dotsNine = IconData(0xe1fce1fd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-duotone.svg)
-  static const dotsSix = PhosphorDuotoneIconData(0xe795, 0xe794);
+  static const dotsSix = IconData(0xe794e795, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-six-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-vertical-duotone.svg)
-  static const dotsSixVertical = PhosphorDuotoneIconData(0xeae3, 0xeae2);
+  static const dotsSixVertical = IconData(0xeae2eae3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-duotone.svg)
-  static const dotsThree = PhosphorDuotoneIconData(0xe1ff, 0xe1fe);
+  static const dotsThree = IconData(0xe1fee1ff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-three-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-duotone.svg)
-  static const dotsThreeCircle = PhosphorDuotoneIconData(0xe201, 0xe200);
+  static const dotsThreeCircle = IconData(0xe200e201, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-three-circle-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-vertical-duotone.svg)
-  static const dotsThreeCircleVertical = PhosphorDuotoneIconData(0xe203, 0xe202);
+  static const dotsThreeCircleVertical = IconData(0xe202e203, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-three-outline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-duotone.svg)
-  static const dotsThreeOutline = PhosphorDuotoneIconData(0xe205, 0xe204);
+  static const dotsThreeOutline = IconData(0xe204e205, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-three-outline-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-vertical-duotone.svg)
-  static const dotsThreeOutlineVertical = PhosphorDuotoneIconData(0xe207, 0xe206);
+  static const dotsThreeOutlineVertical = IconData(0xe206e207, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dots-three-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-vertical-duotone.svg)
-  static const dotsThreeVertical = PhosphorDuotoneIconData(0xe209, 0xe208);
+  static const dotsThreeVertical = IconData(0xe208e209, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![download-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-duotone.svg)
-  static const download = PhosphorDuotoneIconData(0xe20b, 0xe20a);
+  static const download = IconData(0xe20ae20b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![download-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-simple-duotone.svg)
-  static const downloadSimple = PhosphorDuotoneIconData(0xe20d, 0xe20c);
+  static const downloadSimple = IconData(0xe20ce20d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dress-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dress-duotone.svg)
-  static const dress = PhosphorDuotoneIconData(0xea7f, 0xea7e);
+  static const dress = IconData(0xea7eea7f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dresser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dresser-duotone.svg)
-  static const dresser = PhosphorDuotoneIconData(0xe94f, 0xe94e);
+  static const dresser = IconData(0xe94ee94f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dribbble-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dribbble-logo-duotone.svg)
-  static const dribbbleLogo = PhosphorDuotoneIconData(0xe20f, 0xe20e);
+  static const dribbbleLogo = IconData(0xe20ee20f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![drone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drone-duotone.svg)
-  static const drone = PhosphorDuotoneIconData(0xed75, 0xed74);
+  static const drone = IconData(0xed74ed75, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![drop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-duotone.svg)
-  static const drop = PhosphorDuotoneIconData(0xe211, 0xe210);
+  static const drop = IconData(0xe210e211, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![drop-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-duotone.svg)
-  static const dropHalf = PhosphorDuotoneIconData(0xe567, 0xe566);
+  static const dropHalf = IconData(0xe566e567, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![drop-half-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-bottom-duotone.svg)
-  static const dropHalfBottom = PhosphorDuotoneIconData(0xeb41, 0xeb40);
+  static const dropHalfBottom = IconData(0xeb40eb41, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![drop-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-simple-duotone.svg)
-  static const dropSimple = PhosphorDuotoneIconData(0xee33, 0xee32);
+  static const dropSimple = IconData(0xee32ee33, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![drop-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-slash-duotone.svg)
-  static const dropSlash = PhosphorDuotoneIconData(0xe955, 0xe954);
+  static const dropSlash = IconData(0xe954e955, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![dropbox-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dropbox-logo-duotone.svg)
-  static const dropboxLogo = PhosphorDuotoneIconData(0xe7d1, 0xe7d0);
+  static const dropboxLogo = IconData(0xe7d0e7d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-duotone.svg)
-  static const ear = PhosphorDuotoneIconData(0xe70d, 0xe70c);
+  static const ear = IconData(0xe70ce70d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ear-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-slash-duotone.svg)
-  static const earSlash = PhosphorDuotoneIconData(0xe70f, 0xe70e);
+  static const earSlash = IconData(0xe70ee70f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![egg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-duotone.svg)
-  static const egg = PhosphorDuotoneIconData(0xe813, 0xe812);
+  static const egg = IconData(0xe812e813, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![egg-crack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-crack-duotone.svg)
-  static const eggCrack = PhosphorDuotoneIconData(0xeb65, 0xeb64);
+  static const eggCrack = IconData(0xeb64eb65, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eject-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-duotone.svg)
-  static const eject = PhosphorDuotoneIconData(0xe213, 0xe212);
+  static const eject = IconData(0xe212e213, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eject-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-simple-duotone.svg)
-  static const ejectSimple = PhosphorDuotoneIconData(0xe6af, 0xe6ae);
+  static const ejectSimple = IconData(0xe6aee6af, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![elevator-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/elevator-duotone.svg)
-  static const elevator = PhosphorDuotoneIconData(0xecc1, 0xecc0);
+  static const elevator = IconData(0xecc0ecc1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/empty-duotone.svg)
-  static const empty = PhosphorDuotoneIconData(0xedbd, 0xedbc);
+  static const empty = IconData(0xedbcedbd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![engine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/engine-duotone.svg)
-  static const engine = PhosphorDuotoneIconData(0xea81, 0xea80);
+  static const engine = IconData(0xea80ea81, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![envelope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-duotone.svg)
-  static const envelope = PhosphorDuotoneIconData(0xe215, 0xe214);
+  static const envelope = IconData(0xe214e215, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![envelope-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-open-duotone.svg)
-  static const envelopeOpen = PhosphorDuotoneIconData(0xe217, 0xe216);
+  static const envelopeOpen = IconData(0xe216e217, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![envelope-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-duotone.svg)
-  static const envelopeSimple = PhosphorDuotoneIconData(0xe219, 0xe218);
+  static const envelopeSimple = IconData(0xe218e219, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![envelope-simple-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-open-duotone.svg)
-  static const envelopeSimpleOpen = PhosphorDuotoneIconData(0xe21b, 0xe21a);
+  static const envelopeSimpleOpen = IconData(0xe21ae21b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![equalizer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equalizer-duotone.svg)
-  static const equalizer = PhosphorDuotoneIconData(0xebbd, 0xebbc);
+  static const equalizer = IconData(0xebbcebbd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equals-duotone.svg)
-  static const equals = PhosphorDuotoneIconData(0xe21d, 0xe21c);
+  static const equals = IconData(0xe21ce21d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eraser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eraser-duotone.svg)
-  static const eraser = PhosphorDuotoneIconData(0xe21f, 0xe21e);
+  static const eraser = IconData(0xe21ee21f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![escalator-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-down-duotone.svg)
-  static const escalatorDown = PhosphorDuotoneIconData(0xecbb, 0xecba);
+  static const escalatorDown = IconData(0xecbaecbb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![escalator-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-up-duotone.svg)
-  static const escalatorUp = PhosphorDuotoneIconData(0xecbd, 0xecbc);
+  static const escalatorUp = IconData(0xecbcecbd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![exam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exam-duotone.svg)
-  static const exam = PhosphorDuotoneIconData(0xe743, 0xe742);
+  static const exam = IconData(0xe742e743, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![exclamation-mark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclamation-mark-duotone.svg)
-  static const exclamationMark = PhosphorDuotoneIconData(0xee45, 0xee44);
+  static const exclamationMark = IconData(0xee44ee45, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![exclude-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-duotone.svg)
-  static const exclude = PhosphorDuotoneIconData(0xe883, 0xe882);
+  static const exclude = IconData(0xe882e883, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![exclude-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-square-duotone.svg)
-  static const excludeSquare = PhosphorDuotoneIconData(0xe881, 0xe880);
+  static const excludeSquare = IconData(0xe880e881, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![export-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/export-duotone.svg)
-  static const export = PhosphorDuotoneIconData(0xeaf1, 0xeaf0);
+  static const export = IconData(0xeaf0eaf1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eye-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-duotone.svg)
-  static const eye = PhosphorDuotoneIconData(0xe221, 0xe220);
+  static const eye = IconData(0xe220e221, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eye-closed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-closed-duotone.svg)
-  static const eyeClosed = PhosphorDuotoneIconData(0xe223, 0xe222);
+  static const eyeClosed = IconData(0xe222e223, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eye-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-slash-duotone.svg)
-  static const eyeSlash = PhosphorDuotoneIconData(0xe225, 0xe224);
+  static const eyeSlash = IconData(0xe224e225, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eyedropper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-duotone.svg)
-  static const eyedropper = PhosphorDuotoneIconData(0xe569, 0xe568);
+  static const eyedropper = IconData(0xe568e569, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eyedropper-sample-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-sample-duotone.svg)
-  static const eyedropperSample = PhosphorDuotoneIconData(0xeac5, 0xeac4);
+  static const eyedropperSample = IconData(0xeac4eac5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eyeglasses-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyeglasses-duotone.svg)
-  static const eyeglasses = PhosphorDuotoneIconData(0xe7bb, 0xe7ba);
+  static const eyeglasses = IconData(0xe7bae7bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![eyes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyes-duotone.svg)
-  static const eyes = PhosphorDuotoneIconData(0xee5d, 0xee5c);
+  static const eyes = IconData(0xee5cee5d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![face-mask-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/face-mask-duotone.svg)
-  static const faceMask = PhosphorDuotoneIconData(0xe56b, 0xe56a);
+  static const faceMask = IconData(0xe56ae56b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![facebook-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/facebook-logo-duotone.svg)
-  static const facebookLogo = PhosphorDuotoneIconData(0xe227, 0xe226);
+  static const facebookLogo = IconData(0xe226e227, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![factory-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/factory-duotone.svg)
-  static const factory = PhosphorDuotoneIconData(0xe761, 0xe760);
+  static const factory = IconData(0xe760e761, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![faders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-duotone.svg)
-  static const faders = PhosphorDuotoneIconData(0xe229, 0xe228);
+  static const faders = IconData(0xe228e229, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![faders-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-horizontal-duotone.svg)
-  static const fadersHorizontal = PhosphorDuotoneIconData(0xe22b, 0xe22a);
+  static const fadersHorizontal = IconData(0xe22ae22b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fallout-shelter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fallout-shelter-duotone.svg)
-  static const falloutShelter = PhosphorDuotoneIconData(0xe9df, 0xe9de);
+  static const falloutShelter = IconData(0xe9dee9df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fan-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fan-duotone.svg)
-  static const fan = PhosphorDuotoneIconData(0xe9f3, 0xe9f2);
+  static const fan = IconData(0xe9f2e9f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![farm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/farm-duotone.svg)
-  static const farm = PhosphorDuotoneIconData(0xec71, 0xec70);
+  static const farm = IconData(0xec70ec71, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fast-forward-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-duotone.svg)
-  static const fastForward = PhosphorDuotoneIconData(0xe6a7, 0xe6a6);
+  static const fastForward = IconData(0xe6a6e6a7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fast-forward-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-circle-duotone.svg)
-  static const fastForwardCircle = PhosphorDuotoneIconData(0xe22d, 0xe22c);
+  static const fastForwardCircle = IconData(0xe22ce22d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![feather-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/feather-duotone.svg)
-  static const feather = PhosphorDuotoneIconData(0xe9c1, 0xe9c0);
+  static const feather = IconData(0xe9c0e9c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fediverse-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fediverse-logo-duotone.svg)
-  static const fediverseLogo = PhosphorDuotoneIconData(0xed67, 0xed66);
+  static const fediverseLogo = IconData(0xed66ed67, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![figma-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/figma-logo-duotone.svg)
-  static const figmaLogo = PhosphorDuotoneIconData(0xe22f, 0xe22e);
+  static const figmaLogo = IconData(0xe22ee22f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-duotone.svg)
-  static const file = PhosphorDuotoneIconData(0xe231, 0xe230);
+  static const file = IconData(0xe230e231, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-archive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-archive-duotone.svg)
-  static const fileArchive = PhosphorDuotoneIconData(0xeb2b, 0xeb2a);
+  static const fileArchive = IconData(0xeb2aeb2b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-down-duotone.svg)
-  static const fileArrowDown = PhosphorDuotoneIconData(0xe233, 0xe232);
+  static const fileArrowDown = IconData(0xe232e233, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-up-duotone.svg)
-  static const fileArrowUp = PhosphorDuotoneIconData(0xe61f, 0xe61e);
+  static const fileArrowUp = IconData(0xe61ee61f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-audio-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-audio-duotone.svg)
-  static const fileAudio = PhosphorDuotoneIconData(0xea21, 0xea20);
+  static const fileAudio = IconData(0xea20ea21, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-c-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-duotone.svg)
-  static const fileC = PhosphorDuotoneIconData(0xeb36, 0xeb32);
+  static const fileC = IconData(0xeb32eb36, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-c-sharp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-sharp-duotone.svg)
-  static const fileCSharp = PhosphorDuotoneIconData(0xeb31, 0xeb30);
+  static const fileCSharp = IconData(0xeb30eb31, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cloud-duotone.svg)
-  static const fileCloud = PhosphorDuotoneIconData(0xe95f, 0xe95e);
+  static const fileCloud = IconData(0xe95ee95f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-code-duotone.svg)
-  static const fileCode = PhosphorDuotoneIconData(0xe915, 0xe914);
+  static const fileCode = IconData(0xe914e915, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-cpp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cpp-duotone.svg)
-  static const fileCpp = PhosphorDuotoneIconData(0xeb2f, 0xeb2e);
+  static const fileCpp = IconData(0xeb2eeb2f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-css-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-css-duotone.svg)
-  static const fileCss = PhosphorDuotoneIconData(0xeb37, 0xeb34);
+  static const fileCss = IconData(0xeb34eb37, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-csv-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-csv-duotone.svg)
-  static const fileCsv = PhosphorDuotoneIconData(0xeb1d, 0xeb1c);
+  static const fileCsv = IconData(0xeb1ceb1d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-dashed-duotone.svg)
-  static const fileDashed = PhosphorDuotoneIconData(0xe705, 0xe704);
+  static const fileDashed = IconData(0xe704e705, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-doc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-doc-duotone.svg)
-  static const fileDoc = PhosphorDuotoneIconData(0xeb1f, 0xeb1e);
+  static const fileDoc = IconData(0xeb1eeb1f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-html-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-html-duotone.svg)
-  static const fileHtml = PhosphorDuotoneIconData(0xeb39, 0xeb38);
+  static const fileHtml = IconData(0xeb38eb39, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-image-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-image-duotone.svg)
-  static const fileImage = PhosphorDuotoneIconData(0xea25, 0xea24);
+  static const fileImage = IconData(0xea24ea25, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-ini-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ini-duotone.svg)
-  static const fileIni = PhosphorDuotoneIconData(0xeb3b, 0xeb33);
+  static const fileIni = IconData(0xeb33eb3b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-jpg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jpg-duotone.svg)
-  static const fileJpg = PhosphorDuotoneIconData(0xeb1b, 0xeb1a);
+  static const fileJpg = IconData(0xeb1aeb1b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-js-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-js-duotone.svg)
-  static const fileJs = PhosphorDuotoneIconData(0xeb25, 0xeb24);
+  static const fileJs = IconData(0xeb24eb25, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-jsx-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jsx-duotone.svg)
-  static const fileJsx = PhosphorDuotoneIconData(0xeb3d, 0xeb3a);
+  static const fileJsx = IconData(0xeb3aeb3d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-lock-duotone.svg)
-  static const fileLock = PhosphorDuotoneIconData(0xe95d, 0xe95c);
+  static const fileLock = IconData(0xe95ce95d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-magnifying-glass-duotone.svg)
-  static const fileMagnifyingGlass = PhosphorDuotoneIconData(0xe239, 0xe238);
+  static const fileMagnifyingGlass = IconData(0xe238e239, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-md-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-md-duotone.svg)
-  static const fileMd = PhosphorDuotoneIconData(0xed51, 0xed50);
+  static const fileMd = IconData(0xed50ed51, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-minus-duotone.svg)
-  static const fileMinus = PhosphorDuotoneIconData(0xe235, 0xe234);
+  static const fileMinus = IconData(0xe234e235, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-pdf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-pdf-duotone.svg)
-  static const filePdf = PhosphorDuotoneIconData(0xe703, 0xe702);
+  static const filePdf = IconData(0xe702e703, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-plus-duotone.svg)
-  static const filePlus = PhosphorDuotoneIconData(0xe237, 0xe236);
+  static const filePlus = IconData(0xe236e237, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-png-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-png-duotone.svg)
-  static const filePng = PhosphorDuotoneIconData(0xeb19, 0xeb18);
+  static const filePng = IconData(0xeb18eb19, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-ppt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ppt-duotone.svg)
-  static const filePpt = PhosphorDuotoneIconData(0xeb21, 0xeb20);
+  static const filePpt = IconData(0xeb20eb21, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-py-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-py-duotone.svg)
-  static const filePy = PhosphorDuotoneIconData(0xeb2d, 0xeb2c);
+  static const filePy = IconData(0xeb2ceb2d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-rs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-rs-duotone.svg)
-  static const fileRs = PhosphorDuotoneIconData(0xeb29, 0xeb28);
+  static const fileRs = IconData(0xeb28eb29, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-sql-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-sql-duotone.svg)
-  static const fileSql = PhosphorDuotoneIconData(0xed4f, 0xed4e);
+  static const fileSql = IconData(0xed4eed4f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-svg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-svg-duotone.svg)
-  static const fileSvg = PhosphorDuotoneIconData(0xed09, 0xed08);
+  static const fileSvg = IconData(0xed08ed09, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-text-duotone.svg)
-  static const fileText = PhosphorDuotoneIconData(0xe23b, 0xe23a);
+  static const fileText = IconData(0xe23ae23b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-ts-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ts-duotone.svg)
-  static const fileTs = PhosphorDuotoneIconData(0xeb27, 0xeb26);
+  static const fileTs = IconData(0xeb26eb27, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-tsx-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-tsx-duotone.svg)
-  static const fileTsx = PhosphorDuotoneIconData(0xeb3f, 0xeb3c);
+  static const fileTsx = IconData(0xeb3ceb3f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-txt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-txt-duotone.svg)
-  static const fileTxt = PhosphorDuotoneIconData(0xeb43, 0xeb35);
+  static const fileTxt = IconData(0xeb35eb43, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-video-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-video-duotone.svg)
-  static const fileVideo = PhosphorDuotoneIconData(0xea23, 0xea22);
+  static const fileVideo = IconData(0xea22ea23, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-vue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-vue-duotone.svg)
-  static const fileVue = PhosphorDuotoneIconData(0xeb47, 0xeb3e);
+  static const fileVue = IconData(0xeb3eeb47, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-x-duotone.svg)
-  static const fileX = PhosphorDuotoneIconData(0xe23d, 0xe23c);
+  static const fileX = IconData(0xe23ce23d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-xls-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-xls-duotone.svg)
-  static const fileXls = PhosphorDuotoneIconData(0xeb23, 0xeb22);
+  static const fileXls = IconData(0xeb22eb23, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![file-zip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-zip-duotone.svg)
-  static const fileZip = PhosphorDuotoneIconData(0xe959, 0xe958);
+  static const fileZip = IconData(0xe958e959, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![files-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/files-duotone.svg)
-  static const files = PhosphorDuotoneIconData(0xe711, 0xe710);
+  static const files = IconData(0xe710e711, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![film-reel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-reel-duotone.svg)
-  static const filmReel = PhosphorDuotoneIconData(0xe8c1, 0xe8c0);
+  static const filmReel = IconData(0xe8c0e8c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![film-script-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-script-duotone.svg)
-  static const filmScript = PhosphorDuotoneIconData(0xeb51, 0xeb50);
+  static const filmScript = IconData(0xeb50eb51, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![film-slate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-slate-duotone.svg)
-  static const filmSlate = PhosphorDuotoneIconData(0xe8c3, 0xe8c2);
+  static const filmSlate = IconData(0xe8c2e8c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![film-strip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-strip-duotone.svg)
-  static const filmStrip = PhosphorDuotoneIconData(0xe793, 0xe792);
+  static const filmStrip = IconData(0xe792e793, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fingerprint-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-duotone.svg)
-  static const fingerprint = PhosphorDuotoneIconData(0xe23f, 0xe23e);
+  static const fingerprint = IconData(0xe23ee23f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fingerprint-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-simple-duotone.svg)
-  static const fingerprintSimple = PhosphorDuotoneIconData(0xe241, 0xe240);
+  static const fingerprintSimple = IconData(0xe240e241, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![finn-the-human-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/finn-the-human-duotone.svg)
-  static const finnTheHuman = PhosphorDuotoneIconData(0xe56d, 0xe56c);
+  static const finnTheHuman = IconData(0xe56ce56d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-duotone.svg)
-  static const fire = PhosphorDuotoneIconData(0xe243, 0xe242);
+  static const fire = IconData(0xe242e243, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fire-extinguisher-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-extinguisher-duotone.svg)
-  static const fireExtinguisher = PhosphorDuotoneIconData(0xe9e9, 0xe9e8);
+  static const fireExtinguisher = IconData(0xe9e8e9e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fire-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-simple-duotone.svg)
-  static const fireSimple = PhosphorDuotoneIconData(0xe621, 0xe620);
+  static const fireSimple = IconData(0xe620e621, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fire-truck-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-truck-duotone.svg)
-  static const fireTruck = PhosphorDuotoneIconData(0xe575, 0xe574);
+  static const fireTruck = IconData(0xe574e575, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![first-aid-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-duotone.svg)
-  static const firstAid = PhosphorDuotoneIconData(0xe56f, 0xe56e);
+  static const firstAid = IconData(0xe56ee56f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![first-aid-kit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-kit-duotone.svg)
-  static const firstAidKit = PhosphorDuotoneIconData(0xe571, 0xe570);
+  static const firstAidKit = IconData(0xe570e571, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fish-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-duotone.svg)
-  static const fish = PhosphorDuotoneIconData(0xe729, 0xe728);
+  static const fish = IconData(0xe728e729, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fish-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-simple-duotone.svg)
-  static const fishSimple = PhosphorDuotoneIconData(0xe72b, 0xe72a);
+  static const fishSimple = IconData(0xe72ae72b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-duotone.svg)
-  static const flag = PhosphorDuotoneIconData(0xe245, 0xe244);
+  static const flag = IconData(0xe244e245, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flag-banner-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-duotone.svg)
-  static const flagBanner = PhosphorDuotoneIconData(0xe623, 0xe622);
+  static const flagBanner = IconData(0xe622e623, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flag-banner-fold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-fold-duotone.svg)
-  static const flagBannerFold = PhosphorDuotoneIconData(0xecf3, 0xecf2);
+  static const flagBannerFold = IconData(0xecf2ecf3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flag-checkered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-checkered-duotone.svg)
-  static const flagCheckered = PhosphorDuotoneIconData(0xea39, 0xea38);
+  static const flagCheckered = IconData(0xea38ea39, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flag-pennant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-pennant-duotone.svg)
-  static const flagPennant = PhosphorDuotoneIconData(0xecf1, 0xecf0);
+  static const flagPennant = IconData(0xecf0ecf1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flame-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flame-duotone.svg)
-  static const flame = PhosphorDuotoneIconData(0xe625, 0xe624);
+  static const flame = IconData(0xe624e625, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flashlight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flashlight-duotone.svg)
-  static const flashlight = PhosphorDuotoneIconData(0xe247, 0xe246);
+  static const flashlight = IconData(0xe246e247, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flask-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flask-duotone.svg)
-  static const flask = PhosphorDuotoneIconData(0xe79f, 0xe79e);
+  static const flask = IconData(0xe79ee79f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flip-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-horizontal-duotone.svg)
-  static const flipHorizontal = PhosphorDuotoneIconData(0xed6b, 0xed6a);
+  static const flipHorizontal = IconData(0xed6aed6b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flip-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-vertical-duotone.svg)
-  static const flipVertical = PhosphorDuotoneIconData(0xed6d, 0xed6c);
+  static const flipVertical = IconData(0xed6ced6d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![floppy-disk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-duotone.svg)
-  static const floppyDisk = PhosphorDuotoneIconData(0xe249, 0xe248);
+  static const floppyDisk = IconData(0xe248e249, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![floppy-disk-back-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-back-duotone.svg)
-  static const floppyDiskBack = PhosphorDuotoneIconData(0xeaf5, 0xeaf4);
+  static const floppyDiskBack = IconData(0xeaf4eaf5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flow-arrow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flow-arrow-duotone.svg)
-  static const flowArrow = PhosphorDuotoneIconData(0xe6ed, 0xe6ec);
+  static const flowArrow = IconData(0xe6ece6ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-duotone.svg)
-  static const flower = PhosphorDuotoneIconData(0xe75f, 0xe75e);
+  static const flower = IconData(0xe75ee75f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flower-lotus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-lotus-duotone.svg)
-  static const flowerLotus = PhosphorDuotoneIconData(0xe6cd, 0xe6cc);
+  static const flowerLotus = IconData(0xe6cce6cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flower-tulip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-tulip-duotone.svg)
-  static const flowerTulip = PhosphorDuotoneIconData(0xeacd, 0xeacc);
+  static const flowerTulip = IconData(0xeacceacd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![flying-saucer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flying-saucer-duotone.svg)
-  static const flyingSaucer = PhosphorDuotoneIconData(0xeb4b, 0xeb4a);
+  static const flyingSaucer = IconData(0xeb4aeb4b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-duotone.svg)
-  static const folder = PhosphorDuotoneIconData(0xe24b, 0xe24a);
+  static const folder = IconData(0xe24ae24b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-dashed-duotone.svg)
-  static const folderDashed = PhosphorDuotoneIconData(0xe8f9, 0xe8f8);
+  static const folderDashed = IconData(0xe8f8e8f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-lock-duotone.svg)
-  static const folderLock = PhosphorDuotoneIconData(0xea3d, 0xea3c);
+  static const folderLock = IconData(0xea3cea3d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-minus-duotone.svg)
-  static const folderMinus = PhosphorDuotoneIconData(0xe255, 0xe254);
+  static const folderMinus = IconData(0xe254e255, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-open-duotone.svg)
-  static const folderOpen = PhosphorDuotoneIconData(0xe257, 0xe256);
+  static const folderOpen = IconData(0xe256e257, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-plus-duotone.svg)
-  static const folderPlus = PhosphorDuotoneIconData(0xe259, 0xe258);
+  static const folderPlus = IconData(0xe258e259, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-duotone.svg)
-  static const folderSimple = PhosphorDuotoneIconData(0xe25b, 0xe25a);
+  static const folderSimple = IconData(0xe25ae25b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-simple-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-dashed-duotone.svg)
-  static const folderSimpleDashed = PhosphorDuotoneIconData(0xec2b, 0xec2a);
+  static const folderSimpleDashed = IconData(0xec2aec2b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-simple-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-lock-duotone.svg)
-  static const folderSimpleLock = PhosphorDuotoneIconData(0xeb5f, 0xeb5e);
+  static const folderSimpleLock = IconData(0xeb5eeb5f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-simple-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-minus-duotone.svg)
-  static const folderSimpleMinus = PhosphorDuotoneIconData(0xe25d, 0xe25c);
+  static const folderSimpleMinus = IconData(0xe25ce25d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-simple-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-plus-duotone.svg)
-  static const folderSimplePlus = PhosphorDuotoneIconData(0xe25f, 0xe25e);
+  static const folderSimplePlus = IconData(0xe25ee25f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-simple-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-star-duotone.svg)
-  static const folderSimpleStar = PhosphorDuotoneIconData(0xec2f, 0xec2e);
+  static const folderSimpleStar = IconData(0xec2eec2f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-simple-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-user-duotone.svg)
-  static const folderSimpleUser = PhosphorDuotoneIconData(0xeb61, 0xeb60);
+  static const folderSimpleUser = IconData(0xeb60eb61, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-star-duotone.svg)
-  static const folderStar = PhosphorDuotoneIconData(0xea87, 0xea86);
+  static const folderStar = IconData(0xea86ea87, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folder-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-user-duotone.svg)
-  static const folderUser = PhosphorDuotoneIconData(0xeb4c, 0xeb46);
+  static const folderUser = IconData(0xeb46eb4c, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![folders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folders-duotone.svg)
-  static const folders = PhosphorDuotoneIconData(0xe261, 0xe260);
+  static const folders = IconData(0xe260e261, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![football-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-duotone.svg)
-  static const football = PhosphorDuotoneIconData(0xe719, 0xe718);
+  static const football = IconData(0xe718e719, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![football-helmet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-helmet-duotone.svg)
-  static const footballHelmet = PhosphorDuotoneIconData(0xee4d, 0xee4c);
+  static const footballHelmet = IconData(0xee4cee4d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![footprints-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/footprints-duotone.svg)
-  static const footprints = PhosphorDuotoneIconData(0xea89, 0xea88);
+  static const footprints = IconData(0xea88ea89, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![fork-knife-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fork-knife-duotone.svg)
-  static const forkKnife = PhosphorDuotoneIconData(0xe263, 0xe262);
+  static const forkKnife = IconData(0xe262e263, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![four-k-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/four-k-duotone.svg)
-  static const fourK = PhosphorDuotoneIconData(0xea5d, 0xea5c);
+  static const fourK = IconData(0xea5cea5d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![frame-corners-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/frame-corners-duotone.svg)
-  static const frameCorners = PhosphorDuotoneIconData(0xe627, 0xe626);
+  static const frameCorners = IconData(0xe626e627, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![framer-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/framer-logo-duotone.svg)
-  static const framerLogo = PhosphorDuotoneIconData(0xe265, 0xe264);
+  static const framerLogo = IconData(0xe264e265, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![function-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/function-duotone.svg)
-  static const function = PhosphorDuotoneIconData(0xebe5, 0xebe4);
+  static const function = IconData(0xebe4ebe5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![funnel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-duotone.svg)
-  static const funnel = PhosphorDuotoneIconData(0xe267, 0xe266);
+  static const funnel = IconData(0xe266e267, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![funnel-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-duotone.svg)
-  static const funnelSimple = PhosphorDuotoneIconData(0xe269, 0xe268);
+  static const funnelSimple = IconData(0xe268e269, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![funnel-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-x-duotone.svg)
-  static const funnelSimpleX = PhosphorDuotoneIconData(0xe26b, 0xe26a);
+  static const funnelSimpleX = IconData(0xe26ae26b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![funnel-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-x-duotone.svg)
-  static const funnelX = PhosphorDuotoneIconData(0xe26d, 0xe26c);
+  static const funnelX = IconData(0xe26ce26d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![game-controller-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/game-controller-duotone.svg)
-  static const gameController = PhosphorDuotoneIconData(0xe26f, 0xe26e);
+  static const gameController = IconData(0xe26ee26f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![garage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/garage-duotone.svg)
-  static const garage = PhosphorDuotoneIconData(0xecd7, 0xecd6);
+  static const garage = IconData(0xecd6ecd7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gas-can-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-can-duotone.svg)
-  static const gasCan = PhosphorDuotoneIconData(0xe8cf, 0xe8ce);
+  static const gasCan = IconData(0xe8cee8cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gas-pump-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-pump-duotone.svg)
-  static const gasPump = PhosphorDuotoneIconData(0xe769, 0xe768);
+  static const gasPump = IconData(0xe768e769, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gauge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gauge-duotone.svg)
-  static const gauge = PhosphorDuotoneIconData(0xe629, 0xe628);
+  static const gauge = IconData(0xe628e629, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gavel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gavel-duotone.svg)
-  static const gavel = PhosphorDuotoneIconData(0xea33, 0xea32);
+  static const gavel = IconData(0xea32ea33, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-duotone.svg)
-  static const gear = PhosphorDuotoneIconData(0xe271, 0xe270);
+  static const gear = IconData(0xe270e271, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gear-fine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-fine-duotone.svg)
-  static const gearFine = PhosphorDuotoneIconData(0xe87d, 0xe87c);
+  static const gearFine = IconData(0xe87ce87d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gear-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-six-duotone.svg)
-  static const gearSix = PhosphorDuotoneIconData(0xe273, 0xe272);
+  static const gearSix = IconData(0xe272e273, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gender-female-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-female-duotone.svg)
-  static const genderFemale = PhosphorDuotoneIconData(0xe6e1, 0xe6e0);
+  static const genderFemale = IconData(0xe6e0e6e1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gender-intersex-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-intersex-duotone.svg)
-  static const genderIntersex = PhosphorDuotoneIconData(0xe6e7, 0xe6e6);
+  static const genderIntersex = IconData(0xe6e6e6e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gender-male-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-male-duotone.svg)
-  static const genderMale = PhosphorDuotoneIconData(0xe6e3, 0xe6e2);
+  static const genderMale = IconData(0xe6e2e6e3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gender-neuter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-neuter-duotone.svg)
-  static const genderNeuter = PhosphorDuotoneIconData(0xe6eb, 0xe6ea);
+  static const genderNeuter = IconData(0xe6eae6eb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gender-nonbinary-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-nonbinary-duotone.svg)
-  static const genderNonbinary = PhosphorDuotoneIconData(0xe6e5, 0xe6e4);
+  static const genderNonbinary = IconData(0xe6e4e6e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gender-transgender-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-transgender-duotone.svg)
-  static const genderTransgender = PhosphorDuotoneIconData(0xe6e9, 0xe6e8);
+  static const genderTransgender = IconData(0xe6e8e6e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ghost-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ghost-duotone.svg)
-  static const ghost = PhosphorDuotoneIconData(0xe62b, 0xe62a);
+  static const ghost = IconData(0xe62ae62b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gif-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gif-duotone.svg)
-  static const gif = PhosphorDuotoneIconData(0xe275, 0xe274);
+  static const gif = IconData(0xe274e275, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gift-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gift-duotone.svg)
-  static const gift = PhosphorDuotoneIconData(0xe277, 0xe276);
+  static const gift = IconData(0xe276e277, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![git-branch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-branch-duotone.svg)
-  static const gitBranch = PhosphorDuotoneIconData(0xe279, 0xe278);
+  static const gitBranch = IconData(0xe278e279, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![git-commit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-commit-duotone.svg)
-  static const gitCommit = PhosphorDuotoneIconData(0xe27b, 0xe27a);
+  static const gitCommit = IconData(0xe27ae27b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![git-diff-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-diff-duotone.svg)
-  static const gitDiff = PhosphorDuotoneIconData(0xe27d, 0xe27c);
+  static const gitDiff = IconData(0xe27ce27d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![git-fork-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-fork-duotone.svg)
-  static const gitFork = PhosphorDuotoneIconData(0xe27f, 0xe27e);
+  static const gitFork = IconData(0xe27ee27f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![git-merge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-merge-duotone.svg)
-  static const gitMerge = PhosphorDuotoneIconData(0xe281, 0xe280);
+  static const gitMerge = IconData(0xe280e281, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![git-pull-request-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-pull-request-duotone.svg)
-  static const gitPullRequest = PhosphorDuotoneIconData(0xe283, 0xe282);
+  static const gitPullRequest = IconData(0xe282e283, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![github-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/github-logo-duotone.svg)
-  static const githubLogo = PhosphorDuotoneIconData(0xe577, 0xe576);
+  static const githubLogo = IconData(0xe576e577, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gitlab-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-duotone.svg)
-  static const gitlabLogo = PhosphorDuotoneIconData(0xe695, 0xe694);
+  static const gitlabLogo = IconData(0xe694e695, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gitlab-logo-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-simple-duotone.svg)
-  static const gitlabLogoSimple = PhosphorDuotoneIconData(0xe697, 0xe696);
+  static const gitlabLogoSimple = IconData(0xe696e697, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![globe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-duotone.svg)
-  static const globe = PhosphorDuotoneIconData(0xe289, 0xe288);
+  static const globe = IconData(0xe288e289, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![globe-hemisphere-east-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-east-duotone.svg)
-  static const globeHemisphereEast = PhosphorDuotoneIconData(0xe28b, 0xe28a);
+  static const globeHemisphereEast = IconData(0xe28ae28b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![globe-hemisphere-west-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-west-duotone.svg)
-  static const globeHemisphereWest = PhosphorDuotoneIconData(0xe28d, 0xe28c);
+  static const globeHemisphereWest = IconData(0xe28ce28d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![globe-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-duotone.svg)
-  static const globeSimple = PhosphorDuotoneIconData(0xe28f, 0xe28e);
+  static const globeSimple = IconData(0xe28ee28f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![globe-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-x-duotone.svg)
-  static const globeSimpleX = PhosphorDuotoneIconData(0xe285, 0xe284);
+  static const globeSimpleX = IconData(0xe284e285, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![globe-stand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-stand-duotone.svg)
-  static const globeStand = PhosphorDuotoneIconData(0xe291, 0xe290);
+  static const globeStand = IconData(0xe290e291, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![globe-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-x-duotone.svg)
-  static const globeX = PhosphorDuotoneIconData(0xe287, 0xe286);
+  static const globeX = IconData(0xe286e287, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![goggles-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goggles-duotone.svg)
-  static const goggles = PhosphorDuotoneIconData(0xecb5, 0xecb4);
+  static const goggles = IconData(0xecb4ecb5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![golf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/golf-duotone.svg)
-  static const golf = PhosphorDuotoneIconData(0xea3f, 0xea3e);
+  static const golf = IconData(0xea3eea3f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![goodreads-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goodreads-logo-duotone.svg)
-  static const goodreadsLogo = PhosphorDuotoneIconData(0xed11, 0xed10);
+  static const goodreadsLogo = IconData(0xed10ed11, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![google-cardboard-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-cardboard-logo-duotone.svg)
-  static const googleCardboardLogo = PhosphorDuotoneIconData(0xe7b7, 0xe7b6);
+  static const googleCardboardLogo = IconData(0xe7b6e7b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![google-chrome-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-chrome-logo-duotone.svg)
-  static const googleChromeLogo = PhosphorDuotoneIconData(0xe977, 0xe976);
+  static const googleChromeLogo = IconData(0xe976e977, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![google-drive-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-drive-logo-duotone.svg)
-  static const googleDriveLogo = PhosphorDuotoneIconData(0xe8f7, 0xe8f6);
+  static const googleDriveLogo = IconData(0xe8f6e8f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![google-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-logo-duotone.svg)
-  static const googleLogo = PhosphorDuotoneIconData(0xe293, 0xe292);
+  static const googleLogo = IconData(0xe292e293, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![google-photos-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-photos-logo-duotone.svg)
-  static const googlePhotosLogo = PhosphorDuotoneIconData(0xeb93, 0xeb92);
+  static const googlePhotosLogo = IconData(0xeb92eb93, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![google-play-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-play-logo-duotone.svg)
-  static const googlePlayLogo = PhosphorDuotoneIconData(0xe295, 0xe294);
+  static const googlePlayLogo = IconData(0xe294e295, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![google-podcasts-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-podcasts-logo-duotone.svg)
-  static const googlePodcastsLogo = PhosphorDuotoneIconData(0xeb95, 0xeb94);
+  static const googlePodcastsLogo = IconData(0xeb94eb95, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gps-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-duotone.svg)
-  static const gps = PhosphorDuotoneIconData(0xedd9, 0xedd8);
+  static const gps = IconData(0xedd8edd9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gps-fix-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-fix-duotone.svg)
-  static const gpsFix = PhosphorDuotoneIconData(0xedd7, 0xedd6);
+  static const gpsFix = IconData(0xedd6edd7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gps-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-slash-duotone.svg)
-  static const gpsSlash = PhosphorDuotoneIconData(0xedd5, 0xedd4);
+  static const gpsSlash = IconData(0xedd4edd5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![gradient-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gradient-duotone.svg)
-  static const gradient = PhosphorDuotoneIconData(0xeb4d, 0xeb42);
+  static const gradient = IconData(0xeb42eb4d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![graduation-cap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graduation-cap-duotone.svg)
-  static const graduationCap = PhosphorDuotoneIconData(0xe62d, 0xe62c);
+  static const graduationCap = IconData(0xe62ce62d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![grains-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-duotone.svg)
-  static const grains = PhosphorDuotoneIconData(0xec69, 0xec68);
+  static const grains = IconData(0xec68ec69, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![grains-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-slash-duotone.svg)
-  static const grainsSlash = PhosphorDuotoneIconData(0xec6b, 0xec6a);
+  static const grainsSlash = IconData(0xec6aec6b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![graph-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graph-duotone.svg)
-  static const graph = PhosphorDuotoneIconData(0xeb59, 0xeb58);
+  static const graph = IconData(0xeb58eb59, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![graphics-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graphics-card-duotone.svg)
-  static const graphicsCard = PhosphorDuotoneIconData(0xe613, 0xe612);
+  static const graphicsCard = IconData(0xe612e613, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![greater-than-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-duotone.svg)
-  static const greaterThan = PhosphorDuotoneIconData(0xedc5, 0xedc4);
+  static const greaterThan = IconData(0xedc4edc5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![greater-than-or-equal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-or-equal-duotone.svg)
-  static const greaterThanOrEqual = PhosphorDuotoneIconData(0xeda3, 0xeda2);
+  static const greaterThanOrEqual = IconData(0xeda2eda3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![grid-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-four-duotone.svg)
-  static const gridFour = PhosphorDuotoneIconData(0xe297, 0xe296);
+  static const gridFour = IconData(0xe296e297, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![grid-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-nine-duotone.svg)
-  static const gridNine = PhosphorDuotoneIconData(0xec8d, 0xec8c);
+  static const gridNine = IconData(0xec8cec8d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![guitar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/guitar-duotone.svg)
-  static const guitar = PhosphorDuotoneIconData(0xea8b, 0xea8a);
+  static const guitar = IconData(0xea8aea8b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hair-dryer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hair-dryer-duotone.svg)
-  static const hairDryer = PhosphorDuotoneIconData(0xea67, 0xea66);
+  static const hairDryer = IconData(0xea66ea67, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hamburger-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hamburger-duotone.svg)
-  static const hamburger = PhosphorDuotoneIconData(0xe791, 0xe790);
+  static const hamburger = IconData(0xe790e791, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hammer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hammer-duotone.svg)
-  static const hammer = PhosphorDuotoneIconData(0xe80f, 0xe80e);
+  static const hammer = IconData(0xe80ee80f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-duotone.svg)
-  static const hand = PhosphorDuotoneIconData(0xe299, 0xe298);
+  static const hand = IconData(0xe298e299, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-down-duotone.svg)
-  static const handArrowDown = PhosphorDuotoneIconData(0xea4f, 0xea4e);
+  static const handArrowDown = IconData(0xea4eea4f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-up-duotone.svg)
-  static const handArrowUp = PhosphorDuotoneIconData(0xee5b, 0xee5a);
+  static const handArrowUp = IconData(0xee5aee5b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-coins-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-coins-duotone.svg)
-  static const handCoins = PhosphorDuotoneIconData(0xea8d, 0xea8c);
+  static const handCoins = IconData(0xea8cea8d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-deposit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-deposit-duotone.svg)
-  static const handDeposit = PhosphorDuotoneIconData(0xee83, 0xee82);
+  static const handDeposit = IconData(0xee82ee83, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-eye-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-eye-duotone.svg)
-  static const handEye = PhosphorDuotoneIconData(0xea4d, 0xea4c);
+  static const handEye = IconData(0xea4cea4d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-fist-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-fist-duotone.svg)
-  static const handFist = PhosphorDuotoneIconData(0xe57b, 0xe57a);
+  static const handFist = IconData(0xe57ae57b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-grabbing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-grabbing-duotone.svg)
-  static const handGrabbing = PhosphorDuotoneIconData(0xe57d, 0xe57c);
+  static const handGrabbing = IconData(0xe57ce57d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-heart-duotone.svg)
-  static const handHeart = PhosphorDuotoneIconData(0xe811, 0xe810);
+  static const handHeart = IconData(0xe810e811, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-palm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-palm-duotone.svg)
-  static const handPalm = PhosphorDuotoneIconData(0xe57f, 0xe57e);
+  static const handPalm = IconData(0xe57ee57f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-peace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-peace-duotone.svg)
-  static const handPeace = PhosphorDuotoneIconData(0xe7cd, 0xe7cc);
+  static const handPeace = IconData(0xe7cce7cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-pointing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-pointing-duotone.svg)
-  static const handPointing = PhosphorDuotoneIconData(0xe29b, 0xe29a);
+  static const handPointing = IconData(0xe29ae29b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-soap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-soap-duotone.svg)
-  static const handSoap = PhosphorDuotoneIconData(0xe631, 0xe630);
+  static const handSoap = IconData(0xe630e631, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-swipe-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-left-duotone.svg)
-  static const handSwipeLeft = PhosphorDuotoneIconData(0xec95, 0xec94);
+  static const handSwipeLeft = IconData(0xec94ec95, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-swipe-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-right-duotone.svg)
-  static const handSwipeRight = PhosphorDuotoneIconData(0xec93, 0xec92);
+  static const handSwipeRight = IconData(0xec92ec93, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-tap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-tap-duotone.svg)
-  static const handTap = PhosphorDuotoneIconData(0xec91, 0xec90);
+  static const handTap = IconData(0xec90ec91, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-waving-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-waving-duotone.svg)
-  static const handWaving = PhosphorDuotoneIconData(0xe581, 0xe580);
+  static const handWaving = IconData(0xe580e581, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hand-withdraw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-withdraw-duotone.svg)
-  static const handWithdraw = PhosphorDuotoneIconData(0xee81, 0xee80);
+  static const handWithdraw = IconData(0xee80ee81, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![handbag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-duotone.svg)
-  static const handbag = PhosphorDuotoneIconData(0xe29d, 0xe29c);
+  static const handbag = IconData(0xe29ce29d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![handbag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-simple-duotone.svg)
-  static const handbagSimple = PhosphorDuotoneIconData(0xe62f, 0xe62e);
+  static const handbagSimple = IconData(0xe62ee62f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hands-clapping-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-clapping-duotone.svg)
-  static const handsClapping = PhosphorDuotoneIconData(0xe6a1, 0xe6a0);
+  static const handsClapping = IconData(0xe6a0e6a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hands-praying-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-praying-duotone.svg)
-  static const handsPraying = PhosphorDuotoneIconData(0xecc9, 0xecc8);
+  static const handsPraying = IconData(0xecc8ecc9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![handshake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handshake-duotone.svg)
-  static const handshake = PhosphorDuotoneIconData(0xe583, 0xe582);
+  static const handshake = IconData(0xe582e583, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hard-drive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drive-duotone.svg)
-  static const hardDrive = PhosphorDuotoneIconData(0xe29f, 0xe29e);
+  static const hardDrive = IconData(0xe29ee29f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hard-drives-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drives-duotone.svg)
-  static const hardDrives = PhosphorDuotoneIconData(0xe2a1, 0xe2a0);
+  static const hardDrives = IconData(0xe2a0e2a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hard-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-hat-duotone.svg)
-  static const hardHat = PhosphorDuotoneIconData(0xed47, 0xed46);
+  static const hardHat = IconData(0xed46ed47, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-duotone.svg)
-  static const hash = PhosphorDuotoneIconData(0xe2a3, 0xe2a2);
+  static const hash = IconData(0xe2a2e2a3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hash-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-straight-duotone.svg)
-  static const hashStraight = PhosphorDuotoneIconData(0xe2a5, 0xe2a4);
+  static const hashStraight = IconData(0xe2a4e2a5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![head-circuit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/head-circuit-duotone.svg)
-  static const headCircuit = PhosphorDuotoneIconData(0xe7d5, 0xe7d4);
+  static const headCircuit = IconData(0xe7d4e7d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![headlights-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headlights-duotone.svg)
-  static const headlights = PhosphorDuotoneIconData(0xe6ff, 0xe6fe);
+  static const headlights = IconData(0xe6fee6ff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![headphones-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headphones-duotone.svg)
-  static const headphones = PhosphorDuotoneIconData(0xe2a7, 0xe2a6);
+  static const headphones = IconData(0xe2a6e2a7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![headset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headset-duotone.svg)
-  static const headset = PhosphorDuotoneIconData(0xe585, 0xe584);
+  static const headset = IconData(0xe584e585, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-duotone.svg)
-  static const heart = PhosphorDuotoneIconData(0xe2a9, 0xe2a8);
+  static const heart = IconData(0xe2a8e2a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![heart-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-break-duotone.svg)
-  static const heartBreak = PhosphorDuotoneIconData(0xebe9, 0xebe8);
+  static const heartBreak = IconData(0xebe8ebe9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![heart-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-half-duotone.svg)
-  static const heartHalf = PhosphorDuotoneIconData(0xec49, 0xec48);
+  static const heartHalf = IconData(0xec48ec49, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![heart-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-duotone.svg)
-  static const heartStraight = PhosphorDuotoneIconData(0xe2ab, 0xe2aa);
+  static const heartStraight = IconData(0xe2aae2ab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![heart-straight-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-break-duotone.svg)
-  static const heartStraightBreak = PhosphorDuotoneIconData(0xeb99, 0xeb98);
+  static const heartStraightBreak = IconData(0xeb98eb99, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![heartbeat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heartbeat-duotone.svg)
-  static const heartbeat = PhosphorDuotoneIconData(0xe2ad, 0xe2ac);
+  static const heartbeat = IconData(0xe2ace2ad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hexagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hexagon-duotone.svg)
-  static const hexagon = PhosphorDuotoneIconData(0xe2af, 0xe2ae);
+  static const hexagon = IconData(0xe2aee2af, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![high-definition-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-definition-duotone.svg)
-  static const highDefinition = PhosphorDuotoneIconData(0xea8f, 0xea8e);
+  static const highDefinition = IconData(0xea8eea8f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![high-heel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-heel-duotone.svg)
-  static const highHeel = PhosphorDuotoneIconData(0xe8e9, 0xe8e8);
+  static const highHeel = IconData(0xe8e8e8e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![highlighter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-duotone.svg)
-  static const highlighter = PhosphorDuotoneIconData(0xec77, 0xec76);
+  static const highlighter = IconData(0xec76ec77, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![highlighter-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-circle-duotone.svg)
-  static const highlighterCircle = PhosphorDuotoneIconData(0xe633, 0xe632);
+  static const highlighterCircle = IconData(0xe632e633, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hockey-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hockey-duotone.svg)
-  static const hockey = PhosphorDuotoneIconData(0xec87, 0xec86);
+  static const hockey = IconData(0xec86ec87, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hoodie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hoodie-duotone.svg)
-  static const hoodie = PhosphorDuotoneIconData(0xecd1, 0xecd0);
+  static const hoodie = IconData(0xecd0ecd1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![horse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/horse-duotone.svg)
-  static const horse = PhosphorDuotoneIconData(0xe2b1, 0xe2b0);
+  static const horse = IconData(0xe2b0e2b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hospital-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hospital-duotone.svg)
-  static const hospital = PhosphorDuotoneIconData(0xe845, 0xe844);
+  static const hospital = IconData(0xe844e845, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hourglass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-duotone.svg)
-  static const hourglass = PhosphorDuotoneIconData(0xe2b3, 0xe2b2);
+  static const hourglass = IconData(0xe2b2e2b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hourglass-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-high-duotone.svg)
-  static const hourglassHigh = PhosphorDuotoneIconData(0xe2b5, 0xe2b4);
+  static const hourglassHigh = IconData(0xe2b4e2b5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hourglass-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-low-duotone.svg)
-  static const hourglassLow = PhosphorDuotoneIconData(0xe2b7, 0xe2b6);
+  static const hourglassLow = IconData(0xe2b6e2b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hourglass-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-medium-duotone.svg)
-  static const hourglassMedium = PhosphorDuotoneIconData(0xe2b9, 0xe2b8);
+  static const hourglassMedium = IconData(0xe2b8e2b9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hourglass-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-duotone.svg)
-  static const hourglassSimple = PhosphorDuotoneIconData(0xe2bb, 0xe2ba);
+  static const hourglassSimple = IconData(0xe2bae2bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hourglass-simple-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-high-duotone.svg)
-  static const hourglassSimpleHigh = PhosphorDuotoneIconData(0xe2bd, 0xe2bc);
+  static const hourglassSimpleHigh = IconData(0xe2bce2bd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hourglass-simple-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-low-duotone.svg)
-  static const hourglassSimpleLow = PhosphorDuotoneIconData(0xe2bf, 0xe2be);
+  static const hourglassSimpleLow = IconData(0xe2bee2bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hourglass-simple-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-medium-duotone.svg)
-  static const hourglassSimpleMedium = PhosphorDuotoneIconData(0xe2c1, 0xe2c0);
+  static const hourglassSimpleMedium = IconData(0xe2c0e2c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![house-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-duotone.svg)
-  static const house = PhosphorDuotoneIconData(0xe2c3, 0xe2c2);
+  static const house = IconData(0xe2c2e2c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![house-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-line-duotone.svg)
-  static const houseLine = PhosphorDuotoneIconData(0xe2c5, 0xe2c4);
+  static const houseLine = IconData(0xe2c4e2c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![house-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-simple-duotone.svg)
-  static const houseSimple = PhosphorDuotoneIconData(0xe2c7, 0xe2c6);
+  static const houseSimple = IconData(0xe2c6e2c7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![hurricane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hurricane-duotone.svg)
-  static const hurricane = PhosphorDuotoneIconData(0xe88f, 0xe88e);
+  static const hurricane = IconData(0xe88ee88f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ice-cream-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ice-cream-duotone.svg)
-  static const iceCream = PhosphorDuotoneIconData(0xe805, 0xe804);
+  static const iceCream = IconData(0xe804e805, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![identification-badge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-badge-duotone.svg)
-  static const identificationBadge = PhosphorDuotoneIconData(0xe6f7, 0xe6f6);
+  static const identificationBadge = IconData(0xe6f6e6f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![identification-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-card-duotone.svg)
-  static const identificationCard = PhosphorDuotoneIconData(0xe2c9, 0xe2c8);
+  static const identificationCard = IconData(0xe2c8e2c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![image-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-duotone.svg)
-  static const image = PhosphorDuotoneIconData(0xe2cb, 0xe2ca);
+  static const image = IconData(0xe2cae2cb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![image-broken-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-broken-duotone.svg)
-  static const imageBroken = PhosphorDuotoneIconData(0xe7a9, 0xe7a8);
+  static const imageBroken = IconData(0xe7a8e7a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![image-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-square-duotone.svg)
-  static const imageSquare = PhosphorDuotoneIconData(0xe2cd, 0xe2cc);
+  static const imageSquare = IconData(0xe2cce2cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![images-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-duotone.svg)
-  static const images = PhosphorDuotoneIconData(0xe837, 0xe836);
+  static const images = IconData(0xe836e837, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![images-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-square-duotone.svg)
-  static const imagesSquare = PhosphorDuotoneIconData(0xe835, 0xe834);
+  static const imagesSquare = IconData(0xe834e835, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![infinity-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/infinity-duotone.svg)
-  static const infinity = PhosphorDuotoneIconData(0xe635, 0xe634);
+  static const infinity = IconData(0xe634e635, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![info-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/info-duotone.svg)
-  static const info = PhosphorDuotoneIconData(0xe2cf, 0xe2ce);
+  static const info = IconData(0xe2cee2cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![instagram-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/instagram-logo-duotone.svg)
-  static const instagramLogo = PhosphorDuotoneIconData(0xe2d1, 0xe2d0);
+  static const instagramLogo = IconData(0xe2d0e2d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![intersect-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-duotone.svg)
-  static const intersect = PhosphorDuotoneIconData(0xe2d3, 0xe2d2);
+  static const intersect = IconData(0xe2d2e2d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![intersect-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-square-duotone.svg)
-  static const intersectSquare = PhosphorDuotoneIconData(0xe87b, 0xe87a);
+  static const intersectSquare = IconData(0xe87ae87b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![intersect-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-three-duotone.svg)
-  static const intersectThree = PhosphorDuotoneIconData(0xecc5, 0xecc4);
+  static const intersectThree = IconData(0xecc4ecc5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![intersection-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersection-duotone.svg)
-  static const intersection = PhosphorDuotoneIconData(0xedbb, 0xedba);
+  static const intersection = IconData(0xedbaedbb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![invoice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/invoice-duotone.svg)
-  static const invoice = PhosphorDuotoneIconData(0xee43, 0xee42);
+  static const invoice = IconData(0xee42ee43, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![island-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/island-duotone.svg)
-  static const island = PhosphorDuotoneIconData(0xee07, 0xee06);
+  static const island = IconData(0xee06ee07, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![jar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-duotone.svg)
-  static const jar = PhosphorDuotoneIconData(0xe7e3, 0xe7e0);
+  static const jar = IconData(0xe7e0e7e3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![jar-label-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-label-duotone.svg)
-  static const jarLabel = PhosphorDuotoneIconData(0xe7e5, 0xe7e1);
+  static const jarLabel = IconData(0xe7e1e7e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![jeep-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jeep-duotone.svg)
-  static const jeep = PhosphorDuotoneIconData(0xe2d5, 0xe2d4);
+  static const jeep = IconData(0xe2d4e2d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![joystick-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/joystick-duotone.svg)
-  static const joystick = PhosphorDuotoneIconData(0xea5f, 0xea5e);
+  static const joystick = IconData(0xea5eea5f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![kanban-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/kanban-duotone.svg)
-  static const kanban = PhosphorDuotoneIconData(0xeb55, 0xeb54);
+  static const kanban = IconData(0xeb54eb55, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![key-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-duotone.svg)
-  static const key = PhosphorDuotoneIconData(0xe2d7, 0xe2d6);
+  static const key = IconData(0xe2d6e2d7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![key-return-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-return-duotone.svg)
-  static const keyReturn = PhosphorDuotoneIconData(0xe783, 0xe782);
+  static const keyReturn = IconData(0xe782e783, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![keyboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyboard-duotone.svg)
-  static const keyboard = PhosphorDuotoneIconData(0xe2d9, 0xe2d8);
+  static const keyboard = IconData(0xe2d8e2d9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![keyhole-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyhole-duotone.svg)
-  static const keyhole = PhosphorDuotoneIconData(0xea79, 0xea78);
+  static const keyhole = IconData(0xea78ea79, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![knife-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/knife-duotone.svg)
-  static const knife = PhosphorDuotoneIconData(0xe637, 0xe636);
+  static const knife = IconData(0xe636e637, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ladder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-duotone.svg)
-  static const ladder = PhosphorDuotoneIconData(0xe9e5, 0xe9e4);
+  static const ladder = IconData(0xe9e4e9e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ladder-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-simple-duotone.svg)
-  static const ladderSimple = PhosphorDuotoneIconData(0xec27, 0xec26);
+  static const ladderSimple = IconData(0xec26ec27, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lamp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-duotone.svg)
-  static const lamp = PhosphorDuotoneIconData(0xe639, 0xe638);
+  static const lamp = IconData(0xe638e639, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lamp-pendant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-pendant-duotone.svg)
-  static const lampPendant = PhosphorDuotoneIconData(0xee2f, 0xee2e);
+  static const lampPendant = IconData(0xee2eee2f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![laptop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/laptop-duotone.svg)
-  static const laptop = PhosphorDuotoneIconData(0xe587, 0xe586);
+  static const laptop = IconData(0xe586e587, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lasso-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lasso-duotone.svg)
-  static const lasso = PhosphorDuotoneIconData(0xedc7, 0xedc6);
+  static const lasso = IconData(0xedc6edc7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lastfm-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lastfm-logo-duotone.svg)
-  static const lastfmLogo = PhosphorDuotoneIconData(0xe843, 0xe842);
+  static const lastfmLogo = IconData(0xe842e843, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![layout-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/layout-duotone.svg)
-  static const layout = PhosphorDuotoneIconData(0xe6d7, 0xe6d6);
+  static const layout = IconData(0xe6d6e6d7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![leaf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/leaf-duotone.svg)
-  static const leaf = PhosphorDuotoneIconData(0xe2db, 0xe2da);
+  static const leaf = IconData(0xe2dae2db, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lectern-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lectern-duotone.svg)
-  static const lectern = PhosphorDuotoneIconData(0xe95b, 0xe95a);
+  static const lectern = IconData(0xe95ae95b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lego-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-duotone.svg)
-  static const lego = PhosphorDuotoneIconData(0xe8c8, 0xe8c6);
+  static const lego = IconData(0xe8c6e8c8, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lego-smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-smiley-duotone.svg)
-  static const legoSmiley = PhosphorDuotoneIconData(0xe8c9, 0xe8c7);
+  static const legoSmiley = IconData(0xe8c7e8c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![less-than-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-duotone.svg)
-  static const lessThan = PhosphorDuotoneIconData(0xedad, 0xedac);
+  static const lessThan = IconData(0xedacedad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![less-than-or-equal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-or-equal-duotone.svg)
-  static const lessThanOrEqual = PhosphorDuotoneIconData(0xeda5, 0xeda4);
+  static const lessThanOrEqual = IconData(0xeda4eda5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![letter-circle-h-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-h-duotone.svg)
-  static const letterCircleH = PhosphorDuotoneIconData(0xebf9, 0xebf8);
+  static const letterCircleH = IconData(0xebf8ebf9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![letter-circle-p-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-p-duotone.svg)
-  static const letterCircleP = PhosphorDuotoneIconData(0xec09, 0xec08);
+  static const letterCircleP = IconData(0xec08ec09, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![letter-circle-v-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-v-duotone.svg)
-  static const letterCircleV = PhosphorDuotoneIconData(0xec15, 0xec14);
+  static const letterCircleV = IconData(0xec14ec15, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lifebuoy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lifebuoy-duotone.svg)
-  static const lifebuoy = PhosphorDuotoneIconData(0xe63b, 0xe63a);
+  static const lifebuoy = IconData(0xe63ae63b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lightbulb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-duotone.svg)
-  static const lightbulb = PhosphorDuotoneIconData(0xe2dd, 0xe2dc);
+  static const lightbulb = IconData(0xe2dce2dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lightbulb-filament-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-filament-duotone.svg)
-  static const lightbulbFilament = PhosphorDuotoneIconData(0xe63d, 0xe63c);
+  static const lightbulbFilament = IconData(0xe63ce63d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lighthouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lighthouse-duotone.svg)
-  static const lighthouse = PhosphorDuotoneIconData(0xe9f7, 0xe9f6);
+  static const lighthouse = IconData(0xe9f6e9f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lightning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-duotone.svg)
-  static const lightning = PhosphorDuotoneIconData(0xe2df, 0xe2de);
+  static const lightning = IconData(0xe2dee2df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lightning-a-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-a-duotone.svg)
-  static const lightningA = PhosphorDuotoneIconData(0xea85, 0xea84);
+  static const lightningA = IconData(0xea84ea85, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lightning-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-slash-duotone.svg)
-  static const lightningSlash = PhosphorDuotoneIconData(0xe2e1, 0xe2e0);
+  static const lightningSlash = IconData(0xe2e0e2e1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![line-segment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segment-duotone.svg)
-  static const lineSegment = PhosphorDuotoneIconData(0xe6d3, 0xe6d2);
+  static const lineSegment = IconData(0xe6d2e6d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![line-segments-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segments-duotone.svg)
-  static const lineSegments = PhosphorDuotoneIconData(0xe6d5, 0xe6d4);
+  static const lineSegments = IconData(0xe6d4e6d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-vertical-duotone.svg)
-  static const lineVertical = PhosphorDuotoneIconData(0xed71, 0xed70);
+  static const lineVertical = IconData(0xed70ed71, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![link-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-duotone.svg)
-  static const link = PhosphorDuotoneIconData(0xe2e3, 0xe2e2);
+  static const link = IconData(0xe2e2e2e3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![link-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-break-duotone.svg)
-  static const linkBreak = PhosphorDuotoneIconData(0xe2e5, 0xe2e4);
+  static const linkBreak = IconData(0xe2e4e2e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![link-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-duotone.svg)
-  static const linkSimple = PhosphorDuotoneIconData(0xe2e7, 0xe2e6);
+  static const linkSimple = IconData(0xe2e6e2e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![link-simple-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-break-duotone.svg)
-  static const linkSimpleBreak = PhosphorDuotoneIconData(0xe2e9, 0xe2e8);
+  static const linkSimpleBreak = IconData(0xe2e8e2e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![link-simple-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-duotone.svg)
-  static const linkSimpleHorizontal = PhosphorDuotoneIconData(0xe2eb, 0xe2ea);
+  static const linkSimpleHorizontal = IconData(0xe2eae2eb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![link-simple-horizontal-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-break-duotone.svg)
-  static const linkSimpleHorizontalBreak = PhosphorDuotoneIconData(0xe2ed, 0xe2ec);
+  static const linkSimpleHorizontalBreak = IconData(0xe2ece2ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![linkedin-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linkedin-logo-duotone.svg)
-  static const linkedinLogo = PhosphorDuotoneIconData(0xe2ef, 0xe2ee);
+  static const linkedinLogo = IconData(0xe2eee2ef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![linktree-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linktree-logo-duotone.svg)
-  static const linktreeLogo = PhosphorDuotoneIconData(0xedef, 0xedee);
+  static const linktreeLogo = IconData(0xedeeedef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![linux-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linux-logo-duotone.svg)
-  static const linuxLogo = PhosphorDuotoneIconData(0xeb03, 0xeb02);
+  static const linuxLogo = IconData(0xeb02eb03, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-duotone.svg)
-  static const list = PhosphorDuotoneIconData(0xe2f1, 0xe2f0);
+  static const list = IconData(0xe2f0e2f1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-bullets-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-bullets-duotone.svg)
-  static const listBullets = PhosphorDuotoneIconData(0xe2f3, 0xe2f2);
+  static const listBullets = IconData(0xe2f2e2f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-checks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-checks-duotone.svg)
-  static const listChecks = PhosphorDuotoneIconData(0xeadd, 0xeadc);
+  static const listChecks = IconData(0xeadceadd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-dashes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-dashes-duotone.svg)
-  static const listDashes = PhosphorDuotoneIconData(0xe2f5, 0xe2f4);
+  static const listDashes = IconData(0xe2f4e2f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-heart-duotone.svg)
-  static const listHeart = PhosphorDuotoneIconData(0xebdf, 0xebde);
+  static const listHeart = IconData(0xebdeebdf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-magnifying-glass-duotone.svg)
-  static const listMagnifyingGlass = PhosphorDuotoneIconData(0xebe1, 0xebe0);
+  static const listMagnifyingGlass = IconData(0xebe0ebe1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-numbers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-numbers-duotone.svg)
-  static const listNumbers = PhosphorDuotoneIconData(0xe2f7, 0xe2f6);
+  static const listNumbers = IconData(0xe2f6e2f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-plus-duotone.svg)
-  static const listPlus = PhosphorDuotoneIconData(0xe2f9, 0xe2f8);
+  static const listPlus = IconData(0xe2f8e2f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![list-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-star-duotone.svg)
-  static const listStar = PhosphorDuotoneIconData(0xebdd, 0xebdc);
+  static const listStar = IconData(0xebdcebdd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-duotone.svg)
-  static const lock = PhosphorDuotoneIconData(0xe2fb, 0xe2fa);
+  static const lock = IconData(0xe2fae2fb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lock-key-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-duotone.svg)
-  static const lockKey = PhosphorDuotoneIconData(0xe2ff, 0xe2fe);
+  static const lockKey = IconData(0xe2fee2ff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lock-key-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-open-duotone.svg)
-  static const lockKeyOpen = PhosphorDuotoneIconData(0xe301, 0xe300);
+  static const lockKeyOpen = IconData(0xe300e301, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lock-laminated-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-duotone.svg)
-  static const lockLaminated = PhosphorDuotoneIconData(0xe303, 0xe302);
+  static const lockLaminated = IconData(0xe302e303, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lock-laminated-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-open-duotone.svg)
-  static const lockLaminatedOpen = PhosphorDuotoneIconData(0xe305, 0xe304);
+  static const lockLaminatedOpen = IconData(0xe304e305, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lock-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-open-duotone.svg)
-  static const lockOpen = PhosphorDuotoneIconData(0xe307, 0xe306);
+  static const lockOpen = IconData(0xe306e307, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lock-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-duotone.svg)
-  static const lockSimple = PhosphorDuotoneIconData(0xe309, 0xe308);
+  static const lockSimple = IconData(0xe308e309, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lock-simple-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-open-duotone.svg)
-  static const lockSimpleOpen = PhosphorDuotoneIconData(0xe30b, 0xe30a);
+  static const lockSimpleOpen = IconData(0xe30ae30b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![lockers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lockers-duotone.svg)
-  static const lockers = PhosphorDuotoneIconData(0xecb9, 0xecb8);
+  static const lockers = IconData(0xecb8ecb9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![log-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/log-duotone.svg)
-  static const log = PhosphorDuotoneIconData(0xed83, 0xed82);
+  static const log = IconData(0xed82ed83, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![magic-wand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magic-wand-duotone.svg)
-  static const magicWand = PhosphorDuotoneIconData(0xe6b7, 0xe6b6);
+  static const magicWand = IconData(0xe6b6e6b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![magnet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-duotone.svg)
-  static const magnet = PhosphorDuotoneIconData(0xe681, 0xe680);
+  static const magnet = IconData(0xe680e681, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![magnet-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-straight-duotone.svg)
-  static const magnetStraight = PhosphorDuotoneIconData(0xe683, 0xe682);
+  static const magnetStraight = IconData(0xe682e683, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-duotone.svg)
-  static const magnifyingGlass = PhosphorDuotoneIconData(0xe30d, 0xe30c);
+  static const magnifyingGlass = IconData(0xe30ce30d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![magnifying-glass-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-minus-duotone.svg)
-  static const magnifyingGlassMinus = PhosphorDuotoneIconData(0xe30f, 0xe30e);
+  static const magnifyingGlassMinus = IconData(0xe30ee30f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![magnifying-glass-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-plus-duotone.svg)
-  static const magnifyingGlassPlus = PhosphorDuotoneIconData(0xe311, 0xe310);
+  static const magnifyingGlassPlus = IconData(0xe310e311, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mailbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mailbox-duotone.svg)
-  static const mailbox = PhosphorDuotoneIconData(0xec1f, 0xec1e);
+  static const mailbox = IconData(0xec1eec1f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![map-pin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-duotone.svg)
-  static const mapPin = PhosphorDuotoneIconData(0xe317, 0xe316);
+  static const mapPin = IconData(0xe316e317, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![map-pin-area-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-area-duotone.svg)
-  static const mapPinArea = PhosphorDuotoneIconData(0xee3b, 0xee3a);
+  static const mapPinArea = IconData(0xee3aee3b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![map-pin-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-line-duotone.svg)
-  static const mapPinLine = PhosphorDuotoneIconData(0xe319, 0xe318);
+  static const mapPinLine = IconData(0xe318e319, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![map-pin-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-plus-duotone.svg)
-  static const mapPinPlus = PhosphorDuotoneIconData(0xe315, 0xe314);
+  static const mapPinPlus = IconData(0xe314e315, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![map-pin-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-duotone.svg)
-  static const mapPinSimple = PhosphorDuotoneIconData(0xee3f, 0xee3e);
+  static const mapPinSimple = IconData(0xee3eee3f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![map-pin-simple-area-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-area-duotone.svg)
-  static const mapPinSimpleArea = PhosphorDuotoneIconData(0xee3d, 0xee3c);
+  static const mapPinSimpleArea = IconData(0xee3cee3d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![map-pin-simple-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-line-duotone.svg)
-  static const mapPinSimpleLine = PhosphorDuotoneIconData(0xee39, 0xee38);
+  static const mapPinSimpleLine = IconData(0xee38ee39, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![map-trifold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-trifold-duotone.svg)
-  static const mapTrifold = PhosphorDuotoneIconData(0xe31b, 0xe31a);
+  static const mapTrifold = IconData(0xe31ae31b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![markdown-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/markdown-logo-duotone.svg)
-  static const markdownLogo = PhosphorDuotoneIconData(0xe509, 0xe508);
+  static const markdownLogo = IconData(0xe508e509, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![marker-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/marker-circle-duotone.svg)
-  static const markerCircle = PhosphorDuotoneIconData(0xe641, 0xe640);
+  static const markerCircle = IconData(0xe640e641, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![martini-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/martini-duotone.svg)
-  static const martini = PhosphorDuotoneIconData(0xe31d, 0xe31c);
+  static const martini = IconData(0xe31ce31d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mask-happy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-happy-duotone.svg)
-  static const maskHappy = PhosphorDuotoneIconData(0xe9f5, 0xe9f4);
+  static const maskHappy = IconData(0xe9f4e9f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mask-sad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-sad-duotone.svg)
-  static const maskSad = PhosphorDuotoneIconData(0xeb9f, 0xeb9e);
+  static const maskSad = IconData(0xeb9eeb9f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mastodon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mastodon-logo-duotone.svg)
-  static const mastodonLogo = PhosphorDuotoneIconData(0xed69, 0xed68);
+  static const mastodonLogo = IconData(0xed68ed69, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![math-operations-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/math-operations-duotone.svg)
-  static const mathOperations = PhosphorDuotoneIconData(0xe31f, 0xe31e);
+  static const mathOperations = IconData(0xe31ee31f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![matrix-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/matrix-logo-duotone.svg)
-  static const matrixLogo = PhosphorDuotoneIconData(0xed65, 0xed64);
+  static const matrixLogo = IconData(0xed64ed65, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![medal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-duotone.svg)
-  static const medal = PhosphorDuotoneIconData(0xe321, 0xe320);
+  static const medal = IconData(0xe320e321, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![medal-military-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-military-duotone.svg)
-  static const medalMilitary = PhosphorDuotoneIconData(0xecfd, 0xecfc);
+  static const medalMilitary = IconData(0xecfcecfd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![medium-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medium-logo-duotone.svg)
-  static const mediumLogo = PhosphorDuotoneIconData(0xe323, 0xe322);
+  static const mediumLogo = IconData(0xe322e323, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![megaphone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-duotone.svg)
-  static const megaphone = PhosphorDuotoneIconData(0xe325, 0xe324);
+  static const megaphone = IconData(0xe324e325, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![megaphone-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-simple-duotone.svg)
-  static const megaphoneSimple = PhosphorDuotoneIconData(0xe643, 0xe642);
+  static const megaphoneSimple = IconData(0xe642e643, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![member-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/member-of-duotone.svg)
-  static const memberOf = PhosphorDuotoneIconData(0xedc3, 0xedc2);
+  static const memberOf = IconData(0xedc2edc3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![memory-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/memory-duotone.svg)
-  static const memory = PhosphorDuotoneIconData(0xe9c5, 0xe9c4);
+  static const memory = IconData(0xe9c4e9c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![messenger-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/messenger-logo-duotone.svg)
-  static const messengerLogo = PhosphorDuotoneIconData(0xe6d9, 0xe6d8);
+  static const messengerLogo = IconData(0xe6d8e6d9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![meta-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meta-logo-duotone.svg)
-  static const metaLogo = PhosphorDuotoneIconData(0xed03, 0xed02);
+  static const metaLogo = IconData(0xed02ed03, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![meteor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meteor-duotone.svg)
-  static const meteor = PhosphorDuotoneIconData(0xe9bb, 0xe9ba);
+  static const meteor = IconData(0xe9bae9bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![metronome-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/metronome-duotone.svg)
-  static const metronome = PhosphorDuotoneIconData(0xec8f, 0xec8e);
+  static const metronome = IconData(0xec8eec8f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microphone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-duotone.svg)
-  static const microphone = PhosphorDuotoneIconData(0xe327, 0xe326);
+  static const microphone = IconData(0xe326e327, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microphone-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-slash-duotone.svg)
-  static const microphoneSlash = PhosphorDuotoneIconData(0xe329, 0xe328);
+  static const microphoneSlash = IconData(0xe328e329, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microphone-stage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-stage-duotone.svg)
-  static const microphoneStage = PhosphorDuotoneIconData(0xe75d, 0xe75c);
+  static const microphoneStage = IconData(0xe75ce75d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microscope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microscope-duotone.svg)
-  static const microscope = PhosphorDuotoneIconData(0xec7b, 0xec7a);
+  static const microscope = IconData(0xec7aec7b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microsoft-excel-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-excel-logo-duotone.svg)
-  static const microsoftExcelLogo = PhosphorDuotoneIconData(0xeb6d, 0xeb6c);
+  static const microsoftExcelLogo = IconData(0xeb6ceb6d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microsoft-outlook-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-outlook-logo-duotone.svg)
-  static const microsoftOutlookLogo = PhosphorDuotoneIconData(0xeb71, 0xeb70);
+  static const microsoftOutlookLogo = IconData(0xeb70eb71, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microsoft-powerpoint-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-powerpoint-logo-duotone.svg)
-  static const microsoftPowerpointLogo = PhosphorDuotoneIconData(0xeacf, 0xeace);
+  static const microsoftPowerpointLogo = IconData(0xeaceeacf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microsoft-teams-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-teams-logo-duotone.svg)
-  static const microsoftTeamsLogo = PhosphorDuotoneIconData(0xeb67, 0xeb66);
+  static const microsoftTeamsLogo = IconData(0xeb66eb67, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![microsoft-word-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-word-logo-duotone.svg)
-  static const microsoftWordLogo = PhosphorDuotoneIconData(0xeb6b, 0xeb6a);
+  static const microsoftWordLogo = IconData(0xeb6aeb6b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-duotone.svg)
-  static const minus = PhosphorDuotoneIconData(0xe32b, 0xe32a);
+  static const minus = IconData(0xe32ae32b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![minus-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-circle-duotone.svg)
-  static const minusCircle = PhosphorDuotoneIconData(0xe32d, 0xe32c);
+  static const minusCircle = IconData(0xe32ce32d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![minus-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-square-duotone.svg)
-  static const minusSquare = PhosphorDuotoneIconData(0xed53, 0xed4c);
+  static const minusSquare = IconData(0xed4ced53, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![money-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-duotone.svg)
-  static const money = PhosphorDuotoneIconData(0xe589, 0xe588);
+  static const money = IconData(0xe588e589, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![money-wavy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-wavy-duotone.svg)
-  static const moneyWavy = PhosphorDuotoneIconData(0xee69, 0xee68);
+  static const moneyWavy = IconData(0xee68ee69, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![monitor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-duotone.svg)
-  static const monitor = PhosphorDuotoneIconData(0xe32f, 0xe32e);
+  static const monitor = IconData(0xe32ee32f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![monitor-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-arrow-up-duotone.svg)
-  static const monitorArrowUp = PhosphorDuotoneIconData(0xe58b, 0xe58a);
+  static const monitorArrowUp = IconData(0xe58ae58b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![monitor-play-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-play-duotone.svg)
-  static const monitorPlay = PhosphorDuotoneIconData(0xe58d, 0xe58c);
+  static const monitorPlay = IconData(0xe58ce58d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![moon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-duotone.svg)
-  static const moon = PhosphorDuotoneIconData(0xe331, 0xe330);
+  static const moon = IconData(0xe330e331, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![moon-stars-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-stars-duotone.svg)
-  static const moonStars = PhosphorDuotoneIconData(0xe58f, 0xe58e);
+  static const moonStars = IconData(0xe58ee58f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![moped-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-duotone.svg)
-  static const moped = PhosphorDuotoneIconData(0xe825, 0xe824);
+  static const moped = IconData(0xe824e825, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![moped-front-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-front-duotone.svg)
-  static const mopedFront = PhosphorDuotoneIconData(0xe823, 0xe822);
+  static const mopedFront = IconData(0xe822e823, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mosque-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mosque-duotone.svg)
-  static const mosque = PhosphorDuotoneIconData(0xecef, 0xecee);
+  static const mosque = IconData(0xeceeecef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![motorcycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/motorcycle-duotone.svg)
-  static const motorcycle = PhosphorDuotoneIconData(0xe80b, 0xe80a);
+  static const motorcycle = IconData(0xe80ae80b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mountains-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mountains-duotone.svg)
-  static const mountains = PhosphorDuotoneIconData(0xe7af, 0xe7ae);
+  static const mountains = IconData(0xe7aee7af, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-duotone.svg)
-  static const mouse = PhosphorDuotoneIconData(0xe33b, 0xe33a);
+  static const mouse = IconData(0xe33ae33b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mouse-left-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-left-click-duotone.svg)
-  static const mouseLeftClick = PhosphorDuotoneIconData(0xe335, 0xe334);
+  static const mouseLeftClick = IconData(0xe334e335, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mouse-middle-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-middle-click-duotone.svg)
-  static const mouseMiddleClick = PhosphorDuotoneIconData(0xe339, 0xe338);
+  static const mouseMiddleClick = IconData(0xe338e339, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mouse-right-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-right-click-duotone.svg)
-  static const mouseRightClick = PhosphorDuotoneIconData(0xe337, 0xe336);
+  static const mouseRightClick = IconData(0xe336e337, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mouse-scroll-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-scroll-duotone.svg)
-  static const mouseScroll = PhosphorDuotoneIconData(0xe333, 0xe332);
+  static const mouseScroll = IconData(0xe332e333, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![mouse-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-simple-duotone.svg)
-  static const mouseSimple = PhosphorDuotoneIconData(0xe645, 0xe644);
+  static const mouseSimple = IconData(0xe644e645, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![music-note-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-duotone.svg)
-  static const musicNote = PhosphorDuotoneIconData(0xe33d, 0xe33c);
+  static const musicNote = IconData(0xe33ce33d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![music-note-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-simple-duotone.svg)
-  static const musicNoteSimple = PhosphorDuotoneIconData(0xe33f, 0xe33e);
+  static const musicNoteSimple = IconData(0xe33ee33f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![music-notes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-duotone.svg)
-  static const musicNotes = PhosphorDuotoneIconData(0xe341, 0xe340);
+  static const musicNotes = IconData(0xe340e341, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![music-notes-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-minus-duotone.svg)
-  static const musicNotesMinus = PhosphorDuotoneIconData(0xee0d, 0xee0c);
+  static const musicNotesMinus = IconData(0xee0cee0d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![music-notes-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-plus-duotone.svg)
-  static const musicNotesPlus = PhosphorDuotoneIconData(0xeb7d, 0xeb7c);
+  static const musicNotesPlus = IconData(0xeb7ceb7d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![music-notes-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-simple-duotone.svg)
-  static const musicNotesSimple = PhosphorDuotoneIconData(0xe343, 0xe342);
+  static const musicNotesSimple = IconData(0xe342e343, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![navigation-arrow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/navigation-arrow-duotone.svg)
-  static const navigationArrow = PhosphorDuotoneIconData(0xeadf, 0xeade);
+  static const navigationArrow = IconData(0xeadeeadf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![needle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/needle-duotone.svg)
-  static const needle = PhosphorDuotoneIconData(0xe82f, 0xe82e);
+  static const needle = IconData(0xe82ee82f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![network-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-duotone.svg)
-  static const network = PhosphorDuotoneIconData(0xeddf, 0xedde);
+  static const network = IconData(0xeddeeddf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![network-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-slash-duotone.svg)
-  static const networkSlash = PhosphorDuotoneIconData(0xeddd, 0xeddc);
+  static const networkSlash = IconData(0xeddceddd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![network-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-x-duotone.svg)
-  static const networkX = PhosphorDuotoneIconData(0xeddb, 0xedda);
+  static const networkX = IconData(0xeddaeddb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![newspaper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-duotone.svg)
-  static const newspaper = PhosphorDuotoneIconData(0xe345, 0xe344);
+  static const newspaper = IconData(0xe344e345, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![newspaper-clipping-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-clipping-duotone.svg)
-  static const newspaperClipping = PhosphorDuotoneIconData(0xe347, 0xe346);
+  static const newspaperClipping = IconData(0xe346e347, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![not-equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-equals-duotone.svg)
-  static const notEquals = PhosphorDuotoneIconData(0xeda7, 0xeda6);
+  static const notEquals = IconData(0xeda6eda7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![not-member-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-member-of-duotone.svg)
-  static const notMemberOf = PhosphorDuotoneIconData(0xedaf, 0xedae);
+  static const notMemberOf = IconData(0xedaeedaf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![not-subset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-subset-of-duotone.svg)
-  static const notSubsetOf = PhosphorDuotoneIconData(0xedb1, 0xedb0);
+  static const notSubsetOf = IconData(0xedb0edb1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![not-superset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-superset-of-duotone.svg)
-  static const notSupersetOf = PhosphorDuotoneIconData(0xedb3, 0xedb2);
+  static const notSupersetOf = IconData(0xedb2edb3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![notches-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notches-duotone.svg)
-  static const notches = PhosphorDuotoneIconData(0xed3b, 0xed3a);
+  static const notches = IconData(0xed3aed3b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![note-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-duotone.svg)
-  static const note = PhosphorDuotoneIconData(0xe349, 0xe348);
+  static const note = IconData(0xe348e349, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![note-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-blank-duotone.svg)
-  static const noteBlank = PhosphorDuotoneIconData(0xe34b, 0xe34a);
+  static const noteBlank = IconData(0xe34ae34b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![note-pencil-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-pencil-duotone.svg)
-  static const notePencil = PhosphorDuotoneIconData(0xe34d, 0xe34c);
+  static const notePencil = IconData(0xe34ce34d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![notebook-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notebook-duotone.svg)
-  static const notebook = PhosphorDuotoneIconData(0xe34f, 0xe34e);
+  static const notebook = IconData(0xe34ee34f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![notepad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notepad-duotone.svg)
-  static const notepad = PhosphorDuotoneIconData(0xe63f, 0xe63e);
+  static const notepad = IconData(0xe63ee63f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![notification-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notification-duotone.svg)
-  static const notification = PhosphorDuotoneIconData(0xe6fb, 0xe6fa);
+  static const notification = IconData(0xe6fae6fb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![notion-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notion-logo-duotone.svg)
-  static const notionLogo = PhosphorDuotoneIconData(0xe9a1, 0xe9a0);
+  static const notionLogo = IconData(0xe9a0e9a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![nuclear-plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nuclear-plant-duotone.svg)
-  static const nuclearPlant = PhosphorDuotoneIconData(0xed7d, 0xed7c);
+  static const nuclearPlant = IconData(0xed7ced7d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-eight-duotone.svg)
-  static const numberCircleEight = PhosphorDuotoneIconData(0xe353, 0xe352);
+  static const numberCircleEight = IconData(0xe352e353, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-five-duotone.svg)
-  static const numberCircleFive = PhosphorDuotoneIconData(0xe359, 0xe358);
+  static const numberCircleFive = IconData(0xe358e359, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-four-duotone.svg)
-  static const numberCircleFour = PhosphorDuotoneIconData(0xe35f, 0xe35e);
+  static const numberCircleFour = IconData(0xe35ee35f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-nine-duotone.svg)
-  static const numberCircleNine = PhosphorDuotoneIconData(0xe365, 0xe364);
+  static const numberCircleNine = IconData(0xe364e365, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-one-duotone.svg)
-  static const numberCircleOne = PhosphorDuotoneIconData(0xe36b, 0xe36a);
+  static const numberCircleOne = IconData(0xe36ae36b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-seven-duotone.svg)
-  static const numberCircleSeven = PhosphorDuotoneIconData(0xe371, 0xe370);
+  static const numberCircleSeven = IconData(0xe370e371, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-six-duotone.svg)
-  static const numberCircleSix = PhosphorDuotoneIconData(0xe377, 0xe376);
+  static const numberCircleSix = IconData(0xe376e377, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-three-duotone.svg)
-  static const numberCircleThree = PhosphorDuotoneIconData(0xe37d, 0xe37c);
+  static const numberCircleThree = IconData(0xe37ce37d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-two-duotone.svg)
-  static const numberCircleTwo = PhosphorDuotoneIconData(0xe383, 0xe382);
+  static const numberCircleTwo = IconData(0xe382e383, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-circle-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-zero-duotone.svg)
-  static const numberCircleZero = PhosphorDuotoneIconData(0xe389, 0xe388);
+  static const numberCircleZero = IconData(0xe388e389, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-eight-duotone.svg)
-  static const numberEight = PhosphorDuotoneIconData(0xe351, 0xe350);
+  static const numberEight = IconData(0xe350e351, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-five-duotone.svg)
-  static const numberFive = PhosphorDuotoneIconData(0xe357, 0xe356);
+  static const numberFive = IconData(0xe356e357, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-four-duotone.svg)
-  static const numberFour = PhosphorDuotoneIconData(0xe35d, 0xe35c);
+  static const numberFour = IconData(0xe35ce35d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-nine-duotone.svg)
-  static const numberNine = PhosphorDuotoneIconData(0xe363, 0xe362);
+  static const numberNine = IconData(0xe362e363, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-one-duotone.svg)
-  static const numberOne = PhosphorDuotoneIconData(0xe369, 0xe368);
+  static const numberOne = IconData(0xe368e369, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-seven-duotone.svg)
-  static const numberSeven = PhosphorDuotoneIconData(0xe36f, 0xe36e);
+  static const numberSeven = IconData(0xe36ee36f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-six-duotone.svg)
-  static const numberSix = PhosphorDuotoneIconData(0xe375, 0xe374);
+  static const numberSix = IconData(0xe374e375, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-eight-duotone.svg)
-  static const numberSquareEight = PhosphorDuotoneIconData(0xe355, 0xe354);
+  static const numberSquareEight = IconData(0xe354e355, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-five-duotone.svg)
-  static const numberSquareFive = PhosphorDuotoneIconData(0xe35b, 0xe35a);
+  static const numberSquareFive = IconData(0xe35ae35b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-four-duotone.svg)
-  static const numberSquareFour = PhosphorDuotoneIconData(0xe361, 0xe360);
+  static const numberSquareFour = IconData(0xe360e361, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-nine-duotone.svg)
-  static const numberSquareNine = PhosphorDuotoneIconData(0xe367, 0xe366);
+  static const numberSquareNine = IconData(0xe366e367, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-one-duotone.svg)
-  static const numberSquareOne = PhosphorDuotoneIconData(0xe36d, 0xe36c);
+  static const numberSquareOne = IconData(0xe36ce36d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-seven-duotone.svg)
-  static const numberSquareSeven = PhosphorDuotoneIconData(0xe373, 0xe372);
+  static const numberSquareSeven = IconData(0xe372e373, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-six-duotone.svg)
-  static const numberSquareSix = PhosphorDuotoneIconData(0xe379, 0xe378);
+  static const numberSquareSix = IconData(0xe378e379, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-three-duotone.svg)
-  static const numberSquareThree = PhosphorDuotoneIconData(0xe37f, 0xe37e);
+  static const numberSquareThree = IconData(0xe37ee37f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-two-duotone.svg)
-  static const numberSquareTwo = PhosphorDuotoneIconData(0xe385, 0xe384);
+  static const numberSquareTwo = IconData(0xe384e385, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-square-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-zero-duotone.svg)
-  static const numberSquareZero = PhosphorDuotoneIconData(0xe38b, 0xe38a);
+  static const numberSquareZero = IconData(0xe38ae38b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-three-duotone.svg)
-  static const numberThree = PhosphorDuotoneIconData(0xe37b, 0xe37a);
+  static const numberThree = IconData(0xe37ae37b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-two-duotone.svg)
-  static const numberTwo = PhosphorDuotoneIconData(0xe381, 0xe380);
+  static const numberTwo = IconData(0xe380e381, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![number-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-zero-duotone.svg)
-  static const numberZero = PhosphorDuotoneIconData(0xe387, 0xe386);
+  static const numberZero = IconData(0xe386e387, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![numpad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/numpad-duotone.svg)
-  static const numpad = PhosphorDuotoneIconData(0xe3c9, 0xe3c8);
+  static const numpad = IconData(0xe3c8e3c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![nut-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nut-duotone.svg)
-  static const nut = PhosphorDuotoneIconData(0xe38d, 0xe38c);
+  static const nut = IconData(0xe38ce38d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ny-times-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ny-times-logo-duotone.svg)
-  static const nyTimesLogo = PhosphorDuotoneIconData(0xe647, 0xe646);
+  static const nyTimesLogo = IconData(0xe646e647, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![octagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/octagon-duotone.svg)
-  static const octagon = PhosphorDuotoneIconData(0xe38f, 0xe38e);
+  static const octagon = IconData(0xe38ee38f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![office-chair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/office-chair-duotone.svg)
-  static const officeChair = PhosphorDuotoneIconData(0xea47, 0xea46);
+  static const officeChair = IconData(0xea46ea47, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![onigiri-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/onigiri-duotone.svg)
-  static const onigiri = PhosphorDuotoneIconData(0xee2d, 0xee2c);
+  static const onigiri = IconData(0xee2cee2d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![open-ai-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/open-ai-logo-duotone.svg)
-  static const openAiLogo = PhosphorDuotoneIconData(0xe7d3, 0xe7d2);
+  static const openAiLogo = IconData(0xe7d2e7d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![option-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/option-duotone.svg)
-  static const option = PhosphorDuotoneIconData(0xe8a9, 0xe8a8);
+  static const option = IconData(0xe8a8e8a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![orange-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-duotone.svg)
-  static const orange = PhosphorDuotoneIconData(0xee41, 0xee40);
+  static const orange = IconData(0xee40ee41, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![orange-slice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-slice-duotone.svg)
-  static const orangeSlice = PhosphorDuotoneIconData(0xed37, 0xed36);
+  static const orangeSlice = IconData(0xed36ed37, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![oven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/oven-duotone.svg)
-  static const oven = PhosphorDuotoneIconData(0xed8d, 0xed8c);
+  static const oven = IconData(0xed8ced8d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![package-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/package-duotone.svg)
-  static const package = PhosphorDuotoneIconData(0xe391, 0xe390);
+  static const package = IconData(0xe390e391, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paint-brush-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-duotone.svg)
-  static const paintBrush = PhosphorDuotoneIconData(0xe6f1, 0xe6f0);
+  static const paintBrush = IconData(0xe6f0e6f1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paint-brush-broad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-broad-duotone.svg)
-  static const paintBrushBroad = PhosphorDuotoneIconData(0xe591, 0xe590);
+  static const paintBrushBroad = IconData(0xe590e591, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paint-brush-household-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-household-duotone.svg)
-  static const paintBrushHousehold = PhosphorDuotoneIconData(0xe6f3, 0xe6f2);
+  static const paintBrushHousehold = IconData(0xe6f2e6f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paint-bucket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-bucket-duotone.svg)
-  static const paintBucket = PhosphorDuotoneIconData(0xe393, 0xe392);
+  static const paintBucket = IconData(0xe392e393, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paint-roller-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-roller-duotone.svg)
-  static const paintRoller = PhosphorDuotoneIconData(0xe6f5, 0xe6f4);
+  static const paintRoller = IconData(0xe6f4e6f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![palette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/palette-duotone.svg)
-  static const palette = PhosphorDuotoneIconData(0xe6c9, 0xe6c8);
+  static const palette = IconData(0xe6c8e6c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![panorama-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/panorama-duotone.svg)
-  static const panorama = PhosphorDuotoneIconData(0xeaa3, 0xeaa2);
+  static const panorama = IconData(0xeaa2eaa3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pants-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pants-duotone.svg)
-  static const pants = PhosphorDuotoneIconData(0xec89, 0xec88);
+  static const pants = IconData(0xec88ec89, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paper-plane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-duotone.svg)
-  static const paperPlane = PhosphorDuotoneIconData(0xe395, 0xe394);
+  static const paperPlane = IconData(0xe394e395, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paper-plane-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-right-duotone.svg)
-  static const paperPlaneRight = PhosphorDuotoneIconData(0xe397, 0xe396);
+  static const paperPlaneRight = IconData(0xe396e397, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paper-plane-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-tilt-duotone.svg)
-  static const paperPlaneTilt = PhosphorDuotoneIconData(0xe399, 0xe398);
+  static const paperPlaneTilt = IconData(0xe398e399, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paperclip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-duotone.svg)
-  static const paperclip = PhosphorDuotoneIconData(0xe39b, 0xe39a);
+  static const paperclip = IconData(0xe39ae39b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paperclip-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-horizontal-duotone.svg)
-  static const paperclipHorizontal = PhosphorDuotoneIconData(0xe593, 0xe592);
+  static const paperclipHorizontal = IconData(0xe592e593, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![parachute-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parachute-duotone.svg)
-  static const parachute = PhosphorDuotoneIconData(0xea7d, 0xea7c);
+  static const parachute = IconData(0xea7cea7d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paragraph-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paragraph-duotone.svg)
-  static const paragraph = PhosphorDuotoneIconData(0xe961, 0xe960);
+  static const paragraph = IconData(0xe960e961, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![parallelogram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parallelogram-duotone.svg)
-  static const parallelogram = PhosphorDuotoneIconData(0xecc7, 0xecc6);
+  static const parallelogram = IconData(0xecc6ecc7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![park-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/park-duotone.svg)
-  static const park = PhosphorDuotoneIconData(0xecb3, 0xecb2);
+  static const park = IconData(0xecb2ecb3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![password-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/password-duotone.svg)
-  static const password = PhosphorDuotoneIconData(0xe753, 0xe752);
+  static const password = IconData(0xe752e753, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![path-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/path-duotone.svg)
-  static const path = PhosphorDuotoneIconData(0xe39d, 0xe39c);
+  static const path = IconData(0xe39ce39d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![patreon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/patreon-logo-duotone.svg)
-  static const patreonLogo = PhosphorDuotoneIconData(0xe98b, 0xe98a);
+  static const patreonLogo = IconData(0xe98ae98b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-duotone.svg)
-  static const pause = PhosphorDuotoneIconData(0xe39f, 0xe39e);
+  static const pause = IconData(0xe39ee39f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pause-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-circle-duotone.svg)
-  static const pauseCircle = PhosphorDuotoneIconData(0xe3a1, 0xe3a0);
+  static const pauseCircle = IconData(0xe3a0e3a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paw-print-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paw-print-duotone.svg)
-  static const pawPrint = PhosphorDuotoneIconData(0xe649, 0xe648);
+  static const pawPrint = IconData(0xe648e649, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![paypal-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paypal-logo-duotone.svg)
-  static const paypalLogo = PhosphorDuotoneIconData(0xe98d, 0xe98c);
+  static const paypalLogo = IconData(0xe98ce98d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![peace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/peace-duotone.svg)
-  static const peace = PhosphorDuotoneIconData(0xe3a3, 0xe3a2);
+  static const peace = IconData(0xe3a2e3a3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-duotone.svg)
-  static const pen = PhosphorDuotoneIconData(0xe3ab, 0xe3aa);
+  static const pen = IconData(0xe3aae3ab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pen-nib-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-duotone.svg)
-  static const penNib = PhosphorDuotoneIconData(0xe3ad, 0xe3ac);
+  static const penNib = IconData(0xe3ace3ad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pen-nib-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-straight-duotone.svg)
-  static const penNibStraight = PhosphorDuotoneIconData(0xe64b, 0xe64a);
+  static const penNibStraight = IconData(0xe64ae64b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pencil-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-duotone.svg)
-  static const pencil = PhosphorDuotoneIconData(0xe3af, 0xe3ae);
+  static const pencil = IconData(0xe3aee3af, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pencil-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-circle-duotone.svg)
-  static const pencilCircle = PhosphorDuotoneIconData(0xe3b1, 0xe3b0);
+  static const pencilCircle = IconData(0xe3b0e3b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pencil-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-line-duotone.svg)
-  static const pencilLine = PhosphorDuotoneIconData(0xe3b3, 0xe3b2);
+  static const pencilLine = IconData(0xe3b2e3b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pencil-ruler-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-ruler-duotone.svg)
-  static const pencilRuler = PhosphorDuotoneIconData(0xe907, 0xe906);
+  static const pencilRuler = IconData(0xe906e907, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pencil-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-duotone.svg)
-  static const pencilSimple = PhosphorDuotoneIconData(0xe3b5, 0xe3b4);
+  static const pencilSimple = IconData(0xe3b4e3b5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pencil-simple-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-line-duotone.svg)
-  static const pencilSimpleLine = PhosphorDuotoneIconData(0xebc7, 0xebc6);
+  static const pencilSimpleLine = IconData(0xebc6ebc7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pencil-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-slash-duotone.svg)
-  static const pencilSimpleSlash = PhosphorDuotoneIconData(0xecf7, 0xecf6);
+  static const pencilSimpleSlash = IconData(0xecf6ecf7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pencil-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-slash-duotone.svg)
-  static const pencilSlash = PhosphorDuotoneIconData(0xecf9, 0xecf8);
+  static const pencilSlash = IconData(0xecf8ecf9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pentagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagon-duotone.svg)
-  static const pentagon = PhosphorDuotoneIconData(0xec7f, 0xec7e);
+  static const pentagon = IconData(0xec7eec7f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pentagram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagram-duotone.svg)
-  static const pentagram = PhosphorDuotoneIconData(0xec5d, 0xec5c);
+  static const pentagram = IconData(0xec5cec5d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pepper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pepper-duotone.svg)
-  static const pepper = PhosphorDuotoneIconData(0xe94b, 0xe94a);
+  static const pepper = IconData(0xe94ae94b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![percent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/percent-duotone.svg)
-  static const percent = PhosphorDuotoneIconData(0xe3b7, 0xe3b6);
+  static const percent = IconData(0xe3b6e3b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-duotone.svg)
-  static const person = PhosphorDuotoneIconData(0xe3a9, 0xe3a8);
+  static const person = IconData(0xe3a8e3a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-arms-spread-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-arms-spread-duotone.svg)
-  static const personArmsSpread = PhosphorDuotoneIconData(0xecff, 0xecfe);
+  static const personArmsSpread = IconData(0xecfeecff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-duotone.svg)
-  static const personSimple = PhosphorDuotoneIconData(0xe72f, 0xe72e);
+  static const personSimple = IconData(0xe72ee72f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-bike-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-bike-duotone.svg)
-  static const personSimpleBike = PhosphorDuotoneIconData(0xe735, 0xe734);
+  static const personSimpleBike = IconData(0xe734e735, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-circle-duotone.svg)
-  static const personSimpleCircle = PhosphorDuotoneIconData(0xee59, 0xee58);
+  static const personSimpleCircle = IconData(0xee58ee59, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-hike-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-hike-duotone.svg)
-  static const personSimpleHike = PhosphorDuotoneIconData(0xed55, 0xed54);
+  static const personSimpleHike = IconData(0xed54ed55, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-run-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-run-duotone.svg)
-  static const personSimpleRun = PhosphorDuotoneIconData(0xe731, 0xe730);
+  static const personSimpleRun = IconData(0xe730e731, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-ski-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-ski-duotone.svg)
-  static const personSimpleSki = PhosphorDuotoneIconData(0xe71d, 0xe71c);
+  static const personSimpleSki = IconData(0xe71ce71d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-snowboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-snowboard-duotone.svg)
-  static const personSimpleSnowboard = PhosphorDuotoneIconData(0xe71f, 0xe71e);
+  static const personSimpleSnowboard = IconData(0xe71ee71f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-swim-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-swim-duotone.svg)
-  static const personSimpleSwim = PhosphorDuotoneIconData(0xe737, 0xe736);
+  static const personSimpleSwim = IconData(0xe736e737, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-tai-chi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-tai-chi-duotone.svg)
-  static const personSimpleTaiChi = PhosphorDuotoneIconData(0xed5d, 0xed5c);
+  static const personSimpleTaiChi = IconData(0xed5ced5d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-throw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-throw-duotone.svg)
-  static const personSimpleThrow = PhosphorDuotoneIconData(0xe733, 0xe732);
+  static const personSimpleThrow = IconData(0xe732e733, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![person-simple-walk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-walk-duotone.svg)
-  static const personSimpleWalk = PhosphorDuotoneIconData(0xe73b, 0xe73a);
+  static const personSimpleWalk = IconData(0xe73ae73b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![perspective-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/perspective-duotone.svg)
-  static const perspective = PhosphorDuotoneIconData(0xebe7, 0xebe6);
+  static const perspective = IconData(0xebe6ebe7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-duotone.svg)
-  static const phone = PhosphorDuotoneIconData(0xe3b9, 0xe3b8);
+  static const phone = IconData(0xe3b8e3b9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-call-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-call-duotone.svg)
-  static const phoneCall = PhosphorDuotoneIconData(0xe3bb, 0xe3ba);
+  static const phoneCall = IconData(0xe3bae3bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-disconnect-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-disconnect-duotone.svg)
-  static const phoneDisconnect = PhosphorDuotoneIconData(0xe3bd, 0xe3bc);
+  static const phoneDisconnect = IconData(0xe3bce3bd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-incoming-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-incoming-duotone.svg)
-  static const phoneIncoming = PhosphorDuotoneIconData(0xe3bf, 0xe3be);
+  static const phoneIncoming = IconData(0xe3bee3bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-list-duotone.svg)
-  static const phoneList = PhosphorDuotoneIconData(0xe3cd, 0xe3cc);
+  static const phoneList = IconData(0xe3cce3cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-outgoing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-outgoing-duotone.svg)
-  static const phoneOutgoing = PhosphorDuotoneIconData(0xe3c1, 0xe3c0);
+  static const phoneOutgoing = IconData(0xe3c0e3c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-pause-duotone.svg)
-  static const phonePause = PhosphorDuotoneIconData(0xe3cb, 0xe3ca);
+  static const phonePause = IconData(0xe3cae3cb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-plus-duotone.svg)
-  static const phonePlus = PhosphorDuotoneIconData(0xec57, 0xec56);
+  static const phonePlus = IconData(0xec56ec57, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-slash-duotone.svg)
-  static const phoneSlash = PhosphorDuotoneIconData(0xe3c3, 0xe3c2);
+  static const phoneSlash = IconData(0xe3c2e3c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-transfer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-transfer-duotone.svg)
-  static const phoneTransfer = PhosphorDuotoneIconData(0xe3c7, 0xe3c6);
+  static const phoneTransfer = IconData(0xe3c6e3c7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phone-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-x-duotone.svg)
-  static const phoneX = PhosphorDuotoneIconData(0xe3c5, 0xe3c4);
+  static const phoneX = IconData(0xe3c4e3c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![phosphor-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phosphor-logo-duotone.svg)
-  static const phosphorLogo = PhosphorDuotoneIconData(0xe3cf, 0xe3ce);
+  static const phosphorLogo = IconData(0xe3cee3cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pi-duotone.svg)
-  static const pi = PhosphorDuotoneIconData(0xec81, 0xec80);
+  static const pi = IconData(0xec80ec81, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![piano-keys-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piano-keys-duotone.svg)
-  static const pianoKeys = PhosphorDuotoneIconData(0xe9c9, 0xe9c8);
+  static const pianoKeys = IconData(0xe9c8e9c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![picnic-table-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picnic-table-duotone.svg)
-  static const picnicTable = PhosphorDuotoneIconData(0xee27, 0xee26);
+  static const picnicTable = IconData(0xee26ee27, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![picture-in-picture-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picture-in-picture-duotone.svg)
-  static const pictureInpicture = PhosphorDuotoneIconData(0xe64d, 0xe64c);
+  static const pictureInpicture = IconData(0xe64ce64d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![piggy-bank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piggy-bank-duotone.svg)
-  static const piggyBank = PhosphorDuotoneIconData(0xea05, 0xea04);
+  static const piggyBank = IconData(0xea04ea05, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pill-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pill-duotone.svg)
-  static const pill = PhosphorDuotoneIconData(0xe701, 0xe700);
+  static const pill = IconData(0xe700e701, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ping-pong-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ping-pong-duotone.svg)
-  static const pingPong = PhosphorDuotoneIconData(0xea43, 0xea42);
+  static const pingPong = IconData(0xea42ea43, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pint-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pint-glass-duotone.svg)
-  static const pintGlass = PhosphorDuotoneIconData(0xedd1, 0xedd0);
+  static const pintGlass = IconData(0xedd0edd1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pinterest-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinterest-logo-duotone.svg)
-  static const pinterestLogo = PhosphorDuotoneIconData(0xe64f, 0xe64e);
+  static const pinterestLogo = IconData(0xe64ee64f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pinwheel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinwheel-duotone.svg)
-  static const pinwheel = PhosphorDuotoneIconData(0xeb9d, 0xeb9c);
+  static const pinwheel = IconData(0xeb9ceb9d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pipe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-duotone.svg)
-  static const pipe = PhosphorDuotoneIconData(0xed87, 0xed86);
+  static const pipe = IconData(0xed86ed87, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pipe-wrench-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-wrench-duotone.svg)
-  static const pipeWrench = PhosphorDuotoneIconData(0xed89, 0xed88);
+  static const pipeWrench = IconData(0xed88ed89, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pix-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pix-logo-duotone.svg)
-  static const pixLogo = PhosphorDuotoneIconData(0xecc3, 0xecc2);
+  static const pixLogo = IconData(0xecc2ecc3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pizza-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pizza-duotone.svg)
-  static const pizza = PhosphorDuotoneIconData(0xe797, 0xe796);
+  static const pizza = IconData(0xe796e797, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![placeholder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/placeholder-duotone.svg)
-  static const placeholder = PhosphorDuotoneIconData(0xe651, 0xe650);
+  static const placeholder = IconData(0xe650e651, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![planet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/planet-duotone.svg)
-  static const planet = PhosphorDuotoneIconData(0xe653, 0xe652);
+  static const planet = IconData(0xe652e653, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plant-duotone.svg)
-  static const plant = PhosphorDuotoneIconData(0xebaf, 0xebae);
+  static const plant = IconData(0xebaeebaf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![play-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-duotone.svg)
-  static const play = PhosphorDuotoneIconData(0xe3d1, 0xe3d0);
+  static const play = IconData(0xe3d0e3d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![play-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-circle-duotone.svg)
-  static const playCircle = PhosphorDuotoneIconData(0xe3d3, 0xe3d2);
+  static const playCircle = IconData(0xe3d2e3d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![play-pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-pause-duotone.svg)
-  static const playPause = PhosphorDuotoneIconData(0xe8bf, 0xe8be);
+  static const playPause = IconData(0xe8bee8bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![playlist-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/playlist-duotone.svg)
-  static const playlist = PhosphorDuotoneIconData(0xe6ab, 0xe6aa);
+  static const playlist = IconData(0xe6aae6ab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-duotone.svg)
-  static const plug = PhosphorDuotoneIconData(0xe947, 0xe946);
+  static const plug = IconData(0xe946e947, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plug-charging-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-charging-duotone.svg)
-  static const plugCharging = PhosphorDuotoneIconData(0xeb5d, 0xeb5c);
+  static const plugCharging = IconData(0xeb5ceb5d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plugs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-duotone.svg)
-  static const plugs = PhosphorDuotoneIconData(0xeb57, 0xeb56);
+  static const plugs = IconData(0xeb56eb57, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plugs-connected-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-connected-duotone.svg)
-  static const plugsConnected = PhosphorDuotoneIconData(0xeb5b, 0xeb5a);
+  static const plugsConnected = IconData(0xeb5aeb5b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-duotone.svg)
-  static const plus = PhosphorDuotoneIconData(0xe3d5, 0xe3d4);
+  static const plus = IconData(0xe3d4e3d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plus-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-circle-duotone.svg)
-  static const plusCircle = PhosphorDuotoneIconData(0xe3d7, 0xe3d6);
+  static const plusCircle = IconData(0xe3d6e3d7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plus-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-minus-duotone.svg)
-  static const plusMinus = PhosphorDuotoneIconData(0xe3d9, 0xe3d8);
+  static const plusMinus = IconData(0xe3d8e3d9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![plus-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-square-duotone.svg)
-  static const plusSquare = PhosphorDuotoneIconData(0xed56, 0xed4a);
+  static const plusSquare = IconData(0xed4aed56, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![poker-chip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/poker-chip-duotone.svg)
-  static const pokerChip = PhosphorDuotoneIconData(0xe595, 0xe594);
+  static const pokerChip = IconData(0xe594e595, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![police-car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/police-car-duotone.svg)
-  static const policeCar = PhosphorDuotoneIconData(0xec4b, 0xec4a);
+  static const policeCar = IconData(0xec4aec4b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![polygon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/polygon-duotone.svg)
-  static const polygon = PhosphorDuotoneIconData(0xe6d1, 0xe6d0);
+  static const polygon = IconData(0xe6d0e6d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![popcorn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popcorn-duotone.svg)
-  static const popcorn = PhosphorDuotoneIconData(0xeb4f, 0xeb4e);
+  static const popcorn = IconData(0xeb4eeb4f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![popsicle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popsicle-duotone.svg)
-  static const popsicle = PhosphorDuotoneIconData(0xebbf, 0xebbe);
+  static const popsicle = IconData(0xebbeebbf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![potted-plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/potted-plant-duotone.svg)
-  static const pottedPlant = PhosphorDuotoneIconData(0xec23, 0xec22);
+  static const pottedPlant = IconData(0xec22ec23, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![power-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/power-duotone.svg)
-  static const power = PhosphorDuotoneIconData(0xe3db, 0xe3da);
+  static const power = IconData(0xe3dae3db, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![prescription-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prescription-duotone.svg)
-  static const prescription = PhosphorDuotoneIconData(0xe7a3, 0xe7a2);
+  static const prescription = IconData(0xe7a2e7a3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![presentation-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-duotone.svg)
-  static const presentation = PhosphorDuotoneIconData(0xe655, 0xe654);
+  static const presentation = IconData(0xe654e655, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![presentation-chart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-chart-duotone.svg)
-  static const presentationChart = PhosphorDuotoneIconData(0xe657, 0xe656);
+  static const presentationChart = IconData(0xe656e657, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![printer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/printer-duotone.svg)
-  static const printer = PhosphorDuotoneIconData(0xe3dd, 0xe3dc);
+  static const printer = IconData(0xe3dce3dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![prohibit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-duotone.svg)
-  static const prohibit = PhosphorDuotoneIconData(0xe3df, 0xe3de);
+  static const prohibit = IconData(0xe3dee3df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![prohibit-inset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-inset-duotone.svg)
-  static const prohibitInset = PhosphorDuotoneIconData(0xe3e1, 0xe3e0);
+  static const prohibitInset = IconData(0xe3e0e3e1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![projector-screen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-duotone.svg)
-  static const projectorScreen = PhosphorDuotoneIconData(0xe659, 0xe658);
+  static const projectorScreen = IconData(0xe658e659, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![projector-screen-chart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-chart-duotone.svg)
-  static const projectorScreenChart = PhosphorDuotoneIconData(0xe65b, 0xe65a);
+  static const projectorScreenChart = IconData(0xe65ae65b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![pulse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pulse-duotone.svg)
-  static const pulse = PhosphorDuotoneIconData(0xe001, 0xe000);
+  static const pulse = IconData(0xe000e001, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![push-pin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-duotone.svg)
-  static const pushPin = PhosphorDuotoneIconData(0xe3e3, 0xe3e2);
+  static const pushPin = IconData(0xe3e2e3e3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![push-pin-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-duotone.svg)
-  static const pushPinSimple = PhosphorDuotoneIconData(0xe65d, 0xe65c);
+  static const pushPinSimple = IconData(0xe65ce65d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![push-pin-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-slash-duotone.svg)
-  static const pushPinSimpleSlash = PhosphorDuotoneIconData(0xe65f, 0xe65e);
+  static const pushPinSimpleSlash = IconData(0xe65ee65f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![push-pin-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-slash-duotone.svg)
-  static const pushPinSlash = PhosphorDuotoneIconData(0xe3e5, 0xe3e4);
+  static const pushPinSlash = IconData(0xe3e4e3e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![puzzle-piece-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/puzzle-piece-duotone.svg)
-  static const puzzlePiece = PhosphorDuotoneIconData(0xe597, 0xe596);
+  static const puzzlePiece = IconData(0xe596e597, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![qr-code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/qr-code-duotone.svg)
-  static const qrCode = PhosphorDuotoneIconData(0xe3e7, 0xe3e6);
+  static const qrCode = IconData(0xe3e6e3e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-duotone.svg)
-  static const question = PhosphorDuotoneIconData(0xe3eb, 0xe3e8);
+  static const question = IconData(0xe3e8e3eb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![question-mark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-mark-duotone.svg)
-  static const questionMark = PhosphorDuotoneIconData(0xe3ed, 0xe3e9);
+  static const questionMark = IconData(0xe3e9e3ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![queue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/queue-duotone.svg)
-  static const queue = PhosphorDuotoneIconData(0xe6ad, 0xe6ac);
+  static const queue = IconData(0xe6ace6ad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![quotes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/quotes-duotone.svg)
-  static const quotes = PhosphorDuotoneIconData(0xe661, 0xe660);
+  static const quotes = IconData(0xe660e661, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rabbit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rabbit-duotone.svg)
-  static const rabbit = PhosphorDuotoneIconData(0xeac3, 0xeac2);
+  static const rabbit = IconData(0xeac2eac3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![racquet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/racquet-duotone.svg)
-  static const racquet = PhosphorDuotoneIconData(0xee03, 0xee02);
+  static const racquet = IconData(0xee02ee03, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![radical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radical-duotone.svg)
-  static const radical = PhosphorDuotoneIconData(0xe3ef, 0xe3ea);
+  static const radical = IconData(0xe3eae3ef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![radio-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-duotone.svg)
-  static const radio = PhosphorDuotoneIconData(0xe77f, 0xe77e);
+  static const radio = IconData(0xe77ee77f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![radio-button-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-button-duotone.svg)
-  static const radioButton = PhosphorDuotoneIconData(0xeb09, 0xeb08);
+  static const radioButton = IconData(0xeb08eb09, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![radioactive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radioactive-duotone.svg)
-  static const radioactive = PhosphorDuotoneIconData(0xe9dd, 0xe9dc);
+  static const radioactive = IconData(0xe9dce9dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rainbow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-duotone.svg)
-  static const rainbow = PhosphorDuotoneIconData(0xe599, 0xe598);
+  static const rainbow = IconData(0xe598e599, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rainbow-cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-cloud-duotone.svg)
-  static const rainbowCloud = PhosphorDuotoneIconData(0xe59b, 0xe59a);
+  static const rainbowCloud = IconData(0xe59ae59b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ranking-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ranking-duotone.svg)
-  static const ranking = PhosphorDuotoneIconData(0xed63, 0xed62);
+  static const ranking = IconData(0xed62ed63, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![read-cv-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/read-cv-logo-duotone.svg)
-  static const readCvLogo = PhosphorDuotoneIconData(0xed0d, 0xed0c);
+  static const readCvLogo = IconData(0xed0ced0d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![receipt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-duotone.svg)
-  static const receipt = PhosphorDuotoneIconData(0xe3f1, 0xe3ec);
+  static const receipt = IconData(0xe3ece3f1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![receipt-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-x-duotone.svg)
-  static const receiptX = PhosphorDuotoneIconData(0xed41, 0xed40);
+  static const receiptX = IconData(0xed40ed41, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![record-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/record-duotone.svg)
-  static const record = PhosphorDuotoneIconData(0xe3f3, 0xe3ee);
+  static const record = IconData(0xe3eee3f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rectangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-duotone.svg)
-  static const rectangle = PhosphorDuotoneIconData(0xe3f5, 0xe3f0);
+  static const rectangle = IconData(0xe3f0e3f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rectangle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-dashed-duotone.svg)
-  static const rectangleDashed = PhosphorDuotoneIconData(0xe3f7, 0xe3f2);
+  static const rectangleDashed = IconData(0xe3f2e3f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![recycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/recycle-duotone.svg)
-  static const recycle = PhosphorDuotoneIconData(0xe75b, 0xe75a);
+  static const recycle = IconData(0xe75ae75b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![reddit-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/reddit-logo-duotone.svg)
-  static const redditLogo = PhosphorDuotoneIconData(0xe59d, 0xe59c);
+  static const redditLogo = IconData(0xe59ce59d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![repeat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-duotone.svg)
-  static const repeat = PhosphorDuotoneIconData(0xe3f9, 0xe3f6);
+  static const repeat = IconData(0xe3f6e3f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![repeat-once-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-once-duotone.svg)
-  static const repeatOnce = PhosphorDuotoneIconData(0xe3fb, 0xe3f8);
+  static const repeatOnce = IconData(0xe3f8e3fb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![replit-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/replit-logo-duotone.svg)
-  static const replitLogo = PhosphorDuotoneIconData(0xeb8b, 0xeb8a);
+  static const replitLogo = IconData(0xeb8aeb8b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![resize-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/resize-duotone.svg)
-  static const resize = PhosphorDuotoneIconData(0xed6f, 0xed6e);
+  static const resize = IconData(0xed6eed6f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rewind-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-duotone.svg)
-  static const rewind = PhosphorDuotoneIconData(0xe6a9, 0xe6a8);
+  static const rewind = IconData(0xe6a8e6a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rewind-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-circle-duotone.svg)
-  static const rewindCircle = PhosphorDuotoneIconData(0xe3fd, 0xe3fa);
+  static const rewindCircle = IconData(0xe3fae3fd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![road-horizon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/road-horizon-duotone.svg)
-  static const roadHorizon = PhosphorDuotoneIconData(0xe839, 0xe838);
+  static const roadHorizon = IconData(0xe838e839, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![robot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/robot-duotone.svg)
-  static const robot = PhosphorDuotoneIconData(0xe763, 0xe762);
+  static const robot = IconData(0xe762e763, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rocket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-duotone.svg)
-  static const rocket = PhosphorDuotoneIconData(0xe3ff, 0xe3fc);
+  static const rocket = IconData(0xe3fce3ff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rocket-launch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-launch-duotone.svg)
-  static const rocketLaunch = PhosphorDuotoneIconData(0xe401, 0xe3fe);
+  static const rocketLaunch = IconData(0xe3fee401, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rows-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-duotone.svg)
-  static const rows = PhosphorDuotoneIconData(0xe5a3, 0xe5a2);
+  static const rows = IconData(0xe5a2e5a3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rows-plus-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-bottom-duotone.svg)
-  static const rowsPlusBottom = PhosphorDuotoneIconData(0xe59f, 0xe59e);
+  static const rowsPlusBottom = IconData(0xe59ee59f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rows-plus-top-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-top-duotone.svg)
-  static const rowsPlusTop = PhosphorDuotoneIconData(0xe5a1, 0xe5a0);
+  static const rowsPlusTop = IconData(0xe5a0e5a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rss-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-duotone.svg)
-  static const rss = PhosphorDuotoneIconData(0xe403, 0xe400);
+  static const rss = IconData(0xe400e403, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rss-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-simple-duotone.svg)
-  static const rssSimple = PhosphorDuotoneIconData(0xe405, 0xe402);
+  static const rssSimple = IconData(0xe402e405, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![rug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rug-duotone.svg)
-  static const rug = PhosphorDuotoneIconData(0xea1b, 0xea1a);
+  static const rug = IconData(0xea1aea1b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ruler-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ruler-duotone.svg)
-  static const ruler = PhosphorDuotoneIconData(0xe6b9, 0xe6b8);
+  static const ruler = IconData(0xe6b8e6b9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sailboat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sailboat-duotone.svg)
-  static const sailboat = PhosphorDuotoneIconData(0xe78b, 0xe78a);
+  static const sailboat = IconData(0xe78ae78b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![scales-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scales-duotone.svg)
-  static const scales = PhosphorDuotoneIconData(0xe751, 0xe750);
+  static const scales = IconData(0xe750e751, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![scan-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-duotone.svg)
-  static const scan = PhosphorDuotoneIconData(0xebb7, 0xebb6);
+  static const scan = IconData(0xebb6ebb7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![scan-smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-smiley-duotone.svg)
-  static const scanSmiley = PhosphorDuotoneIconData(0xebb5, 0xebb4);
+  static const scanSmiley = IconData(0xebb4ebb5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![scissors-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scissors-duotone.svg)
-  static const scissors = PhosphorDuotoneIconData(0xeae1, 0xeae0);
+  static const scissors = IconData(0xeae0eae1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![scooter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scooter-duotone.svg)
-  static const scooter = PhosphorDuotoneIconData(0xe821, 0xe820);
+  static const scooter = IconData(0xe820e821, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![screencast-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screencast-duotone.svg)
-  static const screencast = PhosphorDuotoneIconData(0xe407, 0xe404);
+  static const screencast = IconData(0xe404e407, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![screwdriver-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screwdriver-duotone.svg)
-  static const screwdriver = PhosphorDuotoneIconData(0xe86f, 0xe86e);
+  static const screwdriver = IconData(0xe86ee86f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![scribble-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-duotone.svg)
-  static const scribble = PhosphorDuotoneIconData(0xe807, 0xe806);
+  static const scribble = IconData(0xe806e807, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![scribble-loop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-loop-duotone.svg)
-  static const scribbleLoop = PhosphorDuotoneIconData(0xe663, 0xe662);
+  static const scribbleLoop = IconData(0xe662e663, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![scroll-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scroll-duotone.svg)
-  static const scroll = PhosphorDuotoneIconData(0xeb7b, 0xeb7a);
+  static const scroll = IconData(0xeb7aeb7b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![seal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-duotone.svg)
-  static const seal = PhosphorDuotoneIconData(0xe605, 0xe604);
+  static const seal = IconData(0xe604e605, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![seal-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-check-duotone.svg)
-  static const sealCheck = PhosphorDuotoneIconData(0xe607, 0xe606);
+  static const sealCheck = IconData(0xe606e607, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![seal-percent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-percent-duotone.svg)
-  static const sealPercent = PhosphorDuotoneIconData(0xe60b, 0xe60a);
+  static const sealPercent = IconData(0xe60ae60b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![seal-question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-question-duotone.svg)
-  static const sealQuestion = PhosphorDuotoneIconData(0xe609, 0xe608);
+  static const sealQuestion = IconData(0xe608e609, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![seal-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-warning-duotone.svg)
-  static const sealWarning = PhosphorDuotoneIconData(0xe60d, 0xe60c);
+  static const sealWarning = IconData(0xe60ce60d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![seat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seat-duotone.svg)
-  static const seat = PhosphorDuotoneIconData(0xeb8f, 0xeb8e);
+  static const seat = IconData(0xeb8eeb8f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![seatbelt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seatbelt-duotone.svg)
-  static const seatbelt = PhosphorDuotoneIconData(0xedff, 0xedfe);
+  static const seatbelt = IconData(0xedfeedff, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![security-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/security-camera-duotone.svg)
-  static const securityCamera = PhosphorDuotoneIconData(0xeca5, 0xeca4);
+  static const securityCamera = IconData(0xeca4eca5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![selection-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-duotone.svg)
-  static const selection = PhosphorDuotoneIconData(0xe69b, 0xe69a);
+  static const selection = IconData(0xe69ae69b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![selection-all-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-all-duotone.svg)
-  static const selectionAll = PhosphorDuotoneIconData(0xe747, 0xe746);
+  static const selectionAll = IconData(0xe746e747, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![selection-background-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-background-duotone.svg)
-  static const selectionBackground = PhosphorDuotoneIconData(0xeaf9, 0xeaf8);
+  static const selectionBackground = IconData(0xeaf8eaf9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![selection-foreground-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-foreground-duotone.svg)
-  static const selectionForeground = PhosphorDuotoneIconData(0xeaf7, 0xeaf6);
+  static const selectionForeground = IconData(0xeaf6eaf7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![selection-inverse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-inverse-duotone.svg)
-  static const selectionInverse = PhosphorDuotoneIconData(0xe745, 0xe744);
+  static const selectionInverse = IconData(0xe744e745, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![selection-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-plus-duotone.svg)
-  static const selectionPlus = PhosphorDuotoneIconData(0xe69d, 0xe69c);
+  static const selectionPlus = IconData(0xe69ce69d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![selection-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-slash-duotone.svg)
-  static const selectionSlash = PhosphorDuotoneIconData(0xe69f, 0xe69e);
+  static const selectionSlash = IconData(0xe69ee69f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shapes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shapes-duotone.svg)
-  static const shapes = PhosphorDuotoneIconData(0xec5f, 0xec5e);
+  static const shapes = IconData(0xec5eec5f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![share-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-duotone.svg)
-  static const share = PhosphorDuotoneIconData(0xe409, 0xe406);
+  static const share = IconData(0xe406e409, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![share-fat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-fat-duotone.svg)
-  static const shareFat = PhosphorDuotoneIconData(0xed57, 0xed52);
+  static const shareFat = IconData(0xed52ed57, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![share-network-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-network-duotone.svg)
-  static const shareNetwork = PhosphorDuotoneIconData(0xe40b, 0xe408);
+  static const shareNetwork = IconData(0xe408e40b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shield-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-duotone.svg)
-  static const shield = PhosphorDuotoneIconData(0xe40d, 0xe40a);
+  static const shield = IconData(0xe40ae40d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shield-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-check-duotone.svg)
-  static const shieldCheck = PhosphorDuotoneIconData(0xe40f, 0xe40c);
+  static const shieldCheck = IconData(0xe40ce40f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shield-checkered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-checkered-duotone.svg)
-  static const shieldCheckered = PhosphorDuotoneIconData(0xe709, 0xe708);
+  static const shieldCheckered = IconData(0xe708e709, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shield-chevron-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-chevron-duotone.svg)
-  static const shieldChevron = PhosphorDuotoneIconData(0xe411, 0xe40e);
+  static const shieldChevron = IconData(0xe40ee411, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shield-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-plus-duotone.svg)
-  static const shieldPlus = PhosphorDuotoneIconData(0xe707, 0xe706);
+  static const shieldPlus = IconData(0xe706e707, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shield-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-slash-duotone.svg)
-  static const shieldSlash = PhosphorDuotoneIconData(0xe413, 0xe410);
+  static const shieldSlash = IconData(0xe410e413, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shield-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-star-duotone.svg)
-  static const shieldStar = PhosphorDuotoneIconData(0xec35, 0xec34);
+  static const shieldStar = IconData(0xec34ec35, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shield-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-warning-duotone.svg)
-  static const shieldWarning = PhosphorDuotoneIconData(0xe414, 0xe412);
+  static const shieldWarning = IconData(0xe412e414, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shipping-container-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shipping-container-duotone.svg)
-  static const shippingContainer = PhosphorDuotoneIconData(0xe78d, 0xe78c);
+  static const shippingContainer = IconData(0xe78ce78d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shirt-folded-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shirt-folded-duotone.svg)
-  static const shirtFolded = PhosphorDuotoneIconData(0xea93, 0xea92);
+  static const shirtFolded = IconData(0xea92ea93, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shooting-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shooting-star-duotone.svg)
-  static const shootingStar = PhosphorDuotoneIconData(0xecfb, 0xecfa);
+  static const shootingStar = IconData(0xecfaecfb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shopping-bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-duotone.svg)
-  static const shoppingBag = PhosphorDuotoneIconData(0xe417, 0xe416);
+  static const shoppingBag = IconData(0xe416e417, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shopping-bag-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-open-duotone.svg)
-  static const shoppingBagOpen = PhosphorDuotoneIconData(0xe419, 0xe418);
+  static const shoppingBagOpen = IconData(0xe418e419, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shopping-cart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-duotone.svg)
-  static const shoppingCart = PhosphorDuotoneIconData(0xe41f, 0xe41e);
+  static const shoppingCart = IconData(0xe41ee41f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shopping-cart-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-simple-duotone.svg)
-  static const shoppingCartSimple = PhosphorDuotoneIconData(0xe421, 0xe420);
+  static const shoppingCartSimple = IconData(0xe420e421, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shovel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shovel-duotone.svg)
-  static const shovel = PhosphorDuotoneIconData(0xe9e7, 0xe9e6);
+  static const shovel = IconData(0xe9e6e9e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shower-duotone.svg)
-  static const shower = PhosphorDuotoneIconData(0xe777, 0xe776);
+  static const shower = IconData(0xe776e777, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shrimp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shrimp-duotone.svg)
-  static const shrimp = PhosphorDuotoneIconData(0xeab5, 0xeab4);
+  static const shrimp = IconData(0xeab4eab5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shuffle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-duotone.svg)
-  static const shuffle = PhosphorDuotoneIconData(0xe423, 0xe422);
+  static const shuffle = IconData(0xe422e423, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shuffle-angular-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-angular-duotone.svg)
-  static const shuffleAngular = PhosphorDuotoneIconData(0xe425, 0xe424);
+  static const shuffleAngular = IconData(0xe424e425, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![shuffle-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-simple-duotone.svg)
-  static const shuffleSimple = PhosphorDuotoneIconData(0xe427, 0xe426);
+  static const shuffleSimple = IconData(0xe426e427, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sidebar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-duotone.svg)
-  static const sidebar = PhosphorDuotoneIconData(0xeab7, 0xeab6);
+  static const sidebar = IconData(0xeab6eab7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sidebar-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-simple-duotone.svg)
-  static const sidebarSimple = PhosphorDuotoneIconData(0xec25, 0xec24);
+  static const sidebarSimple = IconData(0xec24ec25, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sigma-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sigma-duotone.svg)
-  static const sigma = PhosphorDuotoneIconData(0xeab9, 0xeab8);
+  static const sigma = IconData(0xeab8eab9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sign-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-in-duotone.svg)
-  static const signIn = PhosphorDuotoneIconData(0xe429, 0xe428);
+  static const signIn = IconData(0xe428e429, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sign-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-out-duotone.svg)
-  static const signOut = PhosphorDuotoneIconData(0xe42b, 0xe42a);
+  static const signOut = IconData(0xe42ae42b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![signature-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signature-duotone.svg)
-  static const signature = PhosphorDuotoneIconData(0xebad, 0xebac);
+  static const signature = IconData(0xebacebad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![signpost-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signpost-duotone.svg)
-  static const signpost = PhosphorDuotoneIconData(0xe89d, 0xe89c);
+  static const signpost = IconData(0xe89ce89d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sim-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sim-card-duotone.svg)
-  static const simCard = PhosphorDuotoneIconData(0xe665, 0xe664);
+  static const simCard = IconData(0xe664e665, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![siren-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/siren-duotone.svg)
-  static const siren = PhosphorDuotoneIconData(0xe9b9, 0xe9b8);
+  static const siren = IconData(0xe9b8e9b9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sketch-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sketch-logo-duotone.svg)
-  static const sketchLogo = PhosphorDuotoneIconData(0xe42d, 0xe42c);
+  static const sketchLogo = IconData(0xe42ce42d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![skip-back-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-duotone.svg)
-  static const skipBack = PhosphorDuotoneIconData(0xe5a5, 0xe5a4);
+  static const skipBack = IconData(0xe5a4e5a5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![skip-back-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-circle-duotone.svg)
-  static const skipBackCircle = PhosphorDuotoneIconData(0xe42f, 0xe42e);
+  static const skipBackCircle = IconData(0xe42ee42f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![skip-forward-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-duotone.svg)
-  static const skipForward = PhosphorDuotoneIconData(0xe5a7, 0xe5a6);
+  static const skipForward = IconData(0xe5a6e5a7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![skip-forward-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-circle-duotone.svg)
-  static const skipForwardCircle = PhosphorDuotoneIconData(0xe431, 0xe430);
+  static const skipForwardCircle = IconData(0xe430e431, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![skull-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skull-duotone.svg)
-  static const skull = PhosphorDuotoneIconData(0xe917, 0xe916);
+  static const skull = IconData(0xe916e917, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![skype-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skype-logo-duotone.svg)
-  static const skypeLogo = PhosphorDuotoneIconData(0xe8dd, 0xe8dc);
+  static const skypeLogo = IconData(0xe8dce8dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![slack-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slack-logo-duotone.svg)
-  static const slackLogo = PhosphorDuotoneIconData(0xe5a9, 0xe5a8);
+  static const slackLogo = IconData(0xe5a8e5a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sliders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-duotone.svg)
-  static const sliders = PhosphorDuotoneIconData(0xe433, 0xe432);
+  static const sliders = IconData(0xe432e433, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sliders-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-horizontal-duotone.svg)
-  static const slidersHorizontal = PhosphorDuotoneIconData(0xe435, 0xe434);
+  static const slidersHorizontal = IconData(0xe434e435, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![slideshow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slideshow-duotone.svg)
-  static const slideshow = PhosphorDuotoneIconData(0xed33, 0xed32);
+  static const slideshow = IconData(0xed32ed33, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-duotone.svg)
-  static const smiley = PhosphorDuotoneIconData(0xe437, 0xe436);
+  static const smiley = IconData(0xe436e437, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-angry-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-angry-duotone.svg)
-  static const smileyAngry = PhosphorDuotoneIconData(0xec63, 0xec62);
+  static const smileyAngry = IconData(0xec62ec63, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-blank-duotone.svg)
-  static const smileyBlank = PhosphorDuotoneIconData(0xe439, 0xe438);
+  static const smileyBlank = IconData(0xe438e439, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-meh-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-meh-duotone.svg)
-  static const smileyMeh = PhosphorDuotoneIconData(0xe43b, 0xe43a);
+  static const smileyMeh = IconData(0xe43ae43b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-melting-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-melting-duotone.svg)
-  static const smileyMelting = PhosphorDuotoneIconData(0xee57, 0xee56);
+  static const smileyMelting = IconData(0xee56ee57, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-nervous-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-nervous-duotone.svg)
-  static const smileyNervous = PhosphorDuotoneIconData(0xe43d, 0xe43c);
+  static const smileyNervous = IconData(0xe43ce43d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-sad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sad-duotone.svg)
-  static const smileySad = PhosphorDuotoneIconData(0xe43f, 0xe43e);
+  static const smileySad = IconData(0xe43ee43f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-sticker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sticker-duotone.svg)
-  static const smileySticker = PhosphorDuotoneIconData(0xe441, 0xe440);
+  static const smileySticker = IconData(0xe440e441, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-wink-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-wink-duotone.svg)
-  static const smileyWink = PhosphorDuotoneIconData(0xe667, 0xe666);
+  static const smileyWink = IconData(0xe666e667, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![smiley-x-eyes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-x-eyes-duotone.svg)
-  static const smileyXEyes = PhosphorDuotoneIconData(0xe443, 0xe442);
+  static const smileyXEyes = IconData(0xe442e443, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![snapchat-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snapchat-logo-duotone.svg)
-  static const snapchatLogo = PhosphorDuotoneIconData(0xe669, 0xe668);
+  static const snapchatLogo = IconData(0xe668e669, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sneaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-duotone.svg)
-  static const sneaker = PhosphorDuotoneIconData(0xe80d, 0xe80c);
+  static const sneaker = IconData(0xe80ce80d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sneaker-move-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-move-duotone.svg)
-  static const sneakerMove = PhosphorDuotoneIconData(0xed61, 0xed60);
+  static const sneakerMove = IconData(0xed60ed61, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![snowflake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snowflake-duotone.svg)
-  static const snowflake = PhosphorDuotoneIconData(0xe5ab, 0xe5aa);
+  static const snowflake = IconData(0xe5aae5ab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![soccer-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soccer-ball-duotone.svg)
-  static const soccerBall = PhosphorDuotoneIconData(0xe717, 0xe716);
+  static const soccerBall = IconData(0xe716e717, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sock-duotone.svg)
-  static const sock = PhosphorDuotoneIconData(0xeccf, 0xecce);
+  static const sock = IconData(0xecceeccf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![solar-panel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-panel-duotone.svg)
-  static const solarPanel = PhosphorDuotoneIconData(0xed7e, 0xed7a);
+  static const solarPanel = IconData(0xed7aed7e, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![solar-roof-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-roof-duotone.svg)
-  static const solarRoof = PhosphorDuotoneIconData(0xed7f, 0xed7b);
+  static const solarRoof = IconData(0xed7bed7f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sort-ascending-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-ascending-duotone.svg)
-  static const sortAscending = PhosphorDuotoneIconData(0xe445, 0xe444);
+  static const sortAscending = IconData(0xe444e445, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sort-descending-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-descending-duotone.svg)
-  static const sortDescending = PhosphorDuotoneIconData(0xe447, 0xe446);
+  static const sortDescending = IconData(0xe446e447, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![soundcloud-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soundcloud-logo-duotone.svg)
-  static const soundcloudLogo = PhosphorDuotoneIconData(0xe8df, 0xe8de);
+  static const soundcloudLogo = IconData(0xe8dee8df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![spade-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spade-duotone.svg)
-  static const spade = PhosphorDuotoneIconData(0xe449, 0xe448);
+  static const spade = IconData(0xe448e449, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sparkle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sparkle-duotone.svg)
-  static const sparkle = PhosphorDuotoneIconData(0xe6a3, 0xe6a2);
+  static const sparkle = IconData(0xe6a2e6a3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-hifi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-hifi-duotone.svg)
-  static const speakerHifi = PhosphorDuotoneIconData(0xea09, 0xea08);
+  static const speakerHifi = IconData(0xea08ea09, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-high-duotone.svg)
-  static const speakerHigh = PhosphorDuotoneIconData(0xe44b, 0xe44a);
+  static const speakerHigh = IconData(0xe44ae44b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-low-duotone.svg)
-  static const speakerLow = PhosphorDuotoneIconData(0xe44d, 0xe44c);
+  static const speakerLow = IconData(0xe44ce44d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-none-duotone.svg)
-  static const speakerNone = PhosphorDuotoneIconData(0xe44f, 0xe44e);
+  static const speakerNone = IconData(0xe44ee44f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-simple-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-high-duotone.svg)
-  static const speakerSimpleHigh = PhosphorDuotoneIconData(0xe451, 0xe450);
+  static const speakerSimpleHigh = IconData(0xe450e451, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-simple-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-low-duotone.svg)
-  static const speakerSimpleLow = PhosphorDuotoneIconData(0xe453, 0xe452);
+  static const speakerSimpleLow = IconData(0xe452e453, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-simple-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-none-duotone.svg)
-  static const speakerSimpleNone = PhosphorDuotoneIconData(0xe455, 0xe454);
+  static const speakerSimpleNone = IconData(0xe454e455, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-slash-duotone.svg)
-  static const speakerSimpleSlash = PhosphorDuotoneIconData(0xe457, 0xe456);
+  static const speakerSimpleSlash = IconData(0xe456e457, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-x-duotone.svg)
-  static const speakerSimpleX = PhosphorDuotoneIconData(0xe459, 0xe458);
+  static const speakerSimpleX = IconData(0xe458e459, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-slash-duotone.svg)
-  static const speakerSlash = PhosphorDuotoneIconData(0xe45b, 0xe45a);
+  static const speakerSlash = IconData(0xe45ae45b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speaker-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-x-duotone.svg)
-  static const speakerX = PhosphorDuotoneIconData(0xe45d, 0xe45c);
+  static const speakerX = IconData(0xe45ce45d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![speedometer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speedometer-duotone.svg)
-  static const speedometer = PhosphorDuotoneIconData(0xee75, 0xee74);
+  static const speedometer = IconData(0xee74ee75, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sphere-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sphere-duotone.svg)
-  static const sphere = PhosphorDuotoneIconData(0xee67, 0xee66);
+  static const sphere = IconData(0xee66ee67, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![spinner-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-duotone.svg)
-  static const spinner = PhosphorDuotoneIconData(0xe66b, 0xe66a);
+  static const spinner = IconData(0xe66ae66b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![spinner-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-ball-duotone.svg)
-  static const spinnerBall = PhosphorDuotoneIconData(0xee29, 0xee28);
+  static const spinnerBall = IconData(0xee28ee29, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![spinner-gap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-gap-duotone.svg)
-  static const spinnerGap = PhosphorDuotoneIconData(0xe66d, 0xe66c);
+  static const spinnerGap = IconData(0xe66ce66d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![spiral-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spiral-duotone.svg)
-  static const spiral = PhosphorDuotoneIconData(0xe9fb, 0xe9fa);
+  static const spiral = IconData(0xe9fae9fb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![split-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-horizontal-duotone.svg)
-  static const splitHorizontal = PhosphorDuotoneIconData(0xe873, 0xe872);
+  static const splitHorizontal = IconData(0xe872e873, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![split-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-vertical-duotone.svg)
-  static const splitVertical = PhosphorDuotoneIconData(0xe877, 0xe876);
+  static const splitVertical = IconData(0xe876e877, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![spotify-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spotify-logo-duotone.svg)
-  static const spotifyLogo = PhosphorDuotoneIconData(0xe66f, 0xe66e);
+  static const spotifyLogo = IconData(0xe66ee66f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![spray-bottle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spray-bottle-duotone.svg)
-  static const sprayBottle = PhosphorDuotoneIconData(0xe7e8, 0xe7e4);
+  static const sprayBottle = IconData(0xe7e4e7e8, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-duotone.svg)
-  static const square = PhosphorDuotoneIconData(0xe45f, 0xe45e);
+  static const square = IconData(0xe45ee45f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![square-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-duotone.svg)
-  static const squareHalf = PhosphorDuotoneIconData(0xe463, 0xe462);
+  static const squareHalf = IconData(0xe462e463, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![square-half-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-bottom-duotone.svg)
-  static const squareHalfBottom = PhosphorDuotoneIconData(0xeb17, 0xeb16);
+  static const squareHalfBottom = IconData(0xeb16eb17, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![square-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-logo-duotone.svg)
-  static const squareLogo = PhosphorDuotoneIconData(0xe691, 0xe690);
+  static const squareLogo = IconData(0xe690e691, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![square-split-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-horizontal-duotone.svg)
-  static const squareSplitHorizontal = PhosphorDuotoneIconData(0xe871, 0xe870);
+  static const squareSplitHorizontal = IconData(0xe870e871, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![square-split-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-vertical-duotone.svg)
-  static const squareSplitVertical = PhosphorDuotoneIconData(0xe875, 0xe874);
+  static const squareSplitVertical = IconData(0xe874e875, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![squares-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/squares-four-duotone.svg)
-  static const squaresFour = PhosphorDuotoneIconData(0xe465, 0xe464);
+  static const squaresFour = IconData(0xe464e465, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-duotone.svg)
-  static const stack = PhosphorDuotoneIconData(0xe467, 0xe466);
+  static const stack = IconData(0xe466e467, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stack-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-minus-duotone.svg)
-  static const stackMinus = PhosphorDuotoneIconData(0xedf5, 0xedf4);
+  static const stackMinus = IconData(0xedf4edf5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stack-overflow-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-overflow-logo-duotone.svg)
-  static const stackOverflowLogo = PhosphorDuotoneIconData(0xeb79, 0xeb78);
+  static const stackOverflowLogo = IconData(0xeb78eb79, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stack-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-plus-duotone.svg)
-  static const stackPlus = PhosphorDuotoneIconData(0xedf7, 0xedf6);
+  static const stackPlus = IconData(0xedf6edf7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stack-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-simple-duotone.svg)
-  static const stackSimple = PhosphorDuotoneIconData(0xe469, 0xe468);
+  static const stackSimple = IconData(0xe468e469, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stairs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stairs-duotone.svg)
-  static const stairs = PhosphorDuotoneIconData(0xe8ed, 0xe8ec);
+  static const stairs = IconData(0xe8ece8ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stamp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stamp-duotone.svg)
-  static const stamp = PhosphorDuotoneIconData(0xea49, 0xea48);
+  static const stamp = IconData(0xea48ea49, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![standard-definition-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/standard-definition-duotone.svg)
-  static const standardDefinition = PhosphorDuotoneIconData(0xea91, 0xea90);
+  static const standardDefinition = IconData(0xea90ea91, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-duotone.svg)
-  static const star = PhosphorDuotoneIconData(0xe46b, 0xe46a);
+  static const star = IconData(0xe46ae46b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![star-and-crescent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-and-crescent-duotone.svg)
-  static const starAndCrescent = PhosphorDuotoneIconData(0xecf5, 0xecf4);
+  static const starAndCrescent = IconData(0xecf4ecf5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![star-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-four-duotone.svg)
-  static const starFour = PhosphorDuotoneIconData(0xe6a5, 0xe6a4);
+  static const starFour = IconData(0xe6a4e6a5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![star-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-half-duotone.svg)
-  static const starHalf = PhosphorDuotoneIconData(0xe70b, 0xe70a);
+  static const starHalf = IconData(0xe70ae70b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![star-of-david-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-of-david-duotone.svg)
-  static const starOfDavid = PhosphorDuotoneIconData(0xe89f, 0xe89e);
+  static const starOfDavid = IconData(0xe89ee89f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![steam-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steam-logo-duotone.svg)
-  static const steamLogo = PhosphorDuotoneIconData(0xead5, 0xead4);
+  static const steamLogo = IconData(0xead4ead5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![steering-wheel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steering-wheel-duotone.svg)
-  static const steeringWheel = PhosphorDuotoneIconData(0xe9ad, 0xe9ac);
+  static const steeringWheel = IconData(0xe9ace9ad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![steps-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steps-duotone.svg)
-  static const steps = PhosphorDuotoneIconData(0xecbf, 0xecbe);
+  static const steps = IconData(0xecbeecbf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stethoscope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stethoscope-duotone.svg)
-  static const stethoscope = PhosphorDuotoneIconData(0xe7eb, 0xe7ea);
+  static const stethoscope = IconData(0xe7eae7eb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sticker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sticker-duotone.svg)
-  static const sticker = PhosphorDuotoneIconData(0xe5ad, 0xe5ac);
+  static const sticker = IconData(0xe5ace5ad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stool-duotone.svg)
-  static const stool = PhosphorDuotoneIconData(0xea45, 0xea44);
+  static const stool = IconData(0xea44ea45, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-duotone.svg)
-  static const stop = PhosphorDuotoneIconData(0xe46d, 0xe46c);
+  static const stop = IconData(0xe46ce46d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stop-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-circle-duotone.svg)
-  static const stopCircle = PhosphorDuotoneIconData(0xe46f, 0xe46e);
+  static const stopCircle = IconData(0xe46ee46f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![storefront-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/storefront-duotone.svg)
-  static const storefront = PhosphorDuotoneIconData(0xe471, 0xe470);
+  static const storefront = IconData(0xe470e471, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![strategy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/strategy-duotone.svg)
-  static const strategy = PhosphorDuotoneIconData(0xea3b, 0xea3a);
+  static const strategy = IconData(0xea3aea3b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![stripe-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stripe-logo-duotone.svg)
-  static const stripeLogo = PhosphorDuotoneIconData(0xe699, 0xe698);
+  static const stripeLogo = IconData(0xe698e699, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![student-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/student-duotone.svg)
-  static const student = PhosphorDuotoneIconData(0xe73f, 0xe73e);
+  static const student = IconData(0xe73ee73f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![subset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-of-duotone.svg)
-  static const subsetOf = PhosphorDuotoneIconData(0xedc1, 0xedc0);
+  static const subsetOf = IconData(0xedc0edc1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![subset-proper-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-proper-of-duotone.svg)
-  static const subsetProperOf = PhosphorDuotoneIconData(0xedb7, 0xedb6);
+  static const subsetProperOf = IconData(0xedb6edb7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![subtitles-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-duotone.svg)
-  static const subtitles = PhosphorDuotoneIconData(0xe1a9, 0xe1a8);
+  static const subtitles = IconData(0xe1a8e1a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![subtitles-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-slash-duotone.svg)
-  static const subtitlesSlash = PhosphorDuotoneIconData(0xe1a7, 0xe1a6);
+  static const subtitlesSlash = IconData(0xe1a6e1a7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![subtract-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-duotone.svg)
-  static const subtract = PhosphorDuotoneIconData(0xebd7, 0xebd6);
+  static const subtract = IconData(0xebd6ebd7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![subtract-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-square-duotone.svg)
-  static const subtractSquare = PhosphorDuotoneIconData(0xebd5, 0xebd4);
+  static const subtractSquare = IconData(0xebd4ebd5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![subway-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subway-duotone.svg)
-  static const subway = PhosphorDuotoneIconData(0xe499, 0xe498);
+  static const subway = IconData(0xe498e499, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![suitcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-duotone.svg)
-  static const suitcase = PhosphorDuotoneIconData(0xe5af, 0xe5ae);
+  static const suitcase = IconData(0xe5aee5af, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![suitcase-rolling-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-rolling-duotone.svg)
-  static const suitcaseRolling = PhosphorDuotoneIconData(0xe9b1, 0xe9b0);
+  static const suitcaseRolling = IconData(0xe9b0e9b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![suitcase-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-simple-duotone.svg)
-  static const suitcaseSimple = PhosphorDuotoneIconData(0xe5b1, 0xe5b0);
+  static const suitcaseSimple = IconData(0xe5b0e5b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sun-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-duotone.svg)
-  static const sun = PhosphorDuotoneIconData(0xe473, 0xe472);
+  static const sun = IconData(0xe472e473, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sun-dim-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-dim-duotone.svg)
-  static const sunDim = PhosphorDuotoneIconData(0xe475, 0xe474);
+  static const sunDim = IconData(0xe474e475, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sun-horizon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-horizon-duotone.svg)
-  static const sunHorizon = PhosphorDuotoneIconData(0xe5b7, 0xe5b6);
+  static const sunHorizon = IconData(0xe5b6e5b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sunglasses-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sunglasses-duotone.svg)
-  static const sunglasses = PhosphorDuotoneIconData(0xe817, 0xe816);
+  static const sunglasses = IconData(0xe816e817, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![superset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-of-duotone.svg)
-  static const supersetOf = PhosphorDuotoneIconData(0xedb9, 0xedb8);
+  static const supersetOf = IconData(0xedb8edb9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![superset-proper-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-proper-of-duotone.svg)
-  static const supersetProperOf = PhosphorDuotoneIconData(0xedb5, 0xedb4);
+  static const supersetProperOf = IconData(0xedb4edb5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![swap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swap-duotone.svg)
-  static const swap = PhosphorDuotoneIconData(0xe83d, 0xe83c);
+  static const swap = IconData(0xe83ce83d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![swatches-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swatches-duotone.svg)
-  static const swatches = PhosphorDuotoneIconData(0xe5b9, 0xe5b8);
+  static const swatches = IconData(0xe5b8e5b9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![swimming-pool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swimming-pool-duotone.svg)
-  static const swimmingPool = PhosphorDuotoneIconData(0xecb7, 0xecb6);
+  static const swimmingPool = IconData(0xecb6ecb7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![sword-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sword-duotone.svg)
-  static const sword = PhosphorDuotoneIconData(0xe5bb, 0xe5ba);
+  static const sword = IconData(0xe5bae5bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![synagogue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/synagogue-duotone.svg)
-  static const synagogue = PhosphorDuotoneIconData(0xeced, 0xecec);
+  static const synagogue = IconData(0xecececed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![syringe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/syringe-duotone.svg)
-  static const syringe = PhosphorDuotoneIconData(0xe969, 0xe968);
+  static const syringe = IconData(0xe968e969, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![t-shirt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/t-shirt-duotone.svg)
-  static const tShirt = PhosphorDuotoneIconData(0xe671, 0xe670);
+  static const tShirt = IconData(0xe670e671, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![table-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/table-duotone.svg)
-  static const table = PhosphorDuotoneIconData(0xe477, 0xe476);
+  static const table = IconData(0xe476e477, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tabs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tabs-duotone.svg)
-  static const tabs = PhosphorDuotoneIconData(0xe779, 0xe778);
+  static const tabs = IconData(0xe778e779, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-duotone.svg)
-  static const tag = PhosphorDuotoneIconData(0xe479, 0xe478);
+  static const tag = IconData(0xe478e479, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tag-chevron-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-chevron-duotone.svg)
-  static const tagChevron = PhosphorDuotoneIconData(0xe673, 0xe672);
+  static const tagChevron = IconData(0xe672e673, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-simple-duotone.svg)
-  static const tagSimple = PhosphorDuotoneIconData(0xe47b, 0xe47a);
+  static const tagSimple = IconData(0xe47ae47b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![target-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/target-duotone.svg)
-  static const target = PhosphorDuotoneIconData(0xe47d, 0xe47c);
+  static const target = IconData(0xe47ce47d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![taxi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/taxi-duotone.svg)
-  static const taxi = PhosphorDuotoneIconData(0xe903, 0xe902);
+  static const taxi = IconData(0xe902e903, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tea-bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tea-bag-duotone.svg)
-  static const teaBag = PhosphorDuotoneIconData(0xe8e7, 0xe8e6);
+  static const teaBag = IconData(0xe8e6e8e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![telegram-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/telegram-logo-duotone.svg)
-  static const telegramLogo = PhosphorDuotoneIconData(0xe5bd, 0xe5bc);
+  static const telegramLogo = IconData(0xe5bce5bd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![television-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-duotone.svg)
-  static const television = PhosphorDuotoneIconData(0xe755, 0xe754);
+  static const television = IconData(0xe754e755, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![television-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-simple-duotone.svg)
-  static const televisionSimple = PhosphorDuotoneIconData(0xeae7, 0xeae6);
+  static const televisionSimple = IconData(0xeae6eae7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tennis-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tennis-ball-duotone.svg)
-  static const tennisBall = PhosphorDuotoneIconData(0xe721, 0xe720);
+  static const tennisBall = IconData(0xe720e721, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tent-duotone.svg)
-  static const tent = PhosphorDuotoneIconData(0xe8bb, 0xe8ba);
+  static const tent = IconData(0xe8bae8bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![terminal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-duotone.svg)
-  static const terminal = PhosphorDuotoneIconData(0xe47f, 0xe47e);
+  static const terminal = IconData(0xe47ee47f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![terminal-window-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-window-duotone.svg)
-  static const terminalWindow = PhosphorDuotoneIconData(0xeae9, 0xeae8);
+  static const terminalWindow = IconData(0xeae8eae9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![test-tube-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/test-tube-duotone.svg)
-  static const testTube = PhosphorDuotoneIconData(0xe7a1, 0xe7a0);
+  static const testTube = IconData(0xe7a0e7a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-a-underline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-a-underline-duotone.svg)
-  static const textAUnderline = PhosphorDuotoneIconData(0xed35, 0xed34);
+  static const textAUnderline = IconData(0xed34ed35, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-aa-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-aa-duotone.svg)
-  static const textAa = PhosphorDuotoneIconData(0xe6ef, 0xe6ee);
+  static const textAa = IconData(0xe6eee6ef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-align-center-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-center-duotone.svg)
-  static const textAlignCenter = PhosphorDuotoneIconData(0xe481, 0xe480);
+  static const textAlignCenter = IconData(0xe480e481, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-align-justify-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-justify-duotone.svg)
-  static const textAlignJustify = PhosphorDuotoneIconData(0xe483, 0xe482);
+  static const textAlignJustify = IconData(0xe482e483, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-align-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-left-duotone.svg)
-  static const textAlignLeft = PhosphorDuotoneIconData(0xe485, 0xe484);
+  static const textAlignLeft = IconData(0xe484e485, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-align-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-right-duotone.svg)
-  static const textAlignRight = PhosphorDuotoneIconData(0xe487, 0xe486);
+  static const textAlignRight = IconData(0xe486e487, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-b-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-b-duotone.svg)
-  static const textB = PhosphorDuotoneIconData(0xe5bf, 0xe5be);
+  static const textB = IconData(0xe5bee5bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-columns-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-columns-duotone.svg)
-  static const textColumns = PhosphorDuotoneIconData(0xec97, 0xec96);
+  static const textColumns = IconData(0xec96ec97, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-h-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-duotone.svg)
-  static const textH = PhosphorDuotoneIconData(0xe6bb, 0xe6ba);
+  static const textH = IconData(0xe6bae6bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-h-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-five-duotone.svg)
-  static const textHFive = PhosphorDuotoneIconData(0xe6c5, 0xe6c4);
+  static const textHFive = IconData(0xe6c4e6c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-h-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-four-duotone.svg)
-  static const textHFour = PhosphorDuotoneIconData(0xe6c3, 0xe6c2);
+  static const textHFour = IconData(0xe6c2e6c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-h-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-one-duotone.svg)
-  static const textHOne = PhosphorDuotoneIconData(0xe6bd, 0xe6bc);
+  static const textHOne = IconData(0xe6bce6bd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-h-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-six-duotone.svg)
-  static const textHSix = PhosphorDuotoneIconData(0xe6c7, 0xe6c6);
+  static const textHSix = IconData(0xe6c6e6c7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-h-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-three-duotone.svg)
-  static const textHThree = PhosphorDuotoneIconData(0xe6c1, 0xe6c0);
+  static const textHThree = IconData(0xe6c0e6c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-h-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-two-duotone.svg)
-  static const textHTwo = PhosphorDuotoneIconData(0xe6bf, 0xe6be);
+  static const textHTwo = IconData(0xe6bee6bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-indent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-indent-duotone.svg)
-  static const textIndent = PhosphorDuotoneIconData(0xea1f, 0xea1e);
+  static const textIndent = IconData(0xea1eea1f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-italic-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-italic-duotone.svg)
-  static const textItalic = PhosphorDuotoneIconData(0xe5c1, 0xe5c0);
+  static const textItalic = IconData(0xe5c0e5c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-outdent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-outdent-duotone.svg)
-  static const textOutdent = PhosphorDuotoneIconData(0xea1d, 0xea1c);
+  static const textOutdent = IconData(0xea1cea1d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-strikethrough-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-strikethrough-duotone.svg)
-  static const textStrikethrough = PhosphorDuotoneIconData(0xe5c3, 0xe5c2);
+  static const textStrikethrough = IconData(0xe5c2e5c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-subscript-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-subscript-duotone.svg)
-  static const textSubscript = PhosphorDuotoneIconData(0xec99, 0xec98);
+  static const textSubscript = IconData(0xec98ec99, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-superscript-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-superscript-duotone.svg)
-  static const textSuperscript = PhosphorDuotoneIconData(0xec9b, 0xec9a);
+  static const textSuperscript = IconData(0xec9aec9b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-t-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-duotone.svg)
-  static const textT = PhosphorDuotoneIconData(0xe48b, 0xe48a);
+  static const textT = IconData(0xe48ae48b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-t-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-slash-duotone.svg)
-  static const textTSlash = PhosphorDuotoneIconData(0xe489, 0xe488);
+  static const textTSlash = IconData(0xe488e489, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![text-underline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-underline-duotone.svg)
-  static const textUnderline = PhosphorDuotoneIconData(0xe5c5, 0xe5c4);
+  static const textUnderline = IconData(0xe5c4e5c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![textbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/textbox-duotone.svg)
-  static const textbox = PhosphorDuotoneIconData(0xeb0b, 0xeb0a);
+  static const textbox = IconData(0xeb0aeb0b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![thermometer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-duotone.svg)
-  static const thermometer = PhosphorDuotoneIconData(0xe5c7, 0xe5c6);
+  static const thermometer = IconData(0xe5c6e5c7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![thermometer-cold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-cold-duotone.svg)
-  static const thermometerCold = PhosphorDuotoneIconData(0xe5c9, 0xe5c8);
+  static const thermometerCold = IconData(0xe5c8e5c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![thermometer-hot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-hot-duotone.svg)
-  static const thermometerHot = PhosphorDuotoneIconData(0xe5cb, 0xe5ca);
+  static const thermometerHot = IconData(0xe5cae5cb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![thermometer-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-simple-duotone.svg)
-  static const thermometerSimple = PhosphorDuotoneIconData(0xe5cd, 0xe5cc);
+  static const thermometerSimple = IconData(0xe5cce5cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![threads-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/threads-logo-duotone.svg)
-  static const threadsLogo = PhosphorDuotoneIconData(0xed9f, 0xed9e);
+  static const threadsLogo = IconData(0xed9eed9f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![three-d-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/three-d-duotone.svg)
-  static const threeD = PhosphorDuotoneIconData(0xea5b, 0xea5a);
+  static const threeD = IconData(0xea5aea5b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![thumbs-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-down-duotone.svg)
-  static const thumbsDown = PhosphorDuotoneIconData(0xe48d, 0xe48c);
+  static const thumbsDown = IconData(0xe48ce48d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![thumbs-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-up-duotone.svg)
-  static const thumbsUp = PhosphorDuotoneIconData(0xe48f, 0xe48e);
+  static const thumbsUp = IconData(0xe48ee48f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![ticket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ticket-duotone.svg)
-  static const ticket = PhosphorDuotoneIconData(0xe491, 0xe490);
+  static const ticket = IconData(0xe490e491, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tidal-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tidal-logo-duotone.svg)
-  static const tidalLogo = PhosphorDuotoneIconData(0xed1d, 0xed1c);
+  static const tidalLogo = IconData(0xed1ced1d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tiktok-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tiktok-logo-duotone.svg)
-  static const tiktokLogo = PhosphorDuotoneIconData(0xeaf3, 0xeaf2);
+  static const tiktokLogo = IconData(0xeaf2eaf3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tilde-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tilde-duotone.svg)
-  static const tilde = PhosphorDuotoneIconData(0xeda9, 0xeda8);
+  static const tilde = IconData(0xeda8eda9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![timer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/timer-duotone.svg)
-  static const timer = PhosphorDuotoneIconData(0xe493, 0xe492);
+  static const timer = IconData(0xe492e493, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tip-jar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tip-jar-duotone.svg)
-  static const tipJar = PhosphorDuotoneIconData(0xe7e9, 0xe7e2);
+  static const tipJar = IconData(0xe7e2e7e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tipi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tipi-duotone.svg)
-  static const tipi = PhosphorDuotoneIconData(0xed31, 0xed30);
+  static const tipi = IconData(0xed30ed31, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tire-duotone.svg)
-  static const tire = PhosphorDuotoneIconData(0xedd3, 0xedd2);
+  static const tire = IconData(0xedd2edd3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![toggle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-left-duotone.svg)
-  static const toggleLeft = PhosphorDuotoneIconData(0xe675, 0xe674);
+  static const toggleLeft = IconData(0xe674e675, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![toggle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-right-duotone.svg)
-  static const toggleRight = PhosphorDuotoneIconData(0xe677, 0xe676);
+  static const toggleRight = IconData(0xe676e677, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![toilet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-duotone.svg)
-  static const toilet = PhosphorDuotoneIconData(0xe79b, 0xe79a);
+  static const toilet = IconData(0xe79ae79b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![toilet-paper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-paper-duotone.svg)
-  static const toiletPaper = PhosphorDuotoneIconData(0xe79d, 0xe79c);
+  static const toiletPaper = IconData(0xe79ce79d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![toolbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toolbox-duotone.svg)
-  static const toolbox = PhosphorDuotoneIconData(0xeca1, 0xeca0);
+  static const toolbox = IconData(0xeca0eca1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tooth-duotone.svg)
-  static const tooth = PhosphorDuotoneIconData(0xe9cd, 0xe9cc);
+  static const tooth = IconData(0xe9cce9cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tornado-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tornado-duotone.svg)
-  static const tornado = PhosphorDuotoneIconData(0xe88d, 0xe88c);
+  static const tornado = IconData(0xe88ce88d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tote-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-duotone.svg)
-  static const tote = PhosphorDuotoneIconData(0xe495, 0xe494);
+  static const tote = IconData(0xe494e495, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tote-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-simple-duotone.svg)
-  static const toteSimple = PhosphorDuotoneIconData(0xe679, 0xe678);
+  static const toteSimple = IconData(0xe678e679, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![towel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/towel-duotone.svg)
-  static const towel = PhosphorDuotoneIconData(0xede7, 0xede6);
+  static const towel = IconData(0xede6ede7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tractor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tractor-duotone.svg)
-  static const tractor = PhosphorDuotoneIconData(0xec6f, 0xec6e);
+  static const tractor = IconData(0xec6eec6f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trademark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-duotone.svg)
-  static const trademark = PhosphorDuotoneIconData(0xe9f1, 0xe9f0);
+  static const trademark = IconData(0xe9f0e9f1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trademark-registered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-registered-duotone.svg)
-  static const trademarkRegistered = PhosphorDuotoneIconData(0xe415, 0xe3f4);
+  static const trademarkRegistered = IconData(0xe3f4e415, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![traffic-cone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-cone-duotone.svg)
-  static const trafficCone = PhosphorDuotoneIconData(0xe9a9, 0xe9a8);
+  static const trafficCone = IconData(0xe9a8e9a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![traffic-sign-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-sign-duotone.svg)
-  static const trafficSign = PhosphorDuotoneIconData(0xe67b, 0xe67a);
+  static const trafficSign = IconData(0xe67ae67b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![traffic-signal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-signal-duotone.svg)
-  static const trafficSignal = PhosphorDuotoneIconData(0xe9ab, 0xe9aa);
+  static const trafficSignal = IconData(0xe9aae9ab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![train-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-duotone.svg)
-  static const train = PhosphorDuotoneIconData(0xe497, 0xe496);
+  static const train = IconData(0xe496e497, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![train-regional-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-regional-duotone.svg)
-  static const trainRegional = PhosphorDuotoneIconData(0xe49f, 0xe49e);
+  static const trainRegional = IconData(0xe49ee49f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![train-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-simple-duotone.svg)
-  static const trainSimple = PhosphorDuotoneIconData(0xe4a1, 0xe4a0);
+  static const trainSimple = IconData(0xe4a0e4a1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tram-duotone.svg)
-  static const tram = PhosphorDuotoneIconData(0xe9ed, 0xe9ec);
+  static const tram = IconData(0xe9ece9ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![translate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/translate-duotone.svg)
-  static const translate = PhosphorDuotoneIconData(0xe4a3, 0xe4a2);
+  static const translate = IconData(0xe4a2e4a3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-duotone.svg)
-  static const trash = PhosphorDuotoneIconData(0xe4a7, 0xe4a6);
+  static const trash = IconData(0xe4a6e4a7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trash-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-simple-duotone.svg)
-  static const trashSimple = PhosphorDuotoneIconData(0xe4a9, 0xe4a8);
+  static const trashSimple = IconData(0xe4a8e4a9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tray-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-duotone.svg)
-  static const tray = PhosphorDuotoneIconData(0xe4ab, 0xe4aa);
+  static const tray = IconData(0xe4aae4ab, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tray-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-down-duotone.svg)
-  static const trayArrowDown = PhosphorDuotoneIconData(0xe011, 0xe010);
+  static const trayArrowDown = IconData(0xe010e011, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tray-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-up-duotone.svg)
-  static const trayArrowUp = PhosphorDuotoneIconData(0xee53, 0xee52);
+  static const trayArrowUp = IconData(0xee52ee53, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![treasure-chest-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/treasure-chest-duotone.svg)
-  static const treasureChest = PhosphorDuotoneIconData(0xede3, 0xede2);
+  static const treasureChest = IconData(0xede2ede3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tree-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-duotone.svg)
-  static const tree = PhosphorDuotoneIconData(0xe6db, 0xe6da);
+  static const tree = IconData(0xe6dae6db, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tree-evergreen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-evergreen-duotone.svg)
-  static const treeEvergreen = PhosphorDuotoneIconData(0xe6dd, 0xe6dc);
+  static const treeEvergreen = IconData(0xe6dce6dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tree-palm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-palm-duotone.svg)
-  static const treePalm = PhosphorDuotoneIconData(0xe91b, 0xe91a);
+  static const treePalm = IconData(0xe91ae91b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tree-structure-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-structure-duotone.svg)
-  static const treeStructure = PhosphorDuotoneIconData(0xe67d, 0xe67c);
+  static const treeStructure = IconData(0xe67ce67d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tree-view-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-view-duotone.svg)
-  static const treeView = PhosphorDuotoneIconData(0xee49, 0xee48);
+  static const treeView = IconData(0xee48ee49, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trend-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-down-duotone.svg)
-  static const trendDown = PhosphorDuotoneIconData(0xe4ad, 0xe4ac);
+  static const trendDown = IconData(0xe4ace4ad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trend-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-up-duotone.svg)
-  static const trendUp = PhosphorDuotoneIconData(0xe4af, 0xe4ae);
+  static const trendUp = IconData(0xe4aee4af, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![triangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-duotone.svg)
-  static const triangle = PhosphorDuotoneIconData(0xe4b1, 0xe4b0);
+  static const triangle = IconData(0xe4b0e4b1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![triangle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-dashed-duotone.svg)
-  static const triangleDashed = PhosphorDuotoneIconData(0xe4b3, 0xe4b2);
+  static const triangleDashed = IconData(0xe4b2e4b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trolley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-duotone.svg)
-  static const trolley = PhosphorDuotoneIconData(0xe5b3, 0xe5b2);
+  static const trolley = IconData(0xe5b2e5b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trolley-suitcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-suitcase-duotone.svg)
-  static const trolleySuitcase = PhosphorDuotoneIconData(0xe5b5, 0xe5b4);
+  static const trolleySuitcase = IconData(0xe5b4e5b5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![trophy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trophy-duotone.svg)
-  static const trophy = PhosphorDuotoneIconData(0xe67f, 0xe67e);
+  static const trophy = IconData(0xe67ee67f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![truck-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-duotone.svg)
-  static const truck = PhosphorDuotoneIconData(0xe4b5, 0xe4b4);
+  static const truck = IconData(0xe4b4e4b5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![truck-trailer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-trailer-duotone.svg)
-  static const truckTrailer = PhosphorDuotoneIconData(0xe4b7, 0xe4b6);
+  static const truckTrailer = IconData(0xe4b6e4b7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![tumblr-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tumblr-logo-duotone.svg)
-  static const tumblrLogo = PhosphorDuotoneIconData(0xe8d5, 0xe8d4);
+  static const tumblrLogo = IconData(0xe8d4e8d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![twitch-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitch-logo-duotone.svg)
-  static const twitchLogo = PhosphorDuotoneIconData(0xe5cf, 0xe5ce);
+  static const twitchLogo = IconData(0xe5cee5cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![twitter-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitter-logo-duotone.svg)
-  static const twitterLogo = PhosphorDuotoneIconData(0xe4bb, 0xe4ba);
+  static const twitterLogo = IconData(0xe4bae4bb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![umbrella-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-duotone.svg)
-  static const umbrella = PhosphorDuotoneIconData(0xe685, 0xe684);
+  static const umbrella = IconData(0xe684e685, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![umbrella-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-simple-duotone.svg)
-  static const umbrellaSimple = PhosphorDuotoneIconData(0xe687, 0xe686);
+  static const umbrellaSimple = IconData(0xe686e687, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![union-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/union-duotone.svg)
-  static const union = PhosphorDuotoneIconData(0xedbf, 0xedbe);
+  static const union = IconData(0xedbeedbf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![unite-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-duotone.svg)
-  static const unite = PhosphorDuotoneIconData(0xe87f, 0xe87e);
+  static const unite = IconData(0xe87ee87f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![unite-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-square-duotone.svg)
-  static const uniteSquare = PhosphorDuotoneIconData(0xe879, 0xe878);
+  static const uniteSquare = IconData(0xe878e879, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![upload-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-duotone.svg)
-  static const upload = PhosphorDuotoneIconData(0xe4bf, 0xe4be);
+  static const upload = IconData(0xe4bee4bf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![upload-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-simple-duotone.svg)
-  static const uploadSimple = PhosphorDuotoneIconData(0xe4c1, 0xe4c0);
+  static const uploadSimple = IconData(0xe4c0e4c1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![usb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/usb-duotone.svg)
-  static const usb = PhosphorDuotoneIconData(0xe957, 0xe956);
+  static const usb = IconData(0xe956e957, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-duotone.svg)
-  static const user = PhosphorDuotoneIconData(0xe4c3, 0xe4c2);
+  static const user = IconData(0xe4c2e4c3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-check-duotone.svg)
-  static const userCheck = PhosphorDuotoneIconData(0xeafb, 0xeafa);
+  static const userCheck = IconData(0xeafaeafb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-duotone.svg)
-  static const userCircle = PhosphorDuotoneIconData(0xe4c5, 0xe4c4);
+  static const userCircle = IconData(0xe4c4e4c5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-circle-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-check-duotone.svg)
-  static const userCircleCheck = PhosphorDuotoneIconData(0xec39, 0xec38);
+  static const userCircleCheck = IconData(0xec38ec39, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-circle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-dashed-duotone.svg)
-  static const userCircleDashed = PhosphorDuotoneIconData(0xec37, 0xec36);
+  static const userCircleDashed = IconData(0xec36ec37, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-circle-gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-gear-duotone.svg)
-  static const userCircleGear = PhosphorDuotoneIconData(0xe4c7, 0xe4c6);
+  static const userCircleGear = IconData(0xe4c6e4c7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-circle-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-minus-duotone.svg)
-  static const userCircleMinus = PhosphorDuotoneIconData(0xe4c9, 0xe4c8);
+  static const userCircleMinus = IconData(0xe4c8e4c9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-circle-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-plus-duotone.svg)
-  static const userCirclePlus = PhosphorDuotoneIconData(0xe4cb, 0xe4ca);
+  static const userCirclePlus = IconData(0xe4cae4cb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-focus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-focus-duotone.svg)
-  static const userFocus = PhosphorDuotoneIconData(0xe6fd, 0xe6fc);
+  static const userFocus = IconData(0xe6fce6fd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-gear-duotone.svg)
-  static const userGear = PhosphorDuotoneIconData(0xe4cd, 0xe4cc);
+  static const userGear = IconData(0xe4cce4cd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-list-duotone.svg)
-  static const userList = PhosphorDuotoneIconData(0xe73d, 0xe73c);
+  static const userList = IconData(0xe73ce73d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-minus-duotone.svg)
-  static const userMinus = PhosphorDuotoneIconData(0xe4cf, 0xe4ce);
+  static const userMinus = IconData(0xe4cee4cf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-plus-duotone.svg)
-  static const userPlus = PhosphorDuotoneIconData(0xe4d1, 0xe4d0);
+  static const userPlus = IconData(0xe4d0e4d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-rectangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-rectangle-duotone.svg)
-  static const userRectangle = PhosphorDuotoneIconData(0xe4d3, 0xe4d2);
+  static const userRectangle = IconData(0xe4d2e4d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-sound-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-sound-duotone.svg)
-  static const userSound = PhosphorDuotoneIconData(0xeca9, 0xeca8);
+  static const userSound = IconData(0xeca8eca9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-square-duotone.svg)
-  static const userSquare = PhosphorDuotoneIconData(0xe4d5, 0xe4d4);
+  static const userSquare = IconData(0xe4d4e4d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![user-switch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-switch-duotone.svg)
-  static const userSwitch = PhosphorDuotoneIconData(0xe757, 0xe756);
+  static const userSwitch = IconData(0xe756e757, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![users-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-duotone.svg)
-  static const users = PhosphorDuotoneIconData(0xe4d7, 0xe4d6);
+  static const users = IconData(0xe4d6e4d7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![users-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-four-duotone.svg)
-  static const usersFour = PhosphorDuotoneIconData(0xe68d, 0xe68c);
+  static const usersFour = IconData(0xe68ce68d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![users-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-three-duotone.svg)
-  static const usersThree = PhosphorDuotoneIconData(0xe68f, 0xe68e);
+  static const usersThree = IconData(0xe68ee68f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![van-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/van-duotone.svg)
-  static const van = PhosphorDuotoneIconData(0xe827, 0xe826);
+  static const van = IconData(0xe826e827, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![vault-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vault-duotone.svg)
-  static const vault = PhosphorDuotoneIconData(0xe76f, 0xe76e);
+  static const vault = IconData(0xe76ee76f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![vector-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-three-duotone.svg)
-  static const vectorThree = PhosphorDuotoneIconData(0xee63, 0xee62);
+  static const vectorThree = IconData(0xee62ee63, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![vector-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-two-duotone.svg)
-  static const vectorTwo = PhosphorDuotoneIconData(0xee65, 0xee64);
+  static const vectorTwo = IconData(0xee64ee65, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![vibrate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vibrate-duotone.svg)
-  static const vibrate = PhosphorDuotoneIconData(0xe4d9, 0xe4d8);
+  static const vibrate = IconData(0xe4d8e4d9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![video-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-duotone.svg)
-  static const video = PhosphorDuotoneIconData(0xe741, 0xe740);
+  static const video = IconData(0xe740e741, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![video-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-duotone.svg)
-  static const videoCamera = PhosphorDuotoneIconData(0xe4db, 0xe4da);
+  static const videoCamera = IconData(0xe4dae4db, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![video-camera-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-slash-duotone.svg)
-  static const videoCameraSlash = PhosphorDuotoneIconData(0xe4dd, 0xe4dc);
+  static const videoCameraSlash = IconData(0xe4dce4dd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![video-conference-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-conference-duotone.svg)
-  static const videoConference = PhosphorDuotoneIconData(0xedcf, 0xedce);
+  static const videoConference = IconData(0xedceedcf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![vignette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vignette-duotone.svg)
-  static const vignette = PhosphorDuotoneIconData(0xeba3, 0xeba2);
+  static const vignette = IconData(0xeba2eba3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![vinyl-record-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vinyl-record-duotone.svg)
-  static const vinylRecord = PhosphorDuotoneIconData(0xecad, 0xecac);
+  static const vinylRecord = IconData(0xecacecad, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![virtual-reality-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virtual-reality-duotone.svg)
-  static const virtualReality = PhosphorDuotoneIconData(0xe7b9, 0xe7b8);
+  static const virtualReality = IconData(0xe7b8e7b9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![virus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virus-duotone.svg)
-  static const virus = PhosphorDuotoneIconData(0xe7d7, 0xe7d6);
+  static const virus = IconData(0xe7d6e7d7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![visor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/visor-duotone.svg)
-  static const visor = PhosphorDuotoneIconData(0xee2b, 0xee2a);
+  static const visor = IconData(0xee2aee2b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![voicemail-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/voicemail-duotone.svg)
-  static const voicemail = PhosphorDuotoneIconData(0xe4df, 0xe4de);
+  static const voicemail = IconData(0xe4dee4df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![volleyball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/volleyball-duotone.svg)
-  static const volleyball = PhosphorDuotoneIconData(0xe727, 0xe726);
+  static const volleyball = IconData(0xe726e727, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wall-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wall-duotone.svg)
-  static const wall = PhosphorDuotoneIconData(0xe689, 0xe688);
+  static const wall = IconData(0xe688e689, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wallet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wallet-duotone.svg)
-  static const wallet = PhosphorDuotoneIconData(0xe68b, 0xe68a);
+  static const wallet = IconData(0xe68ae68b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![warehouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warehouse-duotone.svg)
-  static const warehouse = PhosphorDuotoneIconData(0xecd5, 0xecd4);
+  static const warehouse = IconData(0xecd4ecd5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-duotone.svg)
-  static const warning = PhosphorDuotoneIconData(0xe4e1, 0xe4e0);
+  static const warning = IconData(0xe4e0e4e1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![warning-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-circle-duotone.svg)
-  static const warningCircle = PhosphorDuotoneIconData(0xe4e3, 0xe4e2);
+  static const warningCircle = IconData(0xe4e2e4e3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![warning-diamond-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-diamond-duotone.svg)
-  static const warningDiamond = PhosphorDuotoneIconData(0xe7fd, 0xe7fc);
+  static const warningDiamond = IconData(0xe7fce7fd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![warning-octagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-octagon-duotone.svg)
-  static const warningOctagon = PhosphorDuotoneIconData(0xe4e5, 0xe4e4);
+  static const warningOctagon = IconData(0xe4e4e4e5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![washing-machine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/washing-machine-duotone.svg)
-  static const washingMachine = PhosphorDuotoneIconData(0xede9, 0xede8);
+  static const washingMachine = IconData(0xede8ede9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![watch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/watch-duotone.svg)
-  static const watch = PhosphorDuotoneIconData(0xe4e7, 0xe4e6);
+  static const watch = IconData(0xe4e6e4e7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wave-sawtooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sawtooth-duotone.svg)
-  static const waveSawtooth = PhosphorDuotoneIconData(0xea9d, 0xea9c);
+  static const waveSawtooth = IconData(0xea9cea9d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wave-sine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sine-duotone.svg)
-  static const waveSine = PhosphorDuotoneIconData(0xea9b, 0xea9a);
+  static const waveSine = IconData(0xea9aea9b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wave-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-square-duotone.svg)
-  static const waveSquare = PhosphorDuotoneIconData(0xea9f, 0xea9e);
+  static const waveSquare = IconData(0xea9eea9f, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wave-triangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-triangle-duotone.svg)
-  static const waveTriangle = PhosphorDuotoneIconData(0xeaa1, 0xeaa0);
+  static const waveTriangle = IconData(0xeaa0eaa1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![waveform-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-duotone.svg)
-  static const waveform = PhosphorDuotoneIconData(0xe803, 0xe802);
+  static const waveform = IconData(0xe802e803, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![waveform-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-slash-duotone.svg)
-  static const waveformSlash = PhosphorDuotoneIconData(0xe801, 0xe800);
+  static const waveformSlash = IconData(0xe800e801, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![waves-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waves-duotone.svg)
-  static const waves = PhosphorDuotoneIconData(0xe6df, 0xe6de);
+  static const waves = IconData(0xe6dee6df, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![webcam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-duotone.svg)
-  static const webcam = PhosphorDuotoneIconData(0xe9b3, 0xe9b2);
+  static const webcam = IconData(0xe9b2e9b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![webcam-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-slash-duotone.svg)
-  static const webcamSlash = PhosphorDuotoneIconData(0xecdd, 0xecdc);
+  static const webcamSlash = IconData(0xecdcecdd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![webhooks-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webhooks-logo-duotone.svg)
-  static const webhooksLogo = PhosphorDuotoneIconData(0xecaf, 0xecae);
+  static const webhooksLogo = IconData(0xecaeecaf, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wechat-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wechat-logo-duotone.svg)
-  static const wechatLogo = PhosphorDuotoneIconData(0xe8d3, 0xe8d2);
+  static const wechatLogo = IconData(0xe8d2e8d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![whatsapp-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/whatsapp-logo-duotone.svg)
-  static const whatsappLogo = PhosphorDuotoneIconData(0xe5d1, 0xe5d0);
+  static const whatsappLogo = IconData(0xe5d0e5d1, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wheelchair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-duotone.svg)
-  static const wheelchair = PhosphorDuotoneIconData(0xe4e9, 0xe4e8);
+  static const wheelchair = IconData(0xe4e8e4e9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wheelchair-motion-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-motion-duotone.svg)
-  static const wheelchairMotion = PhosphorDuotoneIconData(0xe89b, 0xe89a);
+  static const wheelchairMotion = IconData(0xe89ae89b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wifi-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-high-duotone.svg)
-  static const wifiHigh = PhosphorDuotoneIconData(0xe4eb, 0xe4ea);
+  static const wifiHigh = IconData(0xe4eae4eb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wifi-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-low-duotone.svg)
-  static const wifiLow = PhosphorDuotoneIconData(0xe4ed, 0xe4ec);
+  static const wifiLow = IconData(0xe4ece4ed, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wifi-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-medium-duotone.svg)
-  static const wifiMedium = PhosphorDuotoneIconData(0xe4ef, 0xe4ee);
+  static const wifiMedium = IconData(0xe4eee4ef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wifi-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-none-duotone.svg)
   static const wifiNone = PhosphorFlatIconData(0xe4f0, 'Duotone');
 
   /// ![wifi-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-slash-duotone.svg)
-  static const wifiSlash = PhosphorDuotoneIconData(0xe4f3, 0xe4f2);
+  static const wifiSlash = IconData(0xe4f2e4f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wifi-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-x-duotone.svg)
-  static const wifiX = PhosphorDuotoneIconData(0xe4f5, 0xe4f4);
+  static const wifiX = IconData(0xe4f4e4f5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wind-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wind-duotone.svg)
-  static const wind = PhosphorDuotoneIconData(0xe5d3, 0xe5d2);
+  static const wind = IconData(0xe5d2e5d3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![windmill-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windmill-duotone.svg)
-  static const windmill = PhosphorDuotoneIconData(0xe9f9, 0xe9f8);
+  static const windmill = IconData(0xe9f8e9f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![windows-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windows-logo-duotone.svg)
-  static const windowsLogo = PhosphorDuotoneIconData(0xe693, 0xe692);
+  static const windowsLogo = IconData(0xe692e693, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wine-duotone.svg)
-  static const wine = PhosphorDuotoneIconData(0xe6b3, 0xe6b2);
+  static const wine = IconData(0xe6b2e6b3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wrench-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wrench-duotone.svg)
-  static const wrench = PhosphorDuotoneIconData(0xe5d5, 0xe5d4);
+  static const wrench = IconData(0xe5d4e5d5, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-duotone.svg)
-  static const x = PhosphorDuotoneIconData(0xe4f7, 0xe4f6);
+  static const x = IconData(0xe4f6e4f7, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![x-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-circle-duotone.svg)
-  static const xCircle = PhosphorDuotoneIconData(0xe4f9, 0xe4f8);
+  static const xCircle = IconData(0xe4f8e4f9, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![x-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-logo-duotone.svg)
-  static const xLogo = PhosphorDuotoneIconData(0xe4bd, 0xe4bc);
+  static const xLogo = IconData(0xe4bce4bd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![x-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-square-duotone.svg)
-  static const xSquare = PhosphorDuotoneIconData(0xe4fb, 0xe4fa);
+  static const xSquare = IconData(0xe4fae4fb, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![yarn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yarn-duotone.svg)
-  static const yarn = PhosphorDuotoneIconData(0xed9b, 0xed9a);
+  static const yarn = IconData(0xed9aed9b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![yin-yang-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yin-yang-duotone.svg)
-  static const yinYang = PhosphorDuotoneIconData(0xe92b, 0xe92a);
+  static const yinYang = IconData(0xe92ae92b, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![youtube-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/youtube-logo-duotone.svg)
-  static const youtubeLogo = PhosphorDuotoneIconData(0xe4fd, 0xe4fc);
+  static const youtubeLogo = IconData(0xe4fce4fd, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 }
