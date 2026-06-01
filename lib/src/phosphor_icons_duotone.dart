@@ -944,7 +944,7 @@ class PhosphorIconsDuotone {
   static const cellSignalMedium = IconData(0xe148e149, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-signal-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-none-duotone.svg)
-  static const cellSignalNone = PhosphorFlatIconData(0xe14a, 'Duotone');
+  static const cellSignalNone = IconData(0xe14a, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![cell-signal-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-slash-duotone.svg)
   static const cellSignalSlash = IconData(0xe14ce14d, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
@@ -4499,7 +4499,7 @@ class PhosphorIconsDuotone {
   static const wifiMedium = IconData(0xe4eee4ef, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wifi-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-none-duotone.svg)
-  static const wifiNone = PhosphorFlatIconData(0xe4f0, 'Duotone');
+  static const wifiNone = IconData(0xe4f0, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
 
   /// ![wifi-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-slash-duotone.svg)
   static const wifiSlash = IconData(0xe4f2e4f3, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true);
